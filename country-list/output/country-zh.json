@@ -1,0 +1,2107 @@
+[
+  {
+    "index": "A",
+    "items": [
+      {
+        "regionName": "阿尔巴尼亚",
+        "regionCode": "AL",
+        "callingCode": "+355",
+        "regionFlag": "🇦🇱",
+        "index": "A",
+        "syllables": "AERBANIYA"
+      },
+      {
+        "regionCode": "DZ",
+        "regionFlag": "🇩🇿",
+        "callingCode": "+213",
+        "regionName": "阿尔及利亚",
+        "index": "A",
+        "syllables": "AERJILIYA"
+      },
+      {
+        "regionFlag": "🇦🇫",
+        "regionCode": "AF",
+        "callingCode": "+93",
+        "regionName": "阿富汗",
+        "index": "A",
+        "syllables": "AFUHAN"
+      },
+      {
+        "regionCode": "AR",
+        "regionName": "阿根廷",
+        "regionFlag": "🇦🇷",
+        "callingCode": "+54",
+        "index": "A",
+        "syllables": "AGENTING"
+      },
+      {
+        "callingCode": "+353",
+        "regionName": "爱尔兰",
+        "regionCode": "IE",
+        "regionFlag": "🇮🇪",
+        "index": "A",
+        "syllables": "AIERLAN"
+      },
+      {
+        "regionFlag": "🇪🇬",
+        "regionCode": "EG",
+        "regionName": "埃及",
+        "callingCode": "+20",
+        "index": "A",
+        "syllables": "AIJI"
+      },
+      {
+        "callingCode": "+251",
+        "regionFlag": "🇪🇹",
+        "regionCode": "ET",
+        "regionName": "埃塞俄比亚",
+        "index": "A",
+        "syllables": "AISAIEBIYA"
+      },
+      {
+        "callingCode": "+372",
+        "regionName": "爱沙尼亚",
+        "regionCode": "EE",
+        "regionFlag": "🇪🇪",
+        "index": "A",
+        "syllables": "AISHANIYA"
+      },
+      {
+        "regionCode": "AE",
+        "callingCode": "+971",
+        "regionFlag": "🇦🇪",
+        "regionName": "阿拉伯联合酋长国",
+        "index": "A",
+        "syllables": "ALABOLIANHEQIUCHANGGUO"
+      },
+      {
+        "callingCode": "+297",
+        "regionName": "阿鲁巴",
+        "regionCode": "AW",
+        "regionFlag": "🇦🇼",
+        "index": "A",
+        "syllables": "ALUBA"
+      },
+      {
+        "callingCode": "+968",
+        "regionFlag": "🇴🇲",
+        "regionName": "阿曼",
+        "regionCode": "OM",
+        "index": "A",
+        "syllables": "AMAN"
+      },
+      {
+        "regionCode": "AD",
+        "regionFlag": "🇦🇩",
+        "regionName": "安道尔",
+        "callingCode": "+376",
+        "index": "A",
+        "syllables": "ANDAOER"
+      },
+      {
+        "regionName": "安哥拉",
+        "regionCode": "AO",
+        "callingCode": "+244",
+        "regionFlag": "🇦🇴",
+        "index": "A",
+        "syllables": "ANGELA"
+      },
+      {
+        "callingCode": "+1-264",
+        "regionCode": "AI",
+        "regionFlag": "🇦🇮",
+        "regionName": "安圭拉",
+        "index": "A",
+        "syllables": "ANGUILA"
+      },
+      {
+        "regionCode": "AG",
+        "regionName": "安提瓜和巴布达",
+        "callingCode": "+1-268",
+        "regionFlag": "🇦🇬",
+        "index": "A",
+        "syllables": "ANTIGUAHEBABUDA"
+      },
+      {
+        "regionCode": "AU",
+        "regionName": "澳大利亚",
+        "callingCode": "+61",
+        "regionFlag": "🇦🇺",
+        "index": "A",
+        "syllables": "AODALIYA"
+      },
+      {
+        "regionCode": "AT",
+        "regionFlag": "🇦🇹",
+        "callingCode": "+43",
+        "regionName": "奥地利",
+        "index": "A",
+        "syllables": "AODELI"
+      },
+      {
+        "regionName": "奥兰群岛",
+        "regionFlag": "🇦🇽",
+        "regionCode": "AX",
+        "callingCode": "+358",
+        "index": "A",
+        "syllables": "AOLANQUNDAO"
+      },
+      {
+        "callingCode": "+994",
+        "regionFlag": "🇦🇿",
+        "regionName": "阿塞拜疆",
+        "regionCode": "AZ",
+        "index": "A",
+        "syllables": "ASAIBAIJIANG"
+      },
+      {
+        "regionName": "Ascension Island",
+        "callingCode": "+247",
+        "regionCode": "AC",
+        "regionFlag": "🇦🇨",
+        "index": "A",
+        "syllables": "Ascension Island"
+      }
+    ]
+  },
+  {
+    "index": "B",
+    "items": [
+      {
+        "regionCode": "BB",
+        "regionFlag": "🇧🇧",
+        "regionName": "巴巴多斯",
+        "callingCode": "+1-246",
+        "index": "B",
+        "syllables": "BABADUOSI"
+      },
+      {
+        "regionCode": "PG",
+        "regionFlag": "🇵🇬",
+        "regionName": "巴布亚新几内亚",
+        "callingCode": "+675",
+        "index": "B",
+        "syllables": "BABUYAXINJINEIYA"
+      },
+      {
+        "regionFlag": "🇧🇸",
+        "regionCode": "BS",
+        "regionName": "巴哈马",
+        "callingCode": "+1-242",
+        "index": "B",
+        "syllables": "BAHAMA"
+      },
+      {
+        "regionCode": "BY",
+        "regionFlag": "🇧🇾",
+        "regionName": "白俄罗斯",
+        "callingCode": "+375",
+        "index": "B",
+        "syllables": "BAIELUOSI"
+      },
+      {
+        "regionName": "百慕大",
+        "callingCode": "+1-441",
+        "regionCode": "BM",
+        "regionFlag": "🇧🇲",
+        "index": "B",
+        "syllables": "BAIMUDA"
+      },
+      {
+        "callingCode": "+92",
+        "regionCode": "PK",
+        "regionFlag": "🇵🇰",
+        "regionName": "巴基斯坦",
+        "index": "B",
+        "syllables": "BAJISITAN"
+      },
+      {
+        "regionName": "巴拉圭",
+        "regionFlag": "🇵🇾",
+        "callingCode": "+595",
+        "regionCode": "PY",
+        "index": "B",
+        "syllables": "BALAGUI"
+      },
+      {
+        "callingCode": "+970",
+        "regionCode": "PS",
+        "regionFlag": "🇵🇸",
+        "regionName": "巴勒斯坦领土",
+        "index": "B",
+        "syllables": "BALEISITANLINGTU"
+      },
+      {
+        "regionName": "巴林",
+        "regionFlag": "🇧🇭",
+        "callingCode": "+973",
+        "regionCode": "BH",
+        "index": "B",
+        "syllables": "BALIN"
+      },
+      {
+        "callingCode": "+507",
+        "regionName": "巴拿马",
+        "regionFlag": "🇵🇦",
+        "regionCode": "PA",
+        "index": "B",
+        "syllables": "BANAMA"
+      },
+      {
+        "regionName": "保加利亚",
+        "callingCode": "+359",
+        "regionCode": "BG",
+        "regionFlag": "🇧🇬",
+        "index": "B",
+        "syllables": "BAOJIALIYA"
+      },
+      {
+        "regionName": "巴西",
+        "regionCode": "BR",
+        "callingCode": "+55",
+        "regionFlag": "🇧🇷",
+        "index": "B",
+        "syllables": "BAXI"
+      },
+      {
+        "regionName": "北马里亚纳群岛",
+        "regionCode": "MP",
+        "regionFlag": "🇲🇵",
+        "callingCode": "+1-670",
+        "index": "B",
+        "syllables": "BEIMALIYANAQUNDAO"
+      },
+      {
+        "regionCode": "MK",
+        "callingCode": "+389",
+        "regionName": "北马其顿",
+        "regionFlag": "🇲🇰",
+        "index": "B",
+        "syllables": "BEIMAQIDUN"
+      },
+      {
+        "regionName": "贝宁",
+        "regionFlag": "🇧🇯",
+        "regionCode": "BJ",
+        "callingCode": "+229",
+        "index": "B",
+        "syllables": "BEINING"
+      },
+      {
+        "callingCode": "+32",
+        "regionCode": "BE",
+        "regionName": "比利时",
+        "regionFlag": "🇧🇪",
+        "index": "B",
+        "syllables": "BILISHI"
+      },
+      {
+        "regionCode": "IS",
+        "regionFlag": "🇮🇸",
+        "regionName": "冰岛",
+        "callingCode": "+354",
+        "index": "B",
+        "syllables": "BINGDAO"
+      },
+      {
+        "regionFlag": "🇧🇼",
+        "regionName": "博茨瓦纳",
+        "regionCode": "BW",
+        "callingCode": "+267",
+        "index": "B",
+        "syllables": "BOCIWANA"
+      },
+      {
+        "regionName": "波多黎各",
+        "regionCode": "PR",
+        "regionFlag": "🇵🇷",
+        "callingCode": "+1-939",
+        "index": "B",
+        "syllables": "BODUOLIGE"
+      },
+      {
+        "regionCode": "PL",
+        "regionFlag": "🇵🇱",
+        "callingCode": "+48",
+        "regionName": "波兰",
+        "index": "B",
+        "syllables": "BOLAN"
+      },
+      {
+        "regionName": "玻利维亚",
+        "callingCode": "+591",
+        "regionCode": "BO",
+        "regionFlag": "🇧🇴",
+        "index": "B",
+        "syllables": "BOLIWEIYA"
+      },
+      {
+        "regionCode": "BZ",
+        "regionFlag": "🇧🇿",
+        "callingCode": "+501",
+        "regionName": "伯利兹",
+        "index": "B",
+        "syllables": "BOLIZI"
+      },
+      {
+        "regionCode": "BA",
+        "callingCode": "+387",
+        "regionFlag": "🇧🇦",
+        "regionName": "波斯尼亚和黑塞哥维那",
+        "index": "B",
+        "syllables": "BOSINIYAHEHEISAIGEWEINA"
+      },
+      {
+        "regionCode": "BT",
+        "regionName": "不丹",
+        "callingCode": "+975",
+        "regionFlag": "🇧🇹",
+        "index": "B",
+        "syllables": "BUDAN"
+      },
+      {
+        "callingCode": "+226",
+        "regionFlag": "🇧🇫",
+        "regionName": "布基纳法索",
+        "regionCode": "BF",
+        "index": "B",
+        "syllables": "BUJINAFASUO"
+      },
+      {
+        "regionFlag": "🇧🇮",
+        "regionName": "布隆迪",
+        "regionCode": "BI",
+        "callingCode": "+257",
+        "index": "B",
+        "syllables": "BULONGDI"
+      }
+    ]
+  },
+  {
+    "index": "C",
+    "items": [
+      {
+        "regionCode": "KP",
+        "regionFlag": "🇰🇵",
+        "callingCode": "+850",
+        "regionName": "朝鲜",
+        "index": "C",
+        "syllables": "CHAOXIAN"
+      },
+      {
+        "regionCode": "GQ",
+        "regionFlag": "🇬🇶",
+        "callingCode": "+240",
+        "regionName": "赤道几内亚",
+        "index": "C",
+        "syllables": "CHIDAOJINEIYA"
+      }
+    ]
+  },
+  {
+    "index": "D",
+    "items": [
+      {
+        "regionFlag": "🇩🇰",
+        "regionCode": "DK",
+        "regionName": "丹麦",
+        "callingCode": "+45",
+        "index": "D",
+        "syllables": "DANMAI"
+      },
+      {
+        "regionName": "德国",
+        "regionFlag": "🇩🇪",
+        "regionCode": "DE",
+        "callingCode": "+49",
+        "index": "D",
+        "syllables": "DEGUO"
+      },
+      {
+        "regionCode": "TL",
+        "regionName": "东帝汶",
+        "callingCode": "+670",
+        "regionFlag": "🇹🇱",
+        "index": "D",
+        "syllables": "DONGDIWEN"
+      },
+      {
+        "regionCode": "TG",
+        "regionFlag": "🇹🇬",
+        "callingCode": "+228",
+        "regionName": "多哥",
+        "index": "D",
+        "syllables": "DUOGE"
+      },
+      {
+        "regionFlag": "🇩🇴",
+        "regionCode": "DO",
+        "regionName": "多米尼加共和国",
+        "callingCode": "+1-849",
+        "index": "D",
+        "syllables": "DUOMINIJIAGONGHEGUO"
+      },
+      {
+        "callingCode": "+1-767",
+        "regionFlag": "🇩🇲",
+        "regionName": "多米尼克",
+        "regionCode": "DM",
+        "index": "D",
+        "syllables": "DUOMINIKE"
+      }
+    ]
+  },
+  {
+    "index": "E",
+    "items": [
+      {
+        "regionCode": "EC",
+        "regionName": "厄瓜多尔",
+        "callingCode": "+593",
+        "regionFlag": "🇪🇨",
+        "index": "E",
+        "syllables": "EGUADUOER"
+      },
+      {
+        "regionCode": "ER",
+        "regionFlag": "🇪🇷",
+        "callingCode": "+291",
+        "regionName": "厄立特里亚",
+        "index": "E",
+        "syllables": "ELITELIYA"
+      },
+      {
+        "regionFlag": "🇷🇺",
+        "regionName": "俄罗斯",
+        "callingCode": "+7",
+        "regionCode": "RU",
+        "index": "E",
+        "syllables": "ELUOSI"
+      }
+    ]
+  },
+  {
+    "index": "F",
+    "items": [
+      {
+        "regionCode": "FR",
+        "regionFlag": "🇫🇷",
+        "regionName": "法国",
+        "callingCode": "+33",
+        "index": "F",
+        "syllables": "FAGUO"
+      },
+      {
+        "regionCode": "FO",
+        "regionName": "法罗群岛",
+        "regionFlag": "🇫🇴",
+        "callingCode": "+298",
+        "index": "F",
+        "syllables": "FALUOQUNDAO"
+      },
+      {
+        "regionFlag": "🇻🇦",
+        "regionName": "梵蒂冈",
+        "callingCode": "+379",
+        "regionCode": "VA",
+        "index": "F",
+        "syllables": "FANDIGANG"
+      },
+      {
+        "callingCode": "+689",
+        "regionFlag": "🇵🇫",
+        "regionName": "法属波利尼西亚",
+        "regionCode": "PF",
+        "index": "F",
+        "syllables": "FASHUBOLINIXIYA"
+      },
+      {
+        "regionName": "法属圭亚那",
+        "regionFlag": "🇬🇫",
+        "callingCode": "+594",
+        "regionCode": "GF",
+        "index": "F",
+        "syllables": "FASHUGUIYANA"
+      },
+      {
+        "regionCode": "MF",
+        "regionFlag": "🇲🇫",
+        "regionName": "法属圣马丁",
+        "callingCode": "+590",
+        "index": "F",
+        "syllables": "FASHUSHENGMADING"
+      },
+      {
+        "regionCode": "FJ",
+        "regionFlag": "🇫🇯",
+        "regionName": "斐济",
+        "callingCode": "+679",
+        "index": "F",
+        "syllables": "FEIJI"
+      },
+      {
+        "regionName": "菲律宾",
+        "regionFlag": "🇵🇭",
+        "callingCode": "+63",
+        "regionCode": "PH",
+        "index": "F",
+        "syllables": "FEILVBIN"
+      },
+      {
+        "regionFlag": "🇫🇮",
+        "regionCode": "FI",
+        "callingCode": "+358",
+        "regionName": "芬兰",
+        "index": "F",
+        "syllables": "FENLAN"
+      },
+      {
+        "regionFlag": "🇨🇻",
+        "regionName": "佛得角",
+        "callingCode": "+238",
+        "regionCode": "CV",
+        "index": "F",
+        "syllables": "FUDEJIAO"
+      },
+      {
+        "regionName": "福克兰群岛",
+        "regionCode": "FK",
+        "regionFlag": "🇫🇰",
+        "callingCode": "+500",
+        "index": "F",
+        "syllables": "FUKELANQUNDAO"
+      }
+    ]
+  },
+  {
+    "index": "G",
+    "items": [
+      {
+        "regionCode": "GM",
+        "callingCode": "+220",
+        "regionFlag": "🇬🇲",
+        "regionName": "冈比亚",
+        "index": "G",
+        "syllables": "GANGBIYA"
+      },
+      {
+        "callingCode": "+242",
+        "regionName": "刚果（布）",
+        "regionCode": "CG",
+        "regionFlag": "🇨🇬",
+        "index": "G",
+        "syllables": "GANGGUO（BU）"
+      },
+      {
+        "callingCode": "+243",
+        "regionCode": "CD",
+        "regionFlag": "🇨🇩",
+        "regionName": "刚果（金）",
+        "index": "G",
+        "syllables": "GANGGUO（JIN）"
+      },
+      {
+        "regionFlag": "🇬🇱",
+        "regionCode": "GL",
+        "regionName": "格陵兰",
+        "callingCode": "+299",
+        "index": "G",
+        "syllables": "GELINGLAN"
+      },
+      {
+        "regionCode": "GD",
+        "regionName": "格林纳达",
+        "callingCode": "+1-473",
+        "regionFlag": "🇬🇩",
+        "index": "G",
+        "syllables": "GELINNADA"
+      },
+      {
+        "regionCode": "GE",
+        "regionFlag": "🇬🇪",
+        "callingCode": "+995",
+        "regionName": "格鲁吉亚",
+        "index": "G",
+        "syllables": "GELUJIYA"
+      },
+      {
+        "regionName": "哥伦比亚",
+        "regionFlag": "🇨🇴",
+        "regionCode": "CO",
+        "callingCode": "+57",
+        "index": "G",
+        "syllables": "GELUNBIYA"
+      },
+      {
+        "callingCode": "+44",
+        "regionName": "根西岛",
+        "regionCode": "GG",
+        "regionFlag": "🇬🇬",
+        "index": "G",
+        "syllables": "GENXIDAO"
+      },
+      {
+        "regionFlag": "🇨🇷",
+        "callingCode": "+506",
+        "regionName": "哥斯达黎加",
+        "regionCode": "CR",
+        "index": "G",
+        "syllables": "GESIDALIJIA"
+      },
+      {
+        "callingCode": "+590",
+        "regionCode": "GP",
+        "regionFlag": "🇬🇵",
+        "regionName": "瓜德罗普",
+        "index": "G",
+        "syllables": "GUADELUOPU"
+      },
+      {
+        "regionCode": "GU",
+        "callingCode": "+1-671",
+        "regionName": "关岛",
+        "regionFlag": "🇬🇺",
+        "index": "G",
+        "syllables": "GUANDAO"
+      },
+      {
+        "regionName": "古巴",
+        "regionFlag": "🇨🇺",
+        "regionCode": "CU",
+        "callingCode": "+53",
+        "index": "G",
+        "syllables": "GUBA"
+      },
+      {
+        "callingCode": "+595",
+        "regionName": "圭亚那",
+        "regionCode": "GY",
+        "regionFlag": "🇬🇾",
+        "index": "G",
+        "syllables": "GUIYANA"
+      }
+    ]
+  },
+  {
+    "index": "H",
+    "items": [
+      {
+        "regionFlag": "🇭🇹",
+        "regionCode": "HT",
+        "regionName": "海地",
+        "callingCode": "+509",
+        "index": "H",
+        "syllables": "HAIDE"
+      },
+      {
+        "regionFlag": "🇰🇷",
+        "callingCode": "+82",
+        "regionName": "韩国",
+        "regionCode": "KR",
+        "index": "H",
+        "syllables": "HANGUO"
+      },
+      {
+        "regionFlag": "🇰🇿",
+        "callingCode": "+7",
+        "regionName": "哈萨克斯坦",
+        "regionCode": "KZ",
+        "index": "H",
+        "syllables": "HASAKESITAN"
+      },
+      {
+        "callingCode": "+672",
+        "regionFlag": "🇭🇲",
+        "regionName": "赫德岛和麦克唐纳群岛",
+        "regionCode": "HM",
+        "index": "H",
+        "syllables": "HEDEDAOHEMAIKETANGNAQUNDAO"
+      },
+      {
+        "regionCode": "ME",
+        "regionName": "黑山",
+        "regionFlag": "🇲🇪",
+        "callingCode": "+382",
+        "index": "H",
+        "syllables": "HEISHAN"
+      },
+      {
+        "regionFlag": "🇳🇱",
+        "regionCode": "NL",
+        "regionName": "荷兰",
+        "callingCode": "+31",
+        "index": "H",
+        "syllables": "HELAN"
+      },
+      {
+        "regionName": "荷属加勒比区",
+        "callingCode": "+599",
+        "regionFlag": "🇧🇶",
+        "regionCode": "BQ",
+        "index": "H",
+        "syllables": "HESHUJIALEIBIQU"
+      },
+      {
+        "regionFlag": "🇸🇽",
+        "regionName": "荷属圣马丁",
+        "callingCode": "+1-721",
+        "regionCode": "SX",
+        "index": "H",
+        "syllables": "HESHUSHENGMADING"
+      },
+      {
+        "regionCode": "HN",
+        "callingCode": "+504",
+        "regionName": "洪都拉斯",
+        "regionFlag": "🇭🇳",
+        "index": "H",
+        "syllables": "HONGDOULASI"
+      }
+    ]
+  },
+  {
+    "index": "J",
+    "items": [
+      {
+        "callingCode": "+233",
+        "regionFlag": "🇬🇭",
+        "regionCode": "GH",
+        "regionName": "加纳",
+        "index": "J",
+        "syllables": "JIANA"
+      },
+      {
+        "callingCode": "+1",
+        "regionCode": "CA",
+        "regionName": "加拿大",
+        "regionFlag": "🇨🇦",
+        "index": "J",
+        "syllables": "JIANADA"
+      },
+      {
+        "regionFlag": "🇰🇭",
+        "regionCode": "KH",
+        "callingCode": "+855",
+        "regionName": "柬埔寨",
+        "index": "J",
+        "syllables": "JIANBUZHAI"
+      },
+      {
+        "regionFlag": "🇬🇦",
+        "callingCode": "+241",
+        "regionName": "加蓬",
+        "regionCode": "GA",
+        "index": "J",
+        "syllables": "JIAPENG"
+      },
+      {
+        "regionCode": "DJ",
+        "callingCode": "+253",
+        "regionName": "吉布提",
+        "regionFlag": "🇩🇯",
+        "index": "J",
+        "syllables": "JIBUTI"
+      },
+      {
+        "callingCode": "+420",
+        "regionFlag": "🇨🇿",
+        "regionCode": "CZ",
+        "regionName": "捷克",
+        "index": "J",
+        "syllables": "JIEKE"
+      },
+      {
+        "callingCode": "+996",
+        "regionFlag": "🇰🇬",
+        "regionName": "吉尔吉斯斯坦",
+        "regionCode": "KG",
+        "index": "J",
+        "syllables": "JIERJISISITAN"
+      },
+      {
+        "regionCode": "KI",
+        "regionName": "基里巴斯",
+        "callingCode": "+686",
+        "regionFlag": "🇰🇮",
+        "index": "J",
+        "syllables": "JILIBASI"
+      },
+      {
+        "regionName": "津巴布韦",
+        "regionCode": "ZW",
+        "regionFlag": "🇿🇼",
+        "callingCode": "+263",
+        "index": "J",
+        "syllables": "JINBABUWEI"
+      },
+      {
+        "regionName": "几内亚",
+        "regionFlag": "🇬🇳",
+        "regionCode": "GN",
+        "callingCode": "+224",
+        "index": "J",
+        "syllables": "JINEIYA"
+      },
+      {
+        "regionCode": "GW",
+        "regionName": "几内亚比绍",
+        "callingCode": "+245",
+        "regionFlag": "🇬🇼",
+        "index": "J",
+        "syllables": "JINEIYABISHAO"
+      }
+    ]
+  },
+  {
+    "index": "K",
+    "items": [
+      {
+        "callingCode": "+345",
+        "regionFlag": "🇰🇾",
+        "regionCode": "KY",
+        "regionName": "开曼群岛",
+        "index": "K",
+        "syllables": "KAIMANQUNDAO"
+      },
+      {
+        "callingCode": "+237",
+        "regionFlag": "🇨🇲",
+        "regionCode": "CM",
+        "regionName": "喀麦隆",
+        "index": "K",
+        "syllables": "KAMAILONG"
+      },
+      {
+        "regionCode": "QA",
+        "regionName": "卡塔尔",
+        "regionFlag": "🇶🇦",
+        "callingCode": "+974",
+        "index": "K",
+        "syllables": "KATAER"
+      },
+      {
+        "regionCode": "CC",
+        "regionFlag": "🇨🇨",
+        "regionName": "科科斯（基林）群岛",
+        "callingCode": "+61",
+        "index": "K",
+        "syllables": "KEKESI（JILIN）QUNDAO"
+      },
+      {
+        "regionCode": "HR",
+        "regionFlag": "🇭🇷",
+        "regionName": "克罗地亚",
+        "callingCode": "+385",
+        "index": "K",
+        "syllables": "KELUODEYA"
+      },
+      {
+        "regionName": "科摩罗",
+        "callingCode": "+269",
+        "regionFlag": "🇰🇲",
+        "regionCode": "KM",
+        "index": "K",
+        "syllables": "KEMOLUO"
+      },
+      {
+        "callingCode": "+254",
+        "regionFlag": "🇰🇪",
+        "regionName": "肯尼亚",
+        "regionCode": "KE",
+        "index": "K",
+        "syllables": "KENNIYA"
+      },
+      {
+        "callingCode": "+225",
+        "regionFlag": "🇨🇮",
+        "regionCode": "CI",
+        "regionName": "科特迪瓦",
+        "index": "K",
+        "syllables": "KETEDIWA"
+      },
+      {
+        "callingCode": "+965",
+        "regionCode": "KW",
+        "regionFlag": "🇰🇼",
+        "regionName": "科威特",
+        "index": "K",
+        "syllables": "KEWEITE"
+      },
+      {
+        "regionFlag": "🇨🇰",
+        "regionCode": "CK",
+        "regionName": "库克群岛",
+        "callingCode": "+682",
+        "index": "K",
+        "syllables": "KUKEQUNDAO"
+      },
+      {
+        "regionFlag": "🇨🇼",
+        "regionCode": "CW",
+        "regionName": "库拉索",
+        "callingCode": "+599 9",
+        "index": "K",
+        "syllables": "KULASUO"
+      },
+      {
+        "regionFlag": "🇽🇰",
+        "regionCode": "XK",
+        "regionName": "Kosovo",
+        "callingCode": "+383",
+        "index": "K",
+        "syllables": "Kosovo"
+      }
+    ]
+  },
+  {
+    "index": "L",
+    "items": [
+      {
+        "regionName": "莱索托",
+        "regionFlag": "🇱🇸",
+        "callingCode": "+266",
+        "regionCode": "LS",
+        "index": "L",
+        "syllables": "LAISUOTUO"
+      },
+      {
+        "regionName": "老挝",
+        "callingCode": "+856",
+        "regionCode": "LA",
+        "regionFlag": "🇱🇦",
+        "index": "L",
+        "syllables": "LAOWO"
+      },
+      {
+        "regionName": "拉脱维亚",
+        "regionFlag": "🇱🇻",
+        "callingCode": "+371",
+        "regionCode": "LV",
+        "index": "L",
+        "syllables": "LATUOWEIYA"
+      },
+      {
+        "regionName": "黎巴嫩",
+        "callingCode": "+961",
+        "regionFlag": "🇱🇧",
+        "regionCode": "LB",
+        "index": "L",
+        "syllables": "LIBANEN"
+      },
+      {
+        "regionName": "利比里亚",
+        "regionCode": "LR",
+        "regionFlag": "🇱🇷",
+        "callingCode": "+231",
+        "index": "L",
+        "syllables": "LIBILIYA"
+      },
+      {
+        "callingCode": "+218",
+        "regionFlag": "🇱🇾",
+        "regionCode": "LY",
+        "regionName": "利比亚",
+        "index": "L",
+        "syllables": "LIBIYA"
+      },
+      {
+        "regionFlag": "🇱🇮",
+        "regionName": "列支敦士登",
+        "regionCode": "LI",
+        "callingCode": "+423",
+        "index": "L",
+        "syllables": "LIEZHIDUNSHIDENG"
+      },
+      {
+        "regionName": "立陶宛",
+        "regionCode": "LT",
+        "callingCode": "+370",
+        "regionFlag": "🇱🇹",
+        "index": "L",
+        "syllables": "LITAOWAN"
+      },
+      {
+        "regionFlag": "🇷🇪",
+        "regionName": "留尼汪",
+        "regionCode": "RE",
+        "callingCode": "+262",
+        "index": "L",
+        "syllables": "LIUNIWANG"
+      },
+      {
+        "callingCode": "+40",
+        "regionFlag": "🇷🇴",
+        "regionName": "罗马尼亚",
+        "regionCode": "RO",
+        "index": "L",
+        "syllables": "LUOMANIYA"
+      },
+      {
+        "callingCode": "+352",
+        "regionFlag": "🇱🇺",
+        "regionName": "卢森堡",
+        "regionCode": "LU",
+        "index": "L",
+        "syllables": "LUSENBAO"
+      },
+      {
+        "regionFlag": "🇷🇼",
+        "regionName": "卢旺达",
+        "callingCode": "+250",
+        "regionCode": "RW",
+        "index": "L",
+        "syllables": "LUWANGDA"
+      }
+    ]
+  },
+  {
+    "index": "M",
+    "items": [
+      {
+        "regionName": "马达加斯加",
+        "regionFlag": "🇲🇬",
+        "regionCode": "MG",
+        "callingCode": "+261",
+        "index": "M",
+        "syllables": "MADAJIASIJIA"
+      },
+      {
+        "regionCode": "IM",
+        "callingCode": "+44",
+        "regionFlag": "🇮🇲",
+        "regionName": "马恩岛",
+        "index": "M",
+        "syllables": "MAENDAO"
+      },
+      {
+        "regionName": "马尔代夫",
+        "callingCode": "+960",
+        "regionCode": "MV",
+        "regionFlag": "🇲🇻",
+        "index": "M",
+        "syllables": "MAERDAIFU"
+      },
+      {
+        "regionFlag": "🇲🇹",
+        "regionName": "马耳他",
+        "regionCode": "MT",
+        "callingCode": "+356",
+        "index": "M",
+        "syllables": "MAERTA"
+      },
+      {
+        "regionName": "马来西亚",
+        "callingCode": "+60",
+        "regionCode": "MY",
+        "regionFlag": "🇲🇾",
+        "index": "M",
+        "syllables": "MALAIXIYA"
+      },
+      {
+        "callingCode": "+265",
+        "regionFlag": "🇲🇼",
+        "regionCode": "MW",
+        "regionName": "马拉维",
+        "index": "M",
+        "syllables": "MALAWEI"
+      },
+      {
+        "callingCode": "+223",
+        "regionCode": "ML",
+        "regionFlag": "🇲🇱",
+        "regionName": "马里",
+        "index": "M",
+        "syllables": "MALI"
+      },
+      {
+        "regionName": "毛里求斯",
+        "regionFlag": "🇲🇺",
+        "callingCode": "+230",
+        "regionCode": "MU",
+        "index": "M",
+        "syllables": "MAOLIQIUSI"
+      },
+      {
+        "regionFlag": "🇲🇷",
+        "callingCode": "+222",
+        "regionCode": "MR",
+        "regionName": "毛里塔尼亚",
+        "index": "M",
+        "syllables": "MAOLITANIYA"
+      },
+      {
+        "regionName": "马绍尔群岛",
+        "regionCode": "MH",
+        "regionFlag": "🇲🇭",
+        "callingCode": "+692",
+        "index": "M",
+        "syllables": "MASHAOERQUNDAO"
+      },
+      {
+        "regionFlag": "🇲🇶",
+        "regionName": "马提尼克",
+        "callingCode": "+596",
+        "regionCode": "MQ",
+        "index": "M",
+        "syllables": "MATINIKE"
+      },
+      {
+        "callingCode": "+262",
+        "regionName": "马约特",
+        "regionCode": "YT",
+        "regionFlag": "🇾🇹",
+        "index": "M",
+        "syllables": "MAYUETE"
+      },
+      {
+        "callingCode": "+1",
+        "regionName": "美国",
+        "regionFlag": "🇺🇸",
+        "regionCode": "US",
+        "index": "M",
+        "syllables": "MEIGUO"
+      },
+      {
+        "callingCode": "+1",
+        "regionFlag": "🇺🇸",
+        "regionCode": "UM",
+        "regionName": "美国本土外小岛屿",
+        "index": "M",
+        "syllables": "MEIGUOBENTUWAIXIAODAOYU"
+      },
+      {
+        "callingCode": "+1-684",
+        "regionName": "美属萨摩亚",
+        "regionFlag": "🇦🇸",
+        "regionCode": "AS",
+        "index": "M",
+        "syllables": "MEISHUSAMOYA"
+      },
+      {
+        "regionCode": "VI",
+        "regionFlag": "🇻🇮",
+        "regionName": "美属维尔京群岛",
+        "callingCode": "+1-340",
+        "index": "M",
+        "syllables": "MEISHUWEIERJINGQUNDAO"
+      },
+      {
+        "regionFlag": "🇲🇳",
+        "callingCode": "+976",
+        "regionName": "蒙古",
+        "regionCode": "MN",
+        "index": "M",
+        "syllables": "MENGGU"
+      },
+      {
+        "callingCode": "+880",
+        "regionCode": "BD",
+        "regionFlag": "🇧🇩",
+        "regionName": "孟加拉国",
+        "index": "M",
+        "syllables": "MENGJIALAGUO"
+      },
+      {
+        "regionName": "蒙特塞拉特",
+        "regionCode": "MS",
+        "regionFlag": "🇲🇸",
+        "callingCode": "+1-664",
+        "index": "M",
+        "syllables": "MENGTESAILATE"
+      },
+      {
+        "regionCode": "MM",
+        "regionName": "缅甸",
+        "callingCode": "+95",
+        "regionFlag": "🇲🇲",
+        "index": "M",
+        "syllables": "MIANDIAN"
+      },
+      {
+        "regionFlag": "🇫🇲",
+        "regionName": "密克罗尼西亚",
+        "callingCode": "+691",
+        "regionCode": "FM",
+        "index": "M",
+        "syllables": "MIKELUONIXIYA"
+      },
+      {
+        "regionCode": "PE",
+        "regionName": "秘鲁",
+        "callingCode": "+51",
+        "regionFlag": "🇵🇪",
+        "index": "M",
+        "syllables": "MILU"
+      },
+      {
+        "regionFlag": "🇲🇩",
+        "regionCode": "MD",
+        "regionName": "摩尔多瓦",
+        "callingCode": "+373",
+        "index": "M",
+        "syllables": "MOERDUOWA"
+      },
+      {
+        "regionCode": "MA",
+        "regionName": "摩洛哥",
+        "regionFlag": "🇲🇦",
+        "callingCode": "+212",
+        "index": "M",
+        "syllables": "MOLUOGE"
+      },
+      {
+        "regionFlag": "🇲🇨",
+        "callingCode": "+377",
+        "regionName": "摩纳哥",
+        "regionCode": "MC",
+        "index": "M",
+        "syllables": "MONAGE"
+      },
+      {
+        "regionCode": "MZ",
+        "regionFlag": "🇲🇿",
+        "callingCode": "+258",
+        "regionName": "莫桑比克",
+        "index": "M",
+        "syllables": "MOSANGBIKE"
+      },
+      {
+        "regionFlag": "🇲🇽",
+        "regionCode": "MX",
+        "regionName": "墨西哥",
+        "callingCode": "+52",
+        "index": "M",
+        "syllables": "MOXIGE"
+      }
+    ]
+  },
+  {
+    "index": "N",
+    "items": [
+      {
+        "regionFlag": "🇳🇦",
+        "regionName": "纳米比亚",
+        "callingCode": "+264",
+        "regionCode": "NA",
+        "index": "N",
+        "syllables": "NAMIBIYA"
+      },
+      {
+        "regionCode": "ZA",
+        "regionFlag": "🇿🇦",
+        "regionName": "南非",
+        "callingCode": "+27",
+        "index": "N",
+        "syllables": "NANFEI"
+      },
+      {
+        "regionFlag": "🇦🇶",
+        "regionName": "南极洲",
+        "callingCode": "+672",
+        "regionCode": "AQ",
+        "index": "N",
+        "syllables": "NANJIZHOU"
+      },
+      {
+        "regionFlag": "🇬🇸",
+        "regionName": "南乔治亚和南桑威奇群岛",
+        "regionCode": "GS",
+        "callingCode": "+500",
+        "index": "N",
+        "syllables": "NANQIAOZHIYAHENANSANGWEIQIQUNDAO"
+      },
+      {
+        "regionFlag": "🇸🇸",
+        "callingCode": "+211",
+        "regionCode": "SS",
+        "regionName": "南苏丹",
+        "index": "N",
+        "syllables": "NANSUDAN"
+      },
+      {
+        "regionFlag": "🇳🇷",
+        "regionCode": "NR",
+        "regionName": "瑙鲁",
+        "callingCode": "+674",
+        "index": "N",
+        "syllables": "NAOLU"
+      },
+      {
+        "regionName": "尼加拉瓜",
+        "callingCode": "+505",
+        "regionCode": "NI",
+        "regionFlag": "🇳🇮",
+        "index": "N",
+        "syllables": "NIJIALAGUA"
+      },
+      {
+        "regionFlag": "🇳🇵",
+        "regionName": "尼泊尔",
+        "callingCode": "+977",
+        "regionCode": "NP",
+        "index": "N",
+        "syllables": "NIPOER"
+      },
+      {
+        "callingCode": "+227",
+        "regionName": "尼日尔",
+        "regionFlag": "🇳🇪",
+        "regionCode": "NE",
+        "index": "N",
+        "syllables": "NIRIER"
+      },
+      {
+        "regionFlag": "🇳🇬",
+        "regionName": "尼日利亚",
+        "regionCode": "NG",
+        "callingCode": "+234",
+        "index": "N",
+        "syllables": "NIRILIYA"
+      },
+      {
+        "regionCode": "NU",
+        "regionName": "纽埃",
+        "regionFlag": "🇳🇺",
+        "callingCode": "+683",
+        "index": "N",
+        "syllables": "NIUAI"
+      },
+      {
+        "regionFlag": "🇳🇫",
+        "regionName": "诺福克岛",
+        "callingCode": "+672",
+        "regionCode": "NF",
+        "index": "N",
+        "syllables": "NUOFUKEDAO"
+      },
+      {
+        "callingCode": "+47",
+        "regionCode": "NO",
+        "regionFlag": "🇳🇴",
+        "regionName": "挪威",
+        "index": "N",
+        "syllables": "NUOWEI"
+      }
+    ]
+  },
+  {
+    "index": "P",
+    "items": [
+      {
+        "regionName": "帕劳",
+        "callingCode": "+680",
+        "regionFlag": "🇵🇼",
+        "regionCode": "PW",
+        "index": "P",
+        "syllables": "PALAO"
+      },
+      {
+        "regionName": "皮特凯恩群岛",
+        "callingCode": "+872",
+        "regionCode": "PN",
+        "regionFlag": "🇵🇳",
+        "index": "P",
+        "syllables": "PITEKAIENQUNDAO"
+      },
+      {
+        "regionCode": "PT",
+        "regionFlag": "🇵🇹",
+        "callingCode": "+351",
+        "regionName": "葡萄牙",
+        "index": "P",
+        "syllables": "PUTAOYA"
+      }
+    ]
+  },
+  {
+    "index": "R",
+    "items": [
+      {
+        "regionCode": "JP",
+        "callingCode": "+81",
+        "regionFlag": "🇯🇵",
+        "regionName": "日本",
+        "index": "R",
+        "syllables": "RIBEN"
+      },
+      {
+        "regionName": "瑞典",
+        "regionFlag": "🇸🇪",
+        "callingCode": "+46",
+        "regionCode": "SE",
+        "index": "R",
+        "syllables": "RUIDIAN"
+      },
+      {
+        "callingCode": "+41",
+        "regionName": "瑞士",
+        "regionFlag": "🇨🇭",
+        "regionCode": "CH",
+        "index": "R",
+        "syllables": "RUISHI"
+      }
+    ]
+  },
+  {
+    "index": "S",
+    "items": [
+      {
+        "callingCode": "+503",
+        "regionFlag": "🇸🇻",
+        "regionCode": "SV",
+        "regionName": "萨尔瓦多",
+        "index": "S",
+        "syllables": "SAERWADUO"
+      },
+      {
+        "regionName": "塞尔维亚",
+        "regionCode": "RS",
+        "regionFlag": "🇷🇸",
+        "callingCode": "+381",
+        "index": "S",
+        "syllables": "SAIERWEIYA"
+      },
+      {
+        "callingCode": "+232",
+        "regionFlag": "🇸🇱",
+        "regionCode": "SL",
+        "regionName": "塞拉利昂",
+        "index": "S",
+        "syllables": "SAILALIANG"
+      },
+      {
+        "callingCode": "+221",
+        "regionCode": "SN",
+        "regionName": "塞内加尔",
+        "regionFlag": "🇸🇳",
+        "index": "S",
+        "syllables": "SAINEIJIAER"
+      },
+      {
+        "regionName": "塞浦路斯",
+        "regionCode": "CY",
+        "callingCode": "+357",
+        "regionFlag": "🇨🇾",
+        "index": "S",
+        "syllables": "SAIPULUSI"
+      },
+      {
+        "regionCode": "SC",
+        "regionFlag": "🇸🇨",
+        "callingCode": "+248",
+        "regionName": "塞舌尔",
+        "index": "S",
+        "syllables": "SAISHEER"
+      },
+      {
+        "regionCode": "WS",
+        "regionName": "萨摩亚",
+        "regionFlag": "🇼🇸",
+        "callingCode": "+685",
+        "index": "S",
+        "syllables": "SAMOYA"
+      },
+      {
+        "regionName": "沙特阿拉伯",
+        "regionCode": "SA",
+        "regionFlag": "🇸🇦",
+        "callingCode": "+966",
+        "index": "S",
+        "syllables": "SHATEALABO"
+      },
+      {
+        "callingCode": "+590",
+        "regionName": "圣巴泰勒米",
+        "regionCode": "BL",
+        "regionFlag": "🇧🇱",
+        "index": "S",
+        "syllables": "SHENGBATAILEIMI"
+      },
+      {
+        "regionCode": "CX",
+        "regionName": "圣诞岛",
+        "callingCode": "+61",
+        "regionFlag": "🇨🇽",
+        "index": "S",
+        "syllables": "SHENGDANDAO"
+      },
+      {
+        "regionName": "圣多美和普林西比",
+        "callingCode": "+239",
+        "regionCode": "ST",
+        "regionFlag": "🇸🇹",
+        "index": "S",
+        "syllables": "SHENGDUOMEIHEPULINXIBI"
+      },
+      {
+        "regionFlag": "🇸🇭",
+        "callingCode": "+290",
+        "regionCode": "SH",
+        "regionName": "圣赫勒拿",
+        "index": "S",
+        "syllables": "SHENGHELEINA"
+      },
+      {
+        "regionFlag": "🇰🇳",
+        "callingCode": "+1-869",
+        "regionCode": "KN",
+        "regionName": "圣基茨和尼维斯",
+        "index": "S",
+        "syllables": "SHENGJICIHENIWEISI"
+      },
+      {
+        "regionFlag": "🇱🇨",
+        "regionName": "圣卢西亚",
+        "callingCode": "+1-758",
+        "regionCode": "LC",
+        "index": "S",
+        "syllables": "SHENGLUXIYA"
+      },
+      {
+        "regionCode": "SM",
+        "regionFlag": "🇸🇲",
+        "callingCode": "+378",
+        "regionName": "圣马力诺",
+        "index": "S",
+        "syllables": "SHENGMALINUO"
+      },
+      {
+        "regionName": "圣皮埃尔和密克隆群岛",
+        "regionFlag": "🇵🇲",
+        "regionCode": "PM",
+        "callingCode": "+508",
+        "index": "S",
+        "syllables": "SHENGPIAIERHEMIKELONGQUNDAO"
+      },
+      {
+        "regionCode": "VC",
+        "regionName": "圣文森特和格林纳丁斯",
+        "callingCode": "+1-784",
+        "regionFlag": "🇻🇨",
+        "index": "S",
+        "syllables": "SHENGWENSENTEHEGELINNADINGSI"
+      },
+      {
+        "regionFlag": "🇱🇰",
+        "callingCode": "+94",
+        "regionCode": "LK",
+        "regionName": "斯里兰卡",
+        "index": "S",
+        "syllables": "SILILANKA"
+      },
+      {
+        "regionCode": "SK",
+        "regionName": "斯洛伐克",
+        "callingCode": "+421",
+        "regionFlag": "🇸🇰",
+        "index": "S",
+        "syllables": "SILUOFAKE"
+      },
+      {
+        "regionName": "斯洛文尼亚",
+        "regionFlag": "🇸🇮",
+        "regionCode": "SI",
+        "callingCode": "+386",
+        "index": "S",
+        "syllables": "SILUOWENNIYA"
+      },
+      {
+        "callingCode": "+47",
+        "regionName": "斯瓦尔巴和扬马延",
+        "regionCode": "SJ",
+        "regionFlag": "🇸🇯",
+        "index": "S",
+        "syllables": "SIWAERBAHEYANGMAYAN"
+      },
+      {
+        "regionCode": "SZ",
+        "regionName": "斯威士兰",
+        "regionFlag": "🇸🇿",
+        "callingCode": "+268",
+        "index": "S",
+        "syllables": "SIWEISHILAN"
+      },
+      {
+        "regionCode": "SD",
+        "regionName": "苏丹",
+        "regionFlag": "🇸🇩",
+        "callingCode": "+249",
+        "index": "S",
+        "syllables": "SUDAN"
+      },
+      {
+        "regionFlag": "🇸🇷",
+        "regionName": "苏里南",
+        "callingCode": "+597",
+        "regionCode": "SR",
+        "index": "S",
+        "syllables": "SULINAN"
+      },
+      {
+        "regionCode": "SB",
+        "regionName": "所罗门群岛",
+        "callingCode": "+677",
+        "regionFlag": "🇸🇧",
+        "index": "S",
+        "syllables": "SUOLUOMENQUNDAO"
+      },
+      {
+        "regionCode": "SO",
+        "regionName": "索马里",
+        "regionFlag": "🇸🇴",
+        "callingCode": "+252",
+        "index": "S",
+        "syllables": "SUOMALI"
+      }
+    ]
+  },
+  {
+    "index": "T",
+    "items": [
+      {
+        "callingCode": "+66",
+        "regionCode": "TH",
+        "regionFlag": "🇹🇭",
+        "regionName": "泰国",
+        "index": "T",
+        "syllables": "TAIGUO"
+      },
+      {
+        "regionCode": "TW",
+        "regionName": "台湾",
+        "regionFlag": "🇨🇳",
+        "callingCode": "+886",
+        "index": "T",
+        "syllables": "TAIWAN"
+      },
+      {
+        "regionName": "塔吉克斯坦",
+        "regionCode": "TJ",
+        "callingCode": "+992",
+        "regionFlag": "🇹🇯",
+        "index": "T",
+        "syllables": "TAJIKESITAN"
+      },
+      {
+        "callingCode": "+676",
+        "regionFlag": "🇹🇴",
+        "regionCode": "TO",
+        "regionName": "汤加",
+        "index": "T",
+        "syllables": "TANGJIA"
+      },
+      {
+        "regionName": "坦桑尼亚",
+        "callingCode": "+255",
+        "regionCode": "TZ",
+        "regionFlag": "🇹🇿",
+        "index": "T",
+        "syllables": "TANSANGNIYA"
+      },
+      {
+        "callingCode": "+1-649",
+        "regionFlag": "🇹🇨",
+        "regionCode": "TC",
+        "regionName": "特克斯和凯科斯群岛",
+        "index": "T",
+        "syllables": "TEKESIHEKAIKESIQUNDAO"
+      },
+      {
+        "callingCode": "+1-868",
+        "regionCode": "TT",
+        "regionName": "特立尼达和多巴哥",
+        "regionFlag": "🇹🇹",
+        "index": "T",
+        "syllables": "TELINIDAHEDUOBAGE"
+      },
+      {
+        "regionName": "土耳其",
+        "regionCode": "TR",
+        "regionFlag": "🇹🇷",
+        "callingCode": "+90",
+        "index": "T",
+        "syllables": "TUERQI"
+      },
+      {
+        "regionFlag": "🇹🇲",
+        "regionName": "土库曼斯坦",
+        "callingCode": "+993",
+        "regionCode": "TM",
+        "index": "T",
+        "syllables": "TUKUMANSITAN"
+      },
+      {
+        "regionFlag": "🇹🇳",
+        "callingCode": "+216",
+        "regionCode": "TN",
+        "regionName": "突尼斯",
+        "index": "T",
+        "syllables": "TUNISI"
+      },
+      {
+        "regionFlag": "🇹🇰",
+        "regionName": "托克劳",
+        "regionCode": "TK",
+        "callingCode": "+690",
+        "index": "T",
+        "syllables": "TUOKELAO"
+      },
+      {
+        "regionName": "图瓦卢",
+        "regionCode": "TV",
+        "callingCode": "+688",
+        "regionFlag": "🇹🇻",
+        "index": "T",
+        "syllables": "TUWALU"
+      },
+      {
+        "regionFlag": "🇹🇦",
+        "regionName": "Tristan da Cunha",
+        "regionCode": "TA",
+        "callingCode": "+290",
+        "index": "T",
+        "syllables": "Tristan da Cunha"
+      }
+    ]
+  },
+  {
+    "index": "W",
+    "items": [
+      {
+        "callingCode": "+681",
+        "regionFlag": "🇼🇫",
+        "regionCode": "WF",
+        "regionName": "瓦利斯和富图纳",
+        "index": "W",
+        "syllables": "WALISIHEFUTUNA"
+      },
+      {
+        "callingCode": "+678",
+        "regionName": "瓦努阿图",
+        "regionFlag": "🇻🇺",
+        "regionCode": "VU",
+        "index": "W",
+        "syllables": "WANUATU"
+      },
+      {
+        "regionCode": "GT",
+        "regionFlag": "🇬🇹",
+        "callingCode": "+502",
+        "regionName": "危地马拉",
+        "index": "W",
+        "syllables": "WEIDEMALA"
+      },
+      {
+        "regionFlag": "🇻🇪",
+        "regionCode": "VE",
+        "regionName": "委内瑞拉",
+        "callingCode": "+58",
+        "index": "W",
+        "syllables": "WEINEIRUILA"
+      },
+      {
+        "regionName": "文莱",
+        "regionCode": "BN",
+        "regionFlag": "🇧🇳",
+        "callingCode": "+673",
+        "index": "W",
+        "syllables": "WENLAI"
+      },
+      {
+        "regionFlag": "🇺🇬",
+        "regionCode": "UG",
+        "callingCode": "+256",
+        "regionName": "乌干达",
+        "index": "W",
+        "syllables": "WUGANDA"
+      },
+      {
+        "regionName": "乌克兰",
+        "callingCode": "+380",
+        "regionCode": "UA",
+        "regionFlag": "🇺🇦",
+        "index": "W",
+        "syllables": "WUKELAN"
+      },
+      {
+        "regionFlag": "🇺🇾",
+        "regionCode": "UY",
+        "regionName": "乌拉圭",
+        "callingCode": "+598",
+        "index": "W",
+        "syllables": "WULAGUI"
+      },
+      {
+        "regionName": "乌兹别克斯坦",
+        "callingCode": "+998",
+        "regionFlag": "🇺🇿",
+        "regionCode": "UZ",
+        "index": "W",
+        "syllables": "WUZIBIEKESITAN"
+      }
+    ]
+  },
+  {
+    "index": "X",
+    "items": [
+      {
+        "regionFlag": "🇪🇸",
+        "callingCode": "+34",
+        "regionCode": "ES",
+        "regionName": "西班牙",
+        "index": "X",
+        "syllables": "XIBANYA"
+      },
+      {
+        "callingCode": "+30",
+        "regionCode": "GR",
+        "regionFlag": "🇬🇷",
+        "regionName": "希腊",
+        "index": "X",
+        "syllables": "XILA"
+      },
+      {
+        "callingCode": "+65",
+        "regionFlag": "🇸🇬",
+        "regionName": "新加坡",
+        "regionCode": "SG",
+        "index": "X",
+        "syllables": "XINJIAPO"
+      },
+      {
+        "regionName": "新喀里多尼亚",
+        "regionCode": "NC",
+        "callingCode": "+687",
+        "regionFlag": "🇳🇨",
+        "index": "X",
+        "syllables": "XINKALIDUONIYA"
+      },
+      {
+        "regionCode": "NZ",
+        "regionFlag": "🇳🇿",
+        "regionName": "新西兰",
+        "callingCode": "+64",
+        "index": "X",
+        "syllables": "XINXILAN"
+      },
+      {
+        "regionCode": "HU",
+        "regionName": "匈牙利",
+        "regionFlag": "🇭🇺",
+        "callingCode": "+36",
+        "index": "X",
+        "syllables": "XIONGYALI"
+      },
+      {
+        "regionName": "西撒哈拉",
+        "regionFlag": "🇪🇭",
+        "regionCode": "EH",
+        "callingCode": "+212",
+        "index": "X",
+        "syllables": "XISAHALA"
+      },
+      {
+        "regionCode": "SY",
+        "regionFlag": "🇸🇾",
+        "regionName": "叙利亚",
+        "callingCode": "+963",
+        "index": "X",
+        "syllables": "XULIYA"
+      }
+    ]
+  },
+  {
+    "index": "Y",
+    "items": [
+      {
+        "callingCode": "+1-876",
+        "regionFlag": "🇯🇲",
+        "regionCode": "JM",
+        "regionName": "牙买加",
+        "index": "Y",
+        "syllables": "YAMAIJIA"
+      },
+      {
+        "regionCode": "AM",
+        "regionFlag": "🇦🇲",
+        "regionName": "亚美尼亚",
+        "callingCode": "+374",
+        "index": "Y",
+        "syllables": "YAMEINIYA"
+      },
+      {
+        "regionName": "也门",
+        "regionCode": "YE",
+        "callingCode": "+967",
+        "regionFlag": "🇾🇪",
+        "index": "Y",
+        "syllables": "YEMEN"
+      },
+      {
+        "regionName": "意大利",
+        "callingCode": "+39",
+        "regionCode": "IT",
+        "regionFlag": "🇮🇹",
+        "index": "Y",
+        "syllables": "YIDALI"
+      },
+      {
+        "callingCode": "+964",
+        "regionCode": "IQ",
+        "regionFlag": "🇮🇶",
+        "regionName": "伊拉克",
+        "index": "Y",
+        "syllables": "YILAKE"
+      },
+      {
+        "regionFlag": "🇮🇷",
+        "callingCode": "+98",
+        "regionCode": "IR",
+        "regionName": "伊朗",
+        "index": "Y",
+        "syllables": "YILANG"
+      },
+      {
+        "regionCode": "IN",
+        "regionFlag": "🇮🇳",
+        "regionName": "印度",
+        "callingCode": "+91",
+        "index": "Y",
+        "syllables": "YINDU"
+      },
+      {
+        "regionCode": "ID",
+        "regionFlag": "🇮🇩",
+        "callingCode": "+62",
+        "regionName": "印度尼西亚",
+        "index": "Y",
+        "syllables": "YINDUNIXIYA"
+      },
+      {
+        "callingCode": "+44",
+        "regionFlag": "🇬🇧",
+        "regionCode": "GB",
+        "regionName": "英国",
+        "index": "Y",
+        "syllables": "YINGGUO"
+      },
+      {
+        "callingCode": "+1-284",
+        "regionName": "英属维尔京群岛",
+        "regionCode": "VG",
+        "regionFlag": "🇻🇬",
+        "index": "Y",
+        "syllables": "YINGSHUWEIERJINGQUNDAO"
+      },
+      {
+        "regionFlag": "🇮🇴",
+        "regionCode": "IO",
+        "callingCode": "+246",
+        "regionName": "英属印度洋领地",
+        "index": "Y",
+        "syllables": "YINGSHUYINDUYANGLINGDE"
+      },
+      {
+        "regionName": "以色列",
+        "regionFlag": "🇮🇱",
+        "callingCode": "+972",
+        "regionCode": "IL",
+        "index": "Y",
+        "syllables": "YISELIE"
+      },
+      {
+        "regionName": "约旦",
+        "regionFlag": "🇯🇴",
+        "regionCode": "JO",
+        "callingCode": "+962",
+        "index": "Y",
+        "syllables": "YUEDAN"
+      },
+      {
+        "callingCode": "+84",
+        "regionName": "越南",
+        "regionCode": "VN",
+        "regionFlag": "🇻🇳",
+        "index": "Y",
+        "syllables": "YUENAN"
+      }
+    ]
+  },
+  {
+    "index": "Z",
+    "items": [
+      {
+        "callingCode": "+260",
+        "regionFlag": "🇿🇲",
+        "regionCode": "ZM",
+        "regionName": "赞比亚",
+        "index": "Z",
+        "syllables": "ZANBIYA"
+      },
+      {
+        "regionName": "泽西岛",
+        "regionCode": "JE",
+        "regionFlag": "🇯🇪",
+        "callingCode": "+44",
+        "index": "Z",
+        "syllables": "ZEXIDAO"
+      },
+      {
+        "regionName": "乍得",
+        "regionFlag": "🇹🇩",
+        "callingCode": "+235",
+        "regionCode": "TD",
+        "index": "Z",
+        "syllables": "ZHADE"
+      },
+      {
+        "regionName": "直布罗陀",
+        "regionCode": "GI",
+        "regionFlag": "🇬🇮",
+        "callingCode": "+350",
+        "index": "Z",
+        "syllables": "ZHIBULUOTUO"
+      },
+      {
+        "regionName": "智利",
+        "regionCode": "CL",
+        "callingCode": "+56",
+        "regionFlag": "🇨🇱",
+        "index": "Z",
+        "syllables": "ZHILI"
+      },
+      {
+        "callingCode": "+236",
+        "regionCode": "CF",
+        "regionFlag": "🇨🇫",
+        "regionName": "中非共和国",
+        "index": "Z",
+        "syllables": "ZHONGFEIGONGHEGUO"
+      },
+      {
+        "regionFlag": "🇨🇳",
+        "callingCode": "+86",
+        "regionName": "中国",
+        "regionCode": "CN",
+        "index": "Z",
+        "syllables": "ZHONGGUO"
+      },
+      {
+        "regionFlag": "🇲🇴",
+        "regionCode": "MO",
+        "callingCode": "+853",
+        "regionName": "中国澳门特别行政区",
+        "index": "Z",
+        "syllables": "ZHONGGUOAOMENTEBIEXINGZHENGQU"
+      },
+      {
+        "regionCode": "HK",
+        "regionName": "中国香港特别行政区",
+        "regionFlag": "🇭🇰",
+        "callingCode": "+852",
+        "index": "Z",
+        "syllables": "ZHONGGUOXIANGGANGTEBIEXINGZHENGQU"
+      }
+    ]
+  }
+]

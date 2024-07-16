@@ -1,0 +1,1627 @@
+[
+  {
+    "index": "A",
+    "items": [
+      {
+        "regionFlag": "🇦🇫",
+        "regionCode": "AF",
+        "callingCode": "+93",
+        "regionName": "Afghanistan"
+      },
+      {
+        "regionName": "Albania",
+        "regionCode": "AL",
+        "callingCode": "+355",
+        "regionFlag": "🇦🇱"
+      },
+      {
+        "regionCode": "DZ",
+        "regionFlag": "🇩🇿",
+        "callingCode": "+213",
+        "regionName": "Algeria"
+      },
+      {
+        "callingCode": "+1",
+        "regionFlag": "🇺🇸",
+        "regionCode": "UM",
+        "regionName": "Altre isole americane del Pacifico"
+      },
+      {
+        "regionCode": "AD",
+        "regionFlag": "🇦🇩",
+        "regionName": "Andorra",
+        "callingCode": "+376"
+      },
+      {
+        "regionName": "Angola",
+        "regionCode": "AO",
+        "callingCode": "+244",
+        "regionFlag": "🇦🇴"
+      },
+      {
+        "callingCode": "+1-264",
+        "regionCode": "AI",
+        "regionFlag": "🇦🇮",
+        "regionName": "Anguilla"
+      },
+      {
+        "regionFlag": "🇦🇶",
+        "regionName": "Antartide",
+        "callingCode": "+672",
+        "regionCode": "AQ"
+      },
+      {
+        "regionCode": "AG",
+        "regionName": "Antigua e Barbuda",
+        "callingCode": "+1-268",
+        "regionFlag": "🇦🇬"
+      },
+      {
+        "regionName": "Arabia Saudita",
+        "regionCode": "SA",
+        "regionFlag": "🇸🇦",
+        "callingCode": "+966"
+      },
+      {
+        "regionCode": "AR",
+        "regionName": "Argentina",
+        "regionFlag": "🇦🇷",
+        "callingCode": "+54"
+      },
+      {
+        "regionCode": "AM",
+        "regionFlag": "🇦🇲",
+        "regionName": "Armenia",
+        "callingCode": "+374"
+      },
+      {
+        "callingCode": "+297",
+        "regionName": "Aruba",
+        "regionCode": "AW",
+        "regionFlag": "🇦🇼"
+      },
+      {
+        "regionName": "Ascension Island",
+        "callingCode": "+247",
+        "regionCode": "AC",
+        "regionFlag": "🇦🇨"
+      },
+      {
+        "regionCode": "AU",
+        "regionName": "Australia",
+        "callingCode": "+61",
+        "regionFlag": "🇦🇺"
+      },
+      {
+        "regionCode": "AT",
+        "regionFlag": "🇦🇹",
+        "callingCode": "+43",
+        "regionName": "Austria"
+      },
+      {
+        "callingCode": "+994",
+        "regionFlag": "🇦🇿",
+        "regionName": "Azerbaigian",
+        "regionCode": "AZ"
+      }
+    ]
+  },
+  {
+    "index": "B",
+    "items": [
+      {
+        "regionFlag": "🇧🇸",
+        "regionCode": "BS",
+        "regionName": "Bahamas",
+        "callingCode": "+1-242"
+      },
+      {
+        "regionName": "Bahrein",
+        "regionFlag": "🇧🇭",
+        "callingCode": "+973",
+        "regionCode": "BH"
+      },
+      {
+        "callingCode": "+880",
+        "regionCode": "BD",
+        "regionFlag": "🇧🇩",
+        "regionName": "Bangladesh"
+      },
+      {
+        "regionCode": "BB",
+        "regionFlag": "🇧🇧",
+        "regionName": "Barbados",
+        "callingCode": "+1-246"
+      },
+      {
+        "callingCode": "+32",
+        "regionCode": "BE",
+        "regionName": "Belgio",
+        "regionFlag": "🇧🇪"
+      },
+      {
+        "regionCode": "BZ",
+        "regionFlag": "🇧🇿",
+        "callingCode": "+501",
+        "regionName": "Belize"
+      },
+      {
+        "regionName": "Benin",
+        "regionFlag": "🇧🇯",
+        "regionCode": "BJ",
+        "callingCode": "+229"
+      },
+      {
+        "regionName": "Bermuda",
+        "callingCode": "+1-441",
+        "regionCode": "BM",
+        "regionFlag": "🇧🇲"
+      },
+      {
+        "regionCode": "BT",
+        "regionName": "Bhutan",
+        "callingCode": "+975",
+        "regionFlag": "🇧🇹"
+      },
+      {
+        "regionCode": "BY",
+        "regionFlag": "🇧🇾",
+        "regionName": "Bielorussia",
+        "callingCode": "+375"
+      },
+      {
+        "regionName": "Bolivia",
+        "callingCode": "+591",
+        "regionCode": "BO",
+        "regionFlag": "🇧🇴"
+      },
+      {
+        "regionCode": "BA",
+        "callingCode": "+387",
+        "regionFlag": "🇧🇦",
+        "regionName": "Bosnia ed Erzegovina"
+      },
+      {
+        "regionFlag": "🇧🇼",
+        "regionName": "Botswana",
+        "regionCode": "BW",
+        "callingCode": "+267"
+      },
+      {
+        "regionName": "Brasile",
+        "regionCode": "BR",
+        "callingCode": "+55",
+        "regionFlag": "🇧🇷"
+      },
+      {
+        "regionName": "Brunei",
+        "regionCode": "BN",
+        "regionFlag": "🇧🇳",
+        "callingCode": "+673"
+      },
+      {
+        "regionName": "Bulgaria",
+        "callingCode": "+359",
+        "regionCode": "BG",
+        "regionFlag": "🇧🇬"
+      },
+      {
+        "callingCode": "+226",
+        "regionFlag": "🇧🇫",
+        "regionName": "Burkina Faso",
+        "regionCode": "BF"
+      },
+      {
+        "regionFlag": "🇧🇮",
+        "regionName": "Burundi",
+        "regionCode": "BI",
+        "callingCode": "+257"
+      }
+    ]
+  },
+  {
+    "index": "C",
+    "items": [
+      {
+        "regionFlag": "🇰🇭",
+        "regionCode": "KH",
+        "callingCode": "+855",
+        "regionName": "Cambogia"
+      },
+      {
+        "callingCode": "+237",
+        "regionFlag": "🇨🇲",
+        "regionCode": "CM",
+        "regionName": "Camerun"
+      },
+      {
+        "callingCode": "+1",
+        "regionCode": "CA",
+        "regionName": "Canada",
+        "regionFlag": "🇨🇦"
+      },
+      {
+        "regionFlag": "🇨🇻",
+        "regionName": "Capo Verde",
+        "callingCode": "+238",
+        "regionCode": "CV"
+      },
+      {
+        "regionName": "Caraibi olandesi",
+        "callingCode": "+599",
+        "regionFlag": "🇧🇶",
+        "regionCode": "BQ"
+      },
+      {
+        "callingCode": "+420",
+        "regionFlag": "🇨🇿",
+        "regionCode": "CZ",
+        "regionName": "Cechia"
+      },
+      {
+        "regionName": "Ciad",
+        "regionFlag": "🇹🇩",
+        "callingCode": "+235",
+        "regionCode": "TD"
+      },
+      {
+        "regionName": "Cile",
+        "regionCode": "CL",
+        "callingCode": "+56",
+        "regionFlag": "🇨🇱"
+      },
+      {
+        "regionFlag": "🇨🇳",
+        "callingCode": "+86",
+        "regionName": "Cina",
+        "regionCode": "CN"
+      },
+      {
+        "regionName": "Cipro",
+        "regionCode": "CY",
+        "callingCode": "+357",
+        "regionFlag": "🇨🇾"
+      },
+      {
+        "regionFlag": "🇻🇦",
+        "regionName": "Città del Vaticano",
+        "callingCode": "+379",
+        "regionCode": "VA"
+      },
+      {
+        "regionName": "Colombia",
+        "regionFlag": "🇨🇴",
+        "regionCode": "CO",
+        "callingCode": "+57"
+      },
+      {
+        "regionName": "Comore",
+        "callingCode": "+269",
+        "regionFlag": "🇰🇲",
+        "regionCode": "KM"
+      },
+      {
+        "callingCode": "+243",
+        "regionCode": "CD",
+        "regionFlag": "🇨🇩",
+        "regionName": "Congo - Kinshasa"
+      },
+      {
+        "callingCode": "+242",
+        "regionName": "Congo-Brazzaville",
+        "regionCode": "CG",
+        "regionFlag": "🇨🇬"
+      },
+      {
+        "regionCode": "KP",
+        "regionFlag": "🇰🇵",
+        "callingCode": "+850",
+        "regionName": "Corea del Nord"
+      },
+      {
+        "regionFlag": "🇰🇷",
+        "callingCode": "+82",
+        "regionName": "Corea del Sud",
+        "regionCode": "KR"
+      },
+      {
+        "regionFlag": "🇨🇷",
+        "callingCode": "+506",
+        "regionName": "Costa Rica",
+        "regionCode": "CR"
+      },
+      {
+        "callingCode": "+225",
+        "regionFlag": "🇨🇮",
+        "regionCode": "CI",
+        "regionName": "Costa d’Avorio"
+      },
+      {
+        "regionCode": "HR",
+        "regionFlag": "🇭🇷",
+        "regionName": "Croazia",
+        "callingCode": "+385"
+      },
+      {
+        "regionName": "Cuba",
+        "regionFlag": "🇨🇺",
+        "regionCode": "CU",
+        "callingCode": "+53"
+      },
+      {
+        "regionFlag": "🇨🇼",
+        "regionCode": "CW",
+        "regionName": "Curaçao",
+        "callingCode": "+599 9"
+      }
+    ]
+  },
+  {
+    "index": "D",
+    "items": [
+      {
+        "regionFlag": "🇩🇰",
+        "regionCode": "DK",
+        "regionName": "Danimarca",
+        "callingCode": "+45"
+      },
+      {
+        "callingCode": "+1-767",
+        "regionFlag": "🇩🇲",
+        "regionName": "Dominica",
+        "regionCode": "DM"
+      }
+    ]
+  },
+  {
+    "index": "E",
+    "items": [
+      {
+        "regionCode": "EC",
+        "regionName": "Ecuador",
+        "callingCode": "+593",
+        "regionFlag": "🇪🇨"
+      },
+      {
+        "regionFlag": "🇪🇬",
+        "regionCode": "EG",
+        "regionName": "Egitto",
+        "callingCode": "+20"
+      },
+      {
+        "callingCode": "+503",
+        "regionFlag": "🇸🇻",
+        "regionCode": "SV",
+        "regionName": "El Salvador"
+      },
+      {
+        "regionCode": "AE",
+        "callingCode": "+971",
+        "regionFlag": "🇦🇪",
+        "regionName": "Emirati Arabi Uniti"
+      },
+      {
+        "regionCode": "ER",
+        "regionFlag": "🇪🇷",
+        "callingCode": "+291",
+        "regionName": "Eritrea"
+      },
+      {
+        "callingCode": "+372",
+        "regionName": "Estonia",
+        "regionCode": "EE",
+        "regionFlag": "🇪🇪"
+      },
+      {
+        "callingCode": "+251",
+        "regionFlag": "🇪🇹",
+        "regionCode": "ET",
+        "regionName": "Etiopia"
+      }
+    ]
+  },
+  {
+    "index": "F",
+    "items": [
+      {
+        "regionCode": "FJ",
+        "regionFlag": "🇫🇯",
+        "regionName": "Figi",
+        "callingCode": "+679"
+      },
+      {
+        "regionName": "Filippine",
+        "regionFlag": "🇵🇭",
+        "callingCode": "+63",
+        "regionCode": "PH"
+      },
+      {
+        "regionFlag": "🇫🇮",
+        "regionCode": "FI",
+        "callingCode": "+358",
+        "regionName": "Finlandia"
+      },
+      {
+        "regionCode": "FR",
+        "regionFlag": "🇫🇷",
+        "regionName": "Francia",
+        "callingCode": "+33"
+      }
+    ]
+  },
+  {
+    "index": "G",
+    "items": [
+      {
+        "regionFlag": "🇬🇦",
+        "callingCode": "+241",
+        "regionName": "Gabon",
+        "regionCode": "GA"
+      },
+      {
+        "regionCode": "GM",
+        "callingCode": "+220",
+        "regionFlag": "🇬🇲",
+        "regionName": "Gambia"
+      },
+      {
+        "regionCode": "GE",
+        "regionFlag": "🇬🇪",
+        "callingCode": "+995",
+        "regionName": "Georgia"
+      },
+      {
+        "regionFlag": "🇬🇸",
+        "regionName": "Georgia del Sud e Sandwich australi",
+        "regionCode": "GS",
+        "callingCode": "+500"
+      },
+      {
+        "regionName": "Germania",
+        "regionFlag": "🇩🇪",
+        "regionCode": "DE",
+        "callingCode": "+49"
+      },
+      {
+        "callingCode": "+233",
+        "regionFlag": "🇬🇭",
+        "regionCode": "GH",
+        "regionName": "Ghana"
+      },
+      {
+        "callingCode": "+1-876",
+        "regionFlag": "🇯🇲",
+        "regionCode": "JM",
+        "regionName": "Giamaica"
+      },
+      {
+        "regionCode": "JP",
+        "callingCode": "+81",
+        "regionFlag": "🇯🇵",
+        "regionName": "Giappone"
+      },
+      {
+        "regionName": "Gibilterra",
+        "regionCode": "GI",
+        "regionFlag": "🇬🇮",
+        "callingCode": "+350"
+      },
+      {
+        "regionCode": "DJ",
+        "callingCode": "+253",
+        "regionName": "Gibuti",
+        "regionFlag": "🇩🇯"
+      },
+      {
+        "regionName": "Giordania",
+        "regionFlag": "🇯🇴",
+        "regionCode": "JO",
+        "callingCode": "+962"
+      },
+      {
+        "callingCode": "+30",
+        "regionCode": "GR",
+        "regionFlag": "🇬🇷",
+        "regionName": "Grecia"
+      },
+      {
+        "regionCode": "GD",
+        "regionName": "Grenada",
+        "callingCode": "+1-473",
+        "regionFlag": "🇬🇩"
+      },
+      {
+        "regionFlag": "🇬🇱",
+        "regionCode": "GL",
+        "regionName": "Groenlandia",
+        "callingCode": "+299"
+      },
+      {
+        "callingCode": "+590",
+        "regionCode": "GP",
+        "regionFlag": "🇬🇵",
+        "regionName": "Guadalupa"
+      },
+      {
+        "regionCode": "GU",
+        "callingCode": "+1-671",
+        "regionName": "Guam",
+        "regionFlag": "🇬🇺"
+      },
+      {
+        "regionCode": "GT",
+        "regionFlag": "🇬🇹",
+        "callingCode": "+502",
+        "regionName": "Guatemala"
+      },
+      {
+        "callingCode": "+44",
+        "regionName": "Guernsey",
+        "regionCode": "GG",
+        "regionFlag": "🇬🇬"
+      },
+      {
+        "regionName": "Guinea",
+        "regionFlag": "🇬🇳",
+        "regionCode": "GN",
+        "callingCode": "+224"
+      },
+      {
+        "regionCode": "GQ",
+        "regionFlag": "🇬🇶",
+        "callingCode": "+240",
+        "regionName": "Guinea Equatoriale"
+      },
+      {
+        "regionCode": "GW",
+        "regionName": "Guinea-Bissau",
+        "callingCode": "+245",
+        "regionFlag": "🇬🇼"
+      },
+      {
+        "callingCode": "+595",
+        "regionName": "Guyana",
+        "regionCode": "GY",
+        "regionFlag": "🇬🇾"
+      },
+      {
+        "regionName": "Guyana francese",
+        "regionFlag": "🇬🇫",
+        "callingCode": "+594",
+        "regionCode": "GF"
+      }
+    ]
+  },
+  {
+    "index": "H",
+    "items": [
+      {
+        "regionFlag": "🇭🇹",
+        "regionCode": "HT",
+        "regionName": "Haiti",
+        "callingCode": "+509"
+      },
+      {
+        "regionCode": "HN",
+        "callingCode": "+504",
+        "regionName": "Honduras",
+        "regionFlag": "🇭🇳"
+      }
+    ]
+  },
+  {
+    "index": "I",
+    "items": [
+      {
+        "regionCode": "IN",
+        "regionFlag": "🇮🇳",
+        "regionName": "India",
+        "callingCode": "+91"
+      },
+      {
+        "regionCode": "ID",
+        "regionFlag": "🇮🇩",
+        "callingCode": "+62",
+        "regionName": "Indonesia"
+      },
+      {
+        "regionFlag": "🇮🇷",
+        "callingCode": "+98",
+        "regionCode": "IR",
+        "regionName": "Iran"
+      },
+      {
+        "callingCode": "+964",
+        "regionCode": "IQ",
+        "regionFlag": "🇮🇶",
+        "regionName": "Iraq"
+      },
+      {
+        "callingCode": "+353",
+        "regionName": "Irlanda",
+        "regionCode": "IE",
+        "regionFlag": "🇮🇪"
+      },
+      {
+        "regionCode": "IS",
+        "regionFlag": "🇮🇸",
+        "regionName": "Islanda",
+        "callingCode": "+354"
+      },
+      {
+        "regionCode": "CX",
+        "regionName": "Isola Christmas",
+        "callingCode": "+61",
+        "regionFlag": "🇨🇽"
+      },
+      {
+        "regionFlag": "🇳🇫",
+        "regionName": "Isola Norfolk",
+        "callingCode": "+672",
+        "regionCode": "NF"
+      },
+      {
+        "regionCode": "IM",
+        "callingCode": "+44",
+        "regionFlag": "🇮🇲",
+        "regionName": "Isola di Man"
+      },
+      {
+        "callingCode": "+345",
+        "regionFlag": "🇰🇾",
+        "regionCode": "KY",
+        "regionName": "Isole Cayman"
+      },
+      {
+        "regionCode": "CC",
+        "regionFlag": "🇨🇨",
+        "regionName": "Isole Cocos (Keeling)",
+        "callingCode": "+61"
+      },
+      {
+        "regionFlag": "🇨🇰",
+        "regionCode": "CK",
+        "regionName": "Isole Cook",
+        "callingCode": "+682"
+      },
+      {
+        "regionName": "Isole Falkland",
+        "regionCode": "FK",
+        "regionFlag": "🇫🇰",
+        "callingCode": "+500"
+      },
+      {
+        "regionCode": "FO",
+        "regionName": "Isole Fær Øer",
+        "regionFlag": "🇫🇴",
+        "callingCode": "+298"
+      },
+      {
+        "callingCode": "+672",
+        "regionFlag": "🇭🇲",
+        "regionName": "Isole Heard e McDonald",
+        "regionCode": "HM"
+      },
+      {
+        "regionName": "Isole Marianne settentrionali",
+        "regionCode": "MP",
+        "regionFlag": "🇲🇵",
+        "callingCode": "+1-670"
+      },
+      {
+        "regionName": "Isole Marshall",
+        "regionCode": "MH",
+        "regionFlag": "🇲🇭",
+        "callingCode": "+692"
+      },
+      {
+        "regionName": "Isole Pitcairn",
+        "callingCode": "+872",
+        "regionCode": "PN",
+        "regionFlag": "🇵🇳"
+      },
+      {
+        "regionCode": "SB",
+        "regionName": "Isole Salomone",
+        "callingCode": "+677",
+        "regionFlag": "🇸🇧"
+      },
+      {
+        "callingCode": "+1-649",
+        "regionFlag": "🇹🇨",
+        "regionCode": "TC",
+        "regionName": "Isole Turks e Caicos"
+      },
+      {
+        "regionCode": "VI",
+        "regionFlag": "🇻🇮",
+        "regionName": "Isole Vergini Americane",
+        "callingCode": "+1-340"
+      },
+      {
+        "callingCode": "+1-284",
+        "regionName": "Isole Vergini Britanniche",
+        "regionCode": "VG",
+        "regionFlag": "🇻🇬"
+      },
+      {
+        "regionName": "Isole Åland",
+        "regionFlag": "🇦🇽",
+        "regionCode": "AX",
+        "callingCode": "+358"
+      },
+      {
+        "regionName": "Israele",
+        "regionFlag": "🇮🇱",
+        "callingCode": "+972",
+        "regionCode": "IL"
+      },
+      {
+        "regionName": "Italia",
+        "callingCode": "+39",
+        "regionCode": "IT",
+        "regionFlag": "🇮🇹"
+      }
+    ]
+  },
+  {
+    "index": "J",
+    "items": [
+      {
+        "regionName": "Jersey",
+        "regionCode": "JE",
+        "regionFlag": "🇯🇪",
+        "callingCode": "+44"
+      }
+    ]
+  },
+  {
+    "index": "K",
+    "items": [
+      {
+        "regionFlag": "🇰🇿",
+        "callingCode": "+7",
+        "regionName": "Kazakistan",
+        "regionCode": "KZ"
+      },
+      {
+        "callingCode": "+254",
+        "regionFlag": "🇰🇪",
+        "regionName": "Kenya",
+        "regionCode": "KE"
+      },
+      {
+        "callingCode": "+996",
+        "regionFlag": "🇰🇬",
+        "regionName": "Kirghizistan",
+        "regionCode": "KG"
+      },
+      {
+        "regionCode": "KI",
+        "regionName": "Kiribati",
+        "callingCode": "+686",
+        "regionFlag": "🇰🇮"
+      },
+      {
+        "regionFlag": "🇽🇰",
+        "regionCode": "XK",
+        "regionName": "Kosovo",
+        "callingCode": "+383"
+      },
+      {
+        "callingCode": "+965",
+        "regionCode": "KW",
+        "regionFlag": "🇰🇼",
+        "regionName": "Kuwait"
+      }
+    ]
+  },
+  {
+    "index": "L",
+    "items": [
+      {
+        "regionName": "Laos",
+        "callingCode": "+856",
+        "regionCode": "LA",
+        "regionFlag": "🇱🇦"
+      },
+      {
+        "regionName": "Lesotho",
+        "regionFlag": "🇱🇸",
+        "callingCode": "+266",
+        "regionCode": "LS"
+      },
+      {
+        "regionName": "Lettonia",
+        "regionFlag": "🇱🇻",
+        "callingCode": "+371",
+        "regionCode": "LV"
+      },
+      {
+        "regionName": "Libano",
+        "callingCode": "+961",
+        "regionFlag": "🇱🇧",
+        "regionCode": "LB"
+      },
+      {
+        "regionName": "Liberia",
+        "regionCode": "LR",
+        "regionFlag": "🇱🇷",
+        "callingCode": "+231"
+      },
+      {
+        "callingCode": "+218",
+        "regionFlag": "🇱🇾",
+        "regionCode": "LY",
+        "regionName": "Libia"
+      },
+      {
+        "regionFlag": "🇱🇮",
+        "regionName": "Liechtenstein",
+        "regionCode": "LI",
+        "callingCode": "+423"
+      },
+      {
+        "regionName": "Lituania",
+        "regionCode": "LT",
+        "callingCode": "+370",
+        "regionFlag": "🇱🇹"
+      },
+      {
+        "callingCode": "+352",
+        "regionFlag": "🇱🇺",
+        "regionName": "Lussemburgo",
+        "regionCode": "LU"
+      }
+    ]
+  },
+  {
+    "index": "M",
+    "items": [
+      {
+        "regionCode": "MK",
+        "callingCode": "+389",
+        "regionName": "Macedonia del Nord",
+        "regionFlag": "🇲🇰"
+      },
+      {
+        "regionName": "Madagascar",
+        "regionFlag": "🇲🇬",
+        "regionCode": "MG",
+        "callingCode": "+261"
+      },
+      {
+        "callingCode": "+265",
+        "regionFlag": "🇲🇼",
+        "regionCode": "MW",
+        "regionName": "Malawi"
+      },
+      {
+        "regionName": "Malaysia",
+        "callingCode": "+60",
+        "regionCode": "MY",
+        "regionFlag": "🇲🇾"
+      },
+      {
+        "regionName": "Maldive",
+        "callingCode": "+960",
+        "regionCode": "MV",
+        "regionFlag": "🇲🇻"
+      },
+      {
+        "callingCode": "+223",
+        "regionCode": "ML",
+        "regionFlag": "🇲🇱",
+        "regionName": "Mali"
+      },
+      {
+        "regionFlag": "🇲🇹",
+        "regionName": "Malta",
+        "regionCode": "MT",
+        "callingCode": "+356"
+      },
+      {
+        "regionCode": "MA",
+        "regionName": "Marocco",
+        "regionFlag": "🇲🇦",
+        "callingCode": "+212"
+      },
+      {
+        "regionFlag": "🇲🇶",
+        "regionName": "Martinica",
+        "callingCode": "+596",
+        "regionCode": "MQ"
+      },
+      {
+        "regionFlag": "🇲🇷",
+        "callingCode": "+222",
+        "regionCode": "MR",
+        "regionName": "Mauritania"
+      },
+      {
+        "regionName": "Mauritius",
+        "regionFlag": "🇲🇺",
+        "callingCode": "+230",
+        "regionCode": "MU"
+      },
+      {
+        "callingCode": "+262",
+        "regionName": "Mayotte",
+        "regionCode": "YT",
+        "regionFlag": "🇾🇹"
+      },
+      {
+        "regionFlag": "🇲🇽",
+        "regionCode": "MX",
+        "regionName": "Messico",
+        "callingCode": "+52"
+      },
+      {
+        "regionFlag": "🇫🇲",
+        "regionName": "Micronesia",
+        "callingCode": "+691",
+        "regionCode": "FM"
+      },
+      {
+        "regionFlag": "🇲🇩",
+        "regionCode": "MD",
+        "regionName": "Moldavia",
+        "callingCode": "+373"
+      },
+      {
+        "regionFlag": "🇲🇨",
+        "callingCode": "+377",
+        "regionName": "Monaco",
+        "regionCode": "MC"
+      },
+      {
+        "regionFlag": "🇲🇳",
+        "callingCode": "+976",
+        "regionName": "Mongolia",
+        "regionCode": "MN"
+      },
+      {
+        "regionCode": "ME",
+        "regionName": "Montenegro",
+        "regionFlag": "🇲🇪",
+        "callingCode": "+382"
+      },
+      {
+        "regionName": "Montserrat",
+        "regionCode": "MS",
+        "regionFlag": "🇲🇸",
+        "callingCode": "+1-664"
+      },
+      {
+        "regionCode": "MZ",
+        "regionFlag": "🇲🇿",
+        "callingCode": "+258",
+        "regionName": "Mozambico"
+      },
+      {
+        "regionCode": "MM",
+        "regionName": "Myanmar (Birmania)",
+        "callingCode": "+95",
+        "regionFlag": "🇲🇲"
+      }
+    ]
+  },
+  {
+    "index": "N",
+    "items": [
+      {
+        "regionFlag": "🇳🇦",
+        "regionName": "Namibia",
+        "callingCode": "+264",
+        "regionCode": "NA"
+      },
+      {
+        "regionFlag": "🇳🇷",
+        "regionCode": "NR",
+        "regionName": "Nauru",
+        "callingCode": "+674"
+      },
+      {
+        "regionFlag": "🇳🇵",
+        "regionName": "Nepal",
+        "callingCode": "+977",
+        "regionCode": "NP"
+      },
+      {
+        "regionName": "Nicaragua",
+        "callingCode": "+505",
+        "regionCode": "NI",
+        "regionFlag": "🇳🇮"
+      },
+      {
+        "callingCode": "+227",
+        "regionName": "Niger",
+        "regionFlag": "🇳🇪",
+        "regionCode": "NE"
+      },
+      {
+        "regionFlag": "🇳🇬",
+        "regionName": "Nigeria",
+        "regionCode": "NG",
+        "callingCode": "+234"
+      },
+      {
+        "regionCode": "NU",
+        "regionName": "Niue",
+        "regionFlag": "🇳🇺",
+        "callingCode": "+683"
+      },
+      {
+        "callingCode": "+47",
+        "regionCode": "NO",
+        "regionFlag": "🇳🇴",
+        "regionName": "Norvegia"
+      },
+      {
+        "regionName": "Nuova Caledonia",
+        "regionCode": "NC",
+        "callingCode": "+687",
+        "regionFlag": "🇳🇨"
+      },
+      {
+        "regionCode": "NZ",
+        "regionFlag": "🇳🇿",
+        "regionName": "Nuova Zelanda",
+        "callingCode": "+64"
+      }
+    ]
+  },
+  {
+    "index": "O",
+    "items": [
+      {
+        "callingCode": "+968",
+        "regionFlag": "🇴🇲",
+        "regionName": "Oman",
+        "regionCode": "OM"
+      }
+    ]
+  },
+  {
+    "index": "P",
+    "items": [
+      {
+        "regionFlag": "🇳🇱",
+        "regionCode": "NL",
+        "regionName": "Paesi Bassi",
+        "callingCode": "+31"
+      },
+      {
+        "callingCode": "+92",
+        "regionCode": "PK",
+        "regionFlag": "🇵🇰",
+        "regionName": "Pakistan"
+      },
+      {
+        "regionName": "Palau",
+        "callingCode": "+680",
+        "regionFlag": "🇵🇼",
+        "regionCode": "PW"
+      },
+      {
+        "callingCode": "+507",
+        "regionName": "Panamá",
+        "regionFlag": "🇵🇦",
+        "regionCode": "PA"
+      },
+      {
+        "regionCode": "PG",
+        "regionFlag": "🇵🇬",
+        "regionName": "Papua Nuova Guinea",
+        "callingCode": "+675"
+      },
+      {
+        "regionName": "Paraguay",
+        "regionFlag": "🇵🇾",
+        "callingCode": "+595",
+        "regionCode": "PY"
+      },
+      {
+        "regionCode": "PE",
+        "regionName": "Perù",
+        "callingCode": "+51",
+        "regionFlag": "🇵🇪"
+      },
+      {
+        "callingCode": "+689",
+        "regionFlag": "🇵🇫",
+        "regionName": "Polinesia francese",
+        "regionCode": "PF"
+      },
+      {
+        "regionCode": "PL",
+        "regionFlag": "🇵🇱",
+        "callingCode": "+48",
+        "regionName": "Polonia"
+      },
+      {
+        "regionCode": "PT",
+        "regionFlag": "🇵🇹",
+        "callingCode": "+351",
+        "regionName": "Portogallo"
+      },
+      {
+        "regionName": "Portorico",
+        "regionCode": "PR",
+        "regionFlag": "🇵🇷",
+        "callingCode": "+1-939"
+      }
+    ]
+  },
+  {
+    "index": "Q",
+    "items": [
+      {
+        "regionCode": "QA",
+        "regionName": "Qatar",
+        "regionFlag": "🇶🇦",
+        "callingCode": "+974"
+      }
+    ]
+  },
+  {
+    "index": "R",
+    "items": [
+      {
+        "regionCode": "HK",
+        "regionName": "RAS di Hong Kong",
+        "regionFlag": "🇭🇰",
+        "callingCode": "+852"
+      },
+      {
+        "regionFlag": "🇲🇴",
+        "regionCode": "MO",
+        "callingCode": "+853",
+        "regionName": "RAS di Macao"
+      },
+      {
+        "callingCode": "+44",
+        "regionFlag": "🇬🇧",
+        "regionCode": "GB",
+        "regionName": "Regno Unito"
+      },
+      {
+        "callingCode": "+236",
+        "regionCode": "CF",
+        "regionFlag": "🇨🇫",
+        "regionName": "Repubblica Centrafricana"
+      },
+      {
+        "regionFlag": "🇩🇴",
+        "regionCode": "DO",
+        "regionName": "Repubblica Dominicana",
+        "callingCode": "+1-849"
+      },
+      {
+        "regionFlag": "🇷🇪",
+        "regionName": "Riunione",
+        "regionCode": "RE",
+        "callingCode": "+262"
+      },
+      {
+        "callingCode": "+40",
+        "regionFlag": "🇷🇴",
+        "regionName": "Romania",
+        "regionCode": "RO"
+      },
+      {
+        "regionFlag": "🇷🇼",
+        "regionName": "Ruanda",
+        "callingCode": "+250",
+        "regionCode": "RW"
+      },
+      {
+        "regionFlag": "🇷🇺",
+        "regionName": "Russia",
+        "callingCode": "+7",
+        "regionCode": "RU"
+      }
+    ]
+  },
+  {
+    "index": "S",
+    "items": [
+      {
+        "regionName": "Sahara occidentale",
+        "regionFlag": "🇪🇭",
+        "regionCode": "EH",
+        "callingCode": "+212"
+      },
+      {
+        "regionFlag": "🇰🇳",
+        "callingCode": "+1-869",
+        "regionCode": "KN",
+        "regionName": "Saint Kitts e Nevis"
+      },
+      {
+        "regionFlag": "🇱🇨",
+        "regionName": "Saint Lucia",
+        "callingCode": "+1-758",
+        "regionCode": "LC"
+      },
+      {
+        "regionCode": "MF",
+        "regionFlag": "🇲🇫",
+        "regionName": "Saint Martin",
+        "callingCode": "+590"
+      },
+      {
+        "regionCode": "VC",
+        "regionName": "Saint Vincent e Grenadine",
+        "callingCode": "+1-784",
+        "regionFlag": "🇻🇨"
+      },
+      {
+        "callingCode": "+590",
+        "regionName": "Saint-Barthélemy",
+        "regionCode": "BL",
+        "regionFlag": "🇧🇱"
+      },
+      {
+        "regionName": "Saint-Pierre e Miquelon",
+        "regionFlag": "🇵🇲",
+        "regionCode": "PM",
+        "callingCode": "+508"
+      },
+      {
+        "regionCode": "WS",
+        "regionName": "Samoa",
+        "regionFlag": "🇼🇸",
+        "callingCode": "+685"
+      },
+      {
+        "callingCode": "+1-684",
+        "regionName": "Samoa americane",
+        "regionFlag": "🇦🇸",
+        "regionCode": "AS"
+      },
+      {
+        "regionCode": "SM",
+        "regionFlag": "🇸🇲",
+        "callingCode": "+378",
+        "regionName": "San Marino"
+      },
+      {
+        "regionFlag": "🇸🇭",
+        "callingCode": "+290",
+        "regionCode": "SH",
+        "regionName": "Sant’Elena"
+      },
+      {
+        "callingCode": "+221",
+        "regionCode": "SN",
+        "regionName": "Senegal",
+        "regionFlag": "🇸🇳"
+      },
+      {
+        "regionName": "Serbia",
+        "regionCode": "RS",
+        "regionFlag": "🇷🇸",
+        "callingCode": "+381"
+      },
+      {
+        "regionCode": "SC",
+        "regionFlag": "🇸🇨",
+        "callingCode": "+248",
+        "regionName": "Seychelles"
+      },
+      {
+        "callingCode": "+232",
+        "regionFlag": "🇸🇱",
+        "regionCode": "SL",
+        "regionName": "Sierra Leone"
+      },
+      {
+        "callingCode": "+65",
+        "regionFlag": "🇸🇬",
+        "regionName": "Singapore",
+        "regionCode": "SG"
+      },
+      {
+        "regionFlag": "🇸🇽",
+        "regionName": "Sint Maarten",
+        "callingCode": "+1-721",
+        "regionCode": "SX"
+      },
+      {
+        "regionCode": "SY",
+        "regionFlag": "🇸🇾",
+        "regionName": "Siria",
+        "callingCode": "+963"
+      },
+      {
+        "regionCode": "SK",
+        "regionName": "Slovacchia",
+        "callingCode": "+421",
+        "regionFlag": "🇸🇰"
+      },
+      {
+        "regionName": "Slovenia",
+        "regionFlag": "🇸🇮",
+        "regionCode": "SI",
+        "callingCode": "+386"
+      },
+      {
+        "regionCode": "SO",
+        "regionName": "Somalia",
+        "regionFlag": "🇸🇴",
+        "callingCode": "+252"
+      },
+      {
+        "regionFlag": "🇪🇸",
+        "callingCode": "+34",
+        "regionCode": "ES",
+        "regionName": "Spagna"
+      },
+      {
+        "regionFlag": "🇱🇰",
+        "callingCode": "+94",
+        "regionCode": "LK",
+        "regionName": "Sri Lanka"
+      },
+      {
+        "callingCode": "+1",
+        "regionName": "Stati Uniti",
+        "regionFlag": "🇺🇸",
+        "regionCode": "US"
+      },
+      {
+        "regionFlag": "🇸🇸",
+        "callingCode": "+211",
+        "regionCode": "SS",
+        "regionName": "Sud Sudan"
+      },
+      {
+        "regionCode": "ZA",
+        "regionFlag": "🇿🇦",
+        "regionName": "Sudafrica",
+        "callingCode": "+27"
+      },
+      {
+        "regionCode": "SD",
+        "regionName": "Sudan",
+        "regionFlag": "🇸🇩",
+        "callingCode": "+249"
+      },
+      {
+        "regionFlag": "🇸🇷",
+        "regionName": "Suriname",
+        "callingCode": "+597",
+        "regionCode": "SR"
+      },
+      {
+        "callingCode": "+47",
+        "regionName": "Svalbard e Jan Mayen",
+        "regionCode": "SJ",
+        "regionFlag": "🇸🇯"
+      },
+      {
+        "regionName": "Svezia",
+        "regionFlag": "🇸🇪",
+        "callingCode": "+46",
+        "regionCode": "SE"
+      },
+      {
+        "callingCode": "+41",
+        "regionName": "Svizzera",
+        "regionFlag": "🇨🇭",
+        "regionCode": "CH"
+      },
+      {
+        "regionCode": "SZ",
+        "regionName": "Swaziland",
+        "regionFlag": "🇸🇿",
+        "callingCode": "+268"
+      },
+      {
+        "regionName": "São Tomé e Príncipe",
+        "callingCode": "+239",
+        "regionCode": "ST",
+        "regionFlag": "🇸🇹"
+      }
+    ]
+  },
+  {
+    "index": "T",
+    "items": [
+      {
+        "regionName": "Tagikistan",
+        "regionCode": "TJ",
+        "callingCode": "+992",
+        "regionFlag": "🇹🇯"
+      },
+      {
+        "regionCode": "TW",
+        "regionName": "Taiwan",
+        "regionFlag": "🇨🇳",
+        "callingCode": "+886"
+      },
+      {
+        "regionName": "Tanzania",
+        "callingCode": "+255",
+        "regionCode": "TZ",
+        "regionFlag": "🇹🇿"
+      },
+      {
+        "callingCode": "+970",
+        "regionCode": "PS",
+        "regionFlag": "🇵🇸",
+        "regionName": "Territori palestinesi"
+      },
+      {
+        "regionFlag": "🇮🇴",
+        "regionCode": "IO",
+        "callingCode": "+246",
+        "regionName": "Territorio britannico dell’Oceano Indiano"
+      },
+      {
+        "callingCode": "+66",
+        "regionCode": "TH",
+        "regionFlag": "🇹🇭",
+        "regionName": "Thailandia"
+      },
+      {
+        "regionCode": "TL",
+        "regionName": "Timor Est",
+        "callingCode": "+670",
+        "regionFlag": "🇹🇱"
+      },
+      {
+        "regionCode": "TG",
+        "regionFlag": "🇹🇬",
+        "callingCode": "+228",
+        "regionName": "Togo"
+      },
+      {
+        "regionFlag": "🇹🇰",
+        "regionName": "Tokelau",
+        "regionCode": "TK",
+        "callingCode": "+690"
+      },
+      {
+        "callingCode": "+676",
+        "regionFlag": "🇹🇴",
+        "regionCode": "TO",
+        "regionName": "Tonga"
+      },
+      {
+        "callingCode": "+1-868",
+        "regionCode": "TT",
+        "regionName": "Trinidad e Tobago",
+        "regionFlag": "🇹🇹"
+      },
+      {
+        "regionFlag": "🇹🇦",
+        "regionName": "Tristan da Cunha",
+        "regionCode": "TA",
+        "callingCode": "+290"
+      },
+      {
+        "regionFlag": "🇹🇳",
+        "callingCode": "+216",
+        "regionCode": "TN",
+        "regionName": "Tunisia"
+      },
+      {
+        "regionName": "Turchia",
+        "regionCode": "TR",
+        "regionFlag": "🇹🇷",
+        "callingCode": "+90"
+      },
+      {
+        "regionFlag": "🇹🇲",
+        "regionName": "Turkmenistan",
+        "callingCode": "+993",
+        "regionCode": "TM"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionCode": "TV",
+        "callingCode": "+688",
+        "regionFlag": "🇹🇻"
+      }
+    ]
+  },
+  {
+    "index": "U",
+    "items": [
+      {
+        "regionName": "Ucraina",
+        "callingCode": "+380",
+        "regionCode": "UA",
+        "regionFlag": "🇺🇦"
+      },
+      {
+        "regionFlag": "🇺🇬",
+        "regionCode": "UG",
+        "callingCode": "+256",
+        "regionName": "Uganda"
+      },
+      {
+        "regionCode": "HU",
+        "regionName": "Ungheria",
+        "regionFlag": "🇭🇺",
+        "callingCode": "+36"
+      },
+      {
+        "regionFlag": "🇺🇾",
+        "regionCode": "UY",
+        "regionName": "Uruguay",
+        "callingCode": "+598"
+      },
+      {
+        "regionName": "Uzbekistan",
+        "callingCode": "+998",
+        "regionFlag": "🇺🇿",
+        "regionCode": "UZ"
+      }
+    ]
+  },
+  {
+    "index": "V",
+    "items": [
+      {
+        "callingCode": "+678",
+        "regionName": "Vanuatu",
+        "regionFlag": "🇻🇺",
+        "regionCode": "VU"
+      },
+      {
+        "regionFlag": "🇻🇪",
+        "regionCode": "VE",
+        "regionName": "Venezuela",
+        "callingCode": "+58"
+      },
+      {
+        "callingCode": "+84",
+        "regionName": "Vietnam",
+        "regionCode": "VN",
+        "regionFlag": "🇻🇳"
+      }
+    ]
+  },
+  {
+    "index": "W",
+    "items": [
+      {
+        "callingCode": "+681",
+        "regionFlag": "🇼🇫",
+        "regionCode": "WF",
+        "regionName": "Wallis e Futuna"
+      }
+    ]
+  },
+  {
+    "index": "Y",
+    "items": [
+      {
+        "regionName": "Yemen",
+        "regionCode": "YE",
+        "callingCode": "+967",
+        "regionFlag": "🇾🇪"
+      }
+    ]
+  },
+  {
+    "index": "Z",
+    "items": [
+      {
+        "callingCode": "+260",
+        "regionFlag": "🇿🇲",
+        "regionCode": "ZM",
+        "regionName": "Zambia"
+      },
+      {
+        "regionName": "Zimbabwe",
+        "regionCode": "ZW",
+        "regionFlag": "🇿🇼",
+        "callingCode": "+263"
+      }
+    ]
+  }
+]

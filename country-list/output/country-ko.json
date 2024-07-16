@@ -1,0 +1,2087 @@
+[
+  {
+    "index": "A",
+    "items": [
+      {
+        "regionName": "Ascension Island",
+        "callingCode": "+247",
+        "regionCode": "AC",
+        "regionFlag": "🇦🇨",
+        "index": "A",
+        "syllables": "Ascension Island"
+      }
+    ]
+  },
+  {
+    "index": "K",
+    "items": [
+      {
+        "regionFlag": "🇽🇰",
+        "regionCode": "XK",
+        "regionName": "Kosovo",
+        "callingCode": "+383",
+        "index": "K",
+        "syllables": "Kosovo"
+      }
+    ]
+  },
+  {
+    "index": "T",
+    "items": [
+      {
+        "regionFlag": "🇹🇦",
+        "regionName": "Tristan da Cunha",
+        "regionCode": "TA",
+        "callingCode": "+290",
+        "index": "T",
+        "syllables": "Tristan da Cunha"
+      }
+    ]
+  },
+  {
+    "index": "ㄱ",
+    "items": [
+      {
+        "callingCode": "+233",
+        "regionFlag": "🇬🇭",
+        "regionCode": "GH",
+        "regionName": "가나",
+        "index": "ㄱ",
+        "syllables": "ㄱㅏㄴㅏ"
+      },
+      {
+        "regionCode": "GM",
+        "callingCode": "+220",
+        "regionFlag": "🇬🇲",
+        "regionName": "감비아",
+        "index": "ㄱ",
+        "syllables": "ㄱㅏㅁㅂㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇬🇦",
+        "callingCode": "+241",
+        "regionName": "가봉",
+        "regionCode": "GA",
+        "index": "ㄱ",
+        "syllables": "ㄱㅏㅂㅗㅇ"
+      },
+      {
+        "callingCode": "+595",
+        "regionName": "가이아나",
+        "regionCode": "GY",
+        "regionFlag": "🇬🇾",
+        "index": "ㄱ",
+        "syllables": "ㄱㅏㅇㅣㅇㅏㄴㅏ"
+      },
+      {
+        "callingCode": "+44",
+        "regionName": "건지",
+        "regionCode": "GG",
+        "regionFlag": "🇬🇬",
+        "index": "ㄱ",
+        "syllables": "ㄱㅓㄴㅈㅣ"
+      },
+      {
+        "callingCode": "+590",
+        "regionCode": "GP",
+        "regionFlag": "🇬🇵",
+        "regionName": "과들루프",
+        "index": "ㄱ",
+        "syllables": "ㄱㅗㅏㄷㅡㄹㄹㅜㅍㅡ"
+      },
+      {
+        "regionCode": "GU",
+        "callingCode": "+1-671",
+        "regionName": "괌",
+        "regionFlag": "🇬🇺",
+        "index": "ㄱ",
+        "syllables": "ㄱㅗㅏㅁ"
+      },
+      {
+        "regionCode": "GT",
+        "regionFlag": "🇬🇹",
+        "callingCode": "+502",
+        "regionName": "과테말라",
+        "index": "ㄱ",
+        "syllables": "ㄱㅗㅏㅌㅔㅁㅏㄹㄹㅏ"
+      },
+      {
+        "regionCode": "GD",
+        "regionName": "그레나다",
+        "callingCode": "+1-473",
+        "regionFlag": "🇬🇩",
+        "index": "ㄱ",
+        "syllables": "ㄱㅡㄹㅔㄴㅏㄷㅏ"
+      },
+      {
+        "regionFlag": "🇬🇱",
+        "regionCode": "GL",
+        "regionName": "그린란드",
+        "callingCode": "+299",
+        "index": "ㄱ",
+        "syllables": "ㄱㅡㄹㅣㄴㄹㅏㄴㄷㅡ"
+      },
+      {
+        "callingCode": "+30",
+        "regionCode": "GR",
+        "regionFlag": "🇬🇷",
+        "regionName": "그리스",
+        "index": "ㄱ",
+        "syllables": "ㄱㅡㄹㅣㅅㅡ"
+      },
+      {
+        "regionName": "기니",
+        "regionFlag": "🇬🇳",
+        "regionCode": "GN",
+        "callingCode": "+224",
+        "index": "ㄱ",
+        "syllables": "ㄱㅣㄴㅣ"
+      },
+      {
+        "regionCode": "GW",
+        "regionName": "기니비사우",
+        "callingCode": "+245",
+        "regionFlag": "🇬🇼",
+        "index": "ㄱ",
+        "syllables": "ㄱㅣㄴㅣㅂㅣㅅㅏㅇㅜ"
+      }
+    ]
+  },
+  {
+    "index": "ㄴ",
+    "items": [
+      {
+        "regionFlag": "🇦🇶",
+        "regionName": "남극 대륙",
+        "callingCode": "+672",
+        "regionCode": "AQ",
+        "index": "ㄴ",
+        "syllables": "ㄴㅏㅁㄱㅡㄱ ㄷㅐㄹㅠㄱ"
+      },
+      {
+        "regionFlag": "🇸🇸",
+        "callingCode": "+211",
+        "regionCode": "SS",
+        "regionName": "남수단",
+        "index": "ㄴ",
+        "syllables": "ㄴㅏㅁㅅㅜㄷㅏㄴ"
+      },
+      {
+        "regionCode": "ZA",
+        "regionFlag": "🇿🇦",
+        "regionName": "남아프리카",
+        "callingCode": "+27",
+        "index": "ㄴ",
+        "syllables": "ㄴㅏㅁㅇㅏㅍㅡㄹㅣㅋㅏ"
+      },
+      {
+        "regionFlag": "🇳🇦",
+        "regionName": "나미비아",
+        "callingCode": "+264",
+        "regionCode": "NA",
+        "index": "ㄴ",
+        "syllables": "ㄴㅏㅁㅣㅂㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇳🇷",
+        "regionCode": "NR",
+        "regionName": "나우루",
+        "callingCode": "+674",
+        "index": "ㄴ",
+        "syllables": "ㄴㅏㅇㅜㄹㅜ"
+      },
+      {
+        "regionFlag": "🇳🇬",
+        "regionName": "나이지리아",
+        "regionCode": "NG",
+        "callingCode": "+234",
+        "index": "ㄴ",
+        "syllables": "ㄴㅏㅇㅣㅈㅣㄹㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇳🇱",
+        "regionCode": "NL",
+        "regionName": "네덜란드",
+        "callingCode": "+31",
+        "index": "ㄴ",
+        "syllables": "ㄴㅔㄷㅓㄹㄹㅏㄴㄷㅡ"
+      },
+      {
+        "regionName": "네덜란드령 카리브",
+        "callingCode": "+599",
+        "regionFlag": "🇧🇶",
+        "regionCode": "BQ",
+        "index": "ㄴ",
+        "syllables": "ㄴㅔㄷㅓㄹㄹㅏㄴㄷㅡㄹㅕㅇ ㅋㅏㄹㅣㅂㅡ"
+      },
+      {
+        "regionFlag": "🇳🇵",
+        "regionName": "네팔",
+        "callingCode": "+977",
+        "regionCode": "NP",
+        "index": "ㄴ",
+        "syllables": "ㄴㅔㅍㅏㄹ"
+      },
+      {
+        "callingCode": "+47",
+        "regionCode": "NO",
+        "regionFlag": "🇳🇴",
+        "regionName": "노르웨이",
+        "index": "ㄴ",
+        "syllables": "ㄴㅗㄹㅡㅇㅜㅔㅇㅣ"
+      },
+      {
+        "regionFlag": "🇳🇫",
+        "regionName": "노퍽섬",
+        "callingCode": "+672",
+        "regionCode": "NF",
+        "index": "ㄴ",
+        "syllables": "ㄴㅗㅍㅓㄱㅅㅓㅁ"
+      },
+      {
+        "regionCode": "NZ",
+        "regionFlag": "🇳🇿",
+        "regionName": "뉴질랜드",
+        "callingCode": "+64",
+        "index": "ㄴ",
+        "syllables": "ㄴㅠㅈㅣㄹㄹㅐㄴㄷㅡ"
+      },
+      {
+        "regionName": "뉴칼레도니아",
+        "regionCode": "NC",
+        "callingCode": "+687",
+        "regionFlag": "🇳🇨",
+        "index": "ㄴ",
+        "syllables": "ㄴㅠㅋㅏㄹㄹㅔㄷㅗㄴㅣㅇㅏ"
+      },
+      {
+        "regionCode": "NU",
+        "regionName": "니우에",
+        "regionFlag": "🇳🇺",
+        "callingCode": "+683",
+        "index": "ㄴ",
+        "syllables": "ㄴㅣㅇㅜㅇㅔ"
+      },
+      {
+        "callingCode": "+227",
+        "regionName": "니제르",
+        "regionFlag": "🇳🇪",
+        "regionCode": "NE",
+        "index": "ㄴ",
+        "syllables": "ㄴㅣㅈㅔㄹㅡ"
+      },
+      {
+        "regionName": "니카라과",
+        "callingCode": "+505",
+        "regionCode": "NI",
+        "regionFlag": "🇳🇮",
+        "index": "ㄴ",
+        "syllables": "ㄴㅣㅋㅏㄹㅏㄱㅗㅏ"
+      }
+    ]
+  },
+  {
+    "index": "ㄷ",
+    "items": [
+      {
+        "regionCode": "TW",
+        "regionName": "대만",
+        "regionFlag": "🇨🇳",
+        "callingCode": "+886",
+        "index": "ㄷ",
+        "syllables": "ㄷㅐㅁㅏㄴ"
+      },
+      {
+        "regionFlag": "🇰🇷",
+        "callingCode": "+82",
+        "regionName": "대한민국",
+        "regionCode": "KR",
+        "index": "ㄷ",
+        "syllables": "ㄷㅐㅎㅏㄴㅁㅣㄴㄱㅜㄱ"
+      },
+      {
+        "regionFlag": "🇩🇰",
+        "regionCode": "DK",
+        "regionName": "덴마크",
+        "callingCode": "+45",
+        "index": "ㄷ",
+        "syllables": "ㄷㅔㄴㅁㅏㅋㅡ"
+      },
+      {
+        "regionName": "독일",
+        "regionFlag": "🇩🇪",
+        "regionCode": "DE",
+        "callingCode": "+49",
+        "index": "ㄷ",
+        "syllables": "ㄷㅗㄱㅇㅣㄹ"
+      },
+      {
+        "callingCode": "+1-767",
+        "regionFlag": "🇩🇲",
+        "regionName": "도미니카",
+        "regionCode": "DM",
+        "index": "ㄷ",
+        "syllables": "ㄷㅗㅁㅣㄴㅣㅋㅏ"
+      },
+      {
+        "regionFlag": "🇩🇴",
+        "regionCode": "DO",
+        "regionName": "도미니카 공화국",
+        "callingCode": "+1-849",
+        "index": "ㄷ",
+        "syllables": "ㄷㅗㅁㅣㄴㅣㅋㅏ ㄱㅗㅇㅎㅗㅏㄱㅜㄱ"
+      },
+      {
+        "regionCode": "TL",
+        "regionName": "동티모르",
+        "callingCode": "+670",
+        "regionFlag": "🇹🇱",
+        "index": "ㄷ",
+        "syllables": "ㄷㅗㅇㅌㅣㅁㅗㄹㅡ"
+      }
+    ]
+  },
+  {
+    "index": "ㄹ",
+    "items": [
+      {
+        "regionName": "라오스",
+        "callingCode": "+856",
+        "regionCode": "LA",
+        "regionFlag": "🇱🇦",
+        "index": "ㄹ",
+        "syllables": "ㄹㅏㅇㅗㅅㅡ"
+      },
+      {
+        "regionName": "라이베리아",
+        "regionCode": "LR",
+        "regionFlag": "🇱🇷",
+        "callingCode": "+231",
+        "index": "ㄹ",
+        "syllables": "ㄹㅏㅇㅣㅂㅔㄹㅣㅇㅏ"
+      },
+      {
+        "regionName": "라트비아",
+        "regionFlag": "🇱🇻",
+        "callingCode": "+371",
+        "regionCode": "LV",
+        "index": "ㄹ",
+        "syllables": "ㄹㅏㅌㅡㅂㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇷🇺",
+        "regionName": "러시아",
+        "callingCode": "+7",
+        "regionCode": "RU",
+        "index": "ㄹ",
+        "syllables": "ㄹㅓㅅㅣㅇㅏ"
+      },
+      {
+        "regionName": "레바논",
+        "callingCode": "+961",
+        "regionFlag": "🇱🇧",
+        "regionCode": "LB",
+        "index": "ㄹ",
+        "syllables": "ㄹㅔㅂㅏㄴㅗㄴ"
+      },
+      {
+        "regionName": "레소토",
+        "regionFlag": "🇱🇸",
+        "callingCode": "+266",
+        "regionCode": "LS",
+        "index": "ㄹ",
+        "syllables": "ㄹㅔㅅㅗㅌㅗ"
+      },
+      {
+        "callingCode": "+352",
+        "regionFlag": "🇱🇺",
+        "regionName": "룩셈부르크",
+        "regionCode": "LU",
+        "index": "ㄹ",
+        "syllables": "ㄹㅜㄱㅅㅔㅁㅂㅜㄹㅡㅋㅡ"
+      },
+      {
+        "callingCode": "+40",
+        "regionFlag": "🇷🇴",
+        "regionName": "루마니아",
+        "regionCode": "RO",
+        "index": "ㄹ",
+        "syllables": "ㄹㅜㅁㅏㄴㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇷🇼",
+        "regionName": "르완다",
+        "callingCode": "+250",
+        "regionCode": "RW",
+        "index": "ㄹ",
+        "syllables": "ㄹㅡㅇㅗㅏㄴㄷㅏ"
+      },
+      {
+        "callingCode": "+218",
+        "regionFlag": "🇱🇾",
+        "regionCode": "LY",
+        "regionName": "리비아",
+        "index": "ㄹ",
+        "syllables": "ㄹㅣㅂㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇷🇪",
+        "regionName": "리유니온",
+        "regionCode": "RE",
+        "callingCode": "+262",
+        "index": "ㄹ",
+        "syllables": "ㄹㅣㅇㅠㄴㅣㅇㅗㄴ"
+      },
+      {
+        "regionName": "리투아니아",
+        "regionCode": "LT",
+        "callingCode": "+370",
+        "regionFlag": "🇱🇹",
+        "index": "ㄹ",
+        "syllables": "ㄹㅣㅌㅜㅇㅏㄴㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇱🇮",
+        "regionName": "리히텐슈타인",
+        "regionCode": "LI",
+        "callingCode": "+423",
+        "index": "ㄹ",
+        "syllables": "ㄹㅣㅎㅣㅌㅔㄴㅅㅠㅌㅏㅇㅣㄴ"
+      }
+    ]
+  },
+  {
+    "index": "ㅁ",
+    "items": [
+      {
+        "regionName": "마다가스카르",
+        "regionFlag": "🇲🇬",
+        "regionCode": "MG",
+        "callingCode": "+261",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㄷㅏㄱㅏㅅㅡㅋㅏㄹㅡ"
+      },
+      {
+        "callingCode": "+265",
+        "regionFlag": "🇲🇼",
+        "regionCode": "MW",
+        "regionName": "말라위",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㄹㄹㅏㅇㅜㅣ"
+      },
+      {
+        "regionName": "말레이시아",
+        "callingCode": "+60",
+        "regionCode": "MY",
+        "regionFlag": "🇲🇾",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㄹㄹㅔㅇㅣㅅㅣㅇㅏ"
+      },
+      {
+        "callingCode": "+223",
+        "regionCode": "ML",
+        "regionFlag": "🇲🇱",
+        "regionName": "말리",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㄹㄹㅣ"
+      },
+      {
+        "regionFlag": "🇲🇶",
+        "regionName": "마르티니크",
+        "callingCode": "+596",
+        "regionCode": "MQ",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㄹㅡㅌㅣㄴㅣㅋㅡ"
+      },
+      {
+        "regionName": "마셜 제도",
+        "regionCode": "MH",
+        "regionFlag": "🇲🇭",
+        "callingCode": "+692",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㅅㅕㄹ ㅈㅔㄷㅗ"
+      },
+      {
+        "callingCode": "+262",
+        "regionName": "마요트",
+        "regionCode": "YT",
+        "regionFlag": "🇾🇹",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㅇㅛㅌㅡ"
+      },
+      {
+        "regionFlag": "🇲🇴",
+        "regionCode": "MO",
+        "callingCode": "+853",
+        "regionName": "마카오(중국 특별행정구)",
+        "index": "ㅁ",
+        "syllables": "ㅁㅏㅋㅏㅇㅗ(ㅈㅜㅇㄱㅜㄱ ㅌㅡㄱㅂㅕㄹㅎㅐㅇㅈㅓㅇㄱㅜ)"
+      },
+      {
+        "regionCode": "IM",
+        "callingCode": "+44",
+        "regionFlag": "🇮🇲",
+        "regionName": "맨 섬",
+        "index": "ㅁ",
+        "syllables": "ㅁㅐㄴ ㅅㅓㅁ"
+      },
+      {
+        "regionFlag": "🇲🇽",
+        "regionCode": "MX",
+        "regionName": "멕시코",
+        "callingCode": "+52",
+        "index": "ㅁ",
+        "syllables": "ㅁㅔㄱㅅㅣㅋㅗ"
+      },
+      {
+        "regionCode": "ME",
+        "regionName": "몬테네그로",
+        "regionFlag": "🇲🇪",
+        "callingCode": "+382",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄴㅌㅔㄴㅔㄱㅡㄹㅗ"
+      },
+      {
+        "regionName": "몬트세라트",
+        "regionCode": "MS",
+        "regionFlag": "🇲🇸",
+        "callingCode": "+1-664",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄴㅌㅡㅅㅔㄹㅏㅌㅡ"
+      },
+      {
+        "regionFlag": "🇲🇨",
+        "callingCode": "+377",
+        "regionName": "모나코",
+        "regionCode": "MC",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄴㅏㅋㅗ"
+      },
+      {
+        "regionFlag": "🇲🇩",
+        "regionCode": "MD",
+        "regionName": "몰도바",
+        "callingCode": "+373",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄹㄷㅗㅂㅏ"
+      },
+      {
+        "regionName": "몰디브",
+        "callingCode": "+960",
+        "regionCode": "MV",
+        "regionFlag": "🇲🇻",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄹㄷㅣㅂㅡ"
+      },
+      {
+        "regionFlag": "🇲🇹",
+        "regionName": "몰타",
+        "regionCode": "MT",
+        "callingCode": "+356",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄹㅌㅏ"
+      },
+      {
+        "regionCode": "MA",
+        "regionName": "모로코",
+        "regionFlag": "🇲🇦",
+        "callingCode": "+212",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄹㅗㅋㅗ"
+      },
+      {
+        "regionName": "모리셔스",
+        "regionFlag": "🇲🇺",
+        "callingCode": "+230",
+        "regionCode": "MU",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄹㅣㅅㅕㅅㅡ"
+      },
+      {
+        "regionFlag": "🇲🇷",
+        "callingCode": "+222",
+        "regionCode": "MR",
+        "regionName": "모리타니",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㄹㅣㅌㅏㄴㅣ"
+      },
+      {
+        "regionFlag": "🇲🇳",
+        "callingCode": "+976",
+        "regionName": "몽골",
+        "regionCode": "MN",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㅇㄱㅗㄹ"
+      },
+      {
+        "regionCode": "MZ",
+        "regionFlag": "🇲🇿",
+        "callingCode": "+258",
+        "regionName": "모잠비크",
+        "index": "ㅁ",
+        "syllables": "ㅁㅗㅈㅏㅁㅂㅣㅋㅡ"
+      },
+      {
+        "callingCode": "+1",
+        "regionName": "미국",
+        "regionFlag": "🇺🇸",
+        "regionCode": "US",
+        "index": "ㅁ",
+        "syllables": "ㅁㅣㄱㅜㄱ"
+      },
+      {
+        "regionCode": "VI",
+        "regionFlag": "🇻🇮",
+        "regionName": "미국령 버진아일랜드",
+        "callingCode": "+1-340",
+        "index": "ㅁ",
+        "syllables": "ㅁㅣㄱㅜㄱㄹㅕㅇ ㅂㅓㅈㅣㄴㅇㅏㅇㅣㄹㄹㅐㄴㄷㅡ"
+      },
+      {
+        "callingCode": "+1",
+        "regionFlag": "🇺🇸",
+        "regionCode": "UM",
+        "regionName": "미국령 해외 제도",
+        "index": "ㅁ",
+        "syllables": "ㅁㅣㄱㅜㄱㄹㅕㅇ ㅎㅐㅇㅗㅣ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionCode": "MM",
+        "regionName": "미얀마",
+        "callingCode": "+95",
+        "regionFlag": "🇲🇲",
+        "index": "ㅁ",
+        "syllables": "ㅁㅣㅇㅑㄴㅁㅏ"
+      },
+      {
+        "regionFlag": "🇫🇲",
+        "regionName": "미크로네시아",
+        "callingCode": "+691",
+        "regionCode": "FM",
+        "index": "ㅁ",
+        "syllables": "ㅁㅣㅋㅡㄹㅗㄴㅔㅅㅣㅇㅏ"
+      }
+    ]
+  },
+  {
+    "index": "ㅂ",
+    "items": [
+      {
+        "callingCode": "+678",
+        "regionName": "바누아투",
+        "regionFlag": "🇻🇺",
+        "regionCode": "VU",
+        "index": "ㅂ",
+        "syllables": "ㅂㅏㄴㅜㅇㅏㅌㅜ"
+      },
+      {
+        "regionName": "바레인",
+        "regionFlag": "🇧🇭",
+        "callingCode": "+973",
+        "regionCode": "BH",
+        "index": "ㅂ",
+        "syllables": "ㅂㅏㄹㅔㅇㅣㄴ"
+      },
+      {
+        "regionCode": "BB",
+        "regionFlag": "🇧🇧",
+        "regionName": "바베이도스",
+        "callingCode": "+1-246",
+        "index": "ㅂ",
+        "syllables": "ㅂㅏㅂㅔㅇㅣㄷㅗㅅㅡ"
+      },
+      {
+        "callingCode": "+880",
+        "regionCode": "BD",
+        "regionFlag": "🇧🇩",
+        "regionName": "방글라데시",
+        "index": "ㅂ",
+        "syllables": "ㅂㅏㅇㄱㅡㄹㄹㅏㄷㅔㅅㅣ"
+      },
+      {
+        "regionFlag": "🇻🇦",
+        "regionName": "바티칸 시국",
+        "callingCode": "+379",
+        "regionCode": "VA",
+        "index": "ㅂ",
+        "syllables": "ㅂㅏㅌㅣㅋㅏㄴ ㅅㅣㄱㅜㄱ"
+      },
+      {
+        "regionFlag": "🇧🇸",
+        "regionCode": "BS",
+        "regionName": "바하마",
+        "callingCode": "+1-242",
+        "index": "ㅂ",
+        "syllables": "ㅂㅏㅎㅏㅁㅏ"
+      },
+      {
+        "regionName": "버뮤다",
+        "callingCode": "+1-441",
+        "regionCode": "BM",
+        "regionFlag": "🇧🇲",
+        "index": "ㅂ",
+        "syllables": "ㅂㅓㅁㅠㄷㅏ"
+      },
+      {
+        "regionName": "베냉",
+        "regionFlag": "🇧🇯",
+        "regionCode": "BJ",
+        "callingCode": "+229",
+        "index": "ㅂ",
+        "syllables": "ㅂㅔㄴㅐㅇ"
+      },
+      {
+        "regionFlag": "🇻🇪",
+        "regionCode": "VE",
+        "regionName": "베네수엘라",
+        "callingCode": "+58",
+        "index": "ㅂ",
+        "syllables": "ㅂㅔㄴㅔㅅㅜㅇㅔㄹㄹㅏ"
+      },
+      {
+        "callingCode": "+32",
+        "regionCode": "BE",
+        "regionName": "벨기에",
+        "regionFlag": "🇧🇪",
+        "index": "ㅂ",
+        "syllables": "ㅂㅔㄹㄱㅣㅇㅔ"
+      },
+      {
+        "regionCode": "BY",
+        "regionFlag": "🇧🇾",
+        "regionName": "벨라루스",
+        "callingCode": "+375",
+        "index": "ㅂ",
+        "syllables": "ㅂㅔㄹㄹㅏㄹㅜㅅㅡ"
+      },
+      {
+        "regionCode": "BZ",
+        "regionFlag": "🇧🇿",
+        "callingCode": "+501",
+        "regionName": "벨리즈",
+        "index": "ㅂ",
+        "syllables": "ㅂㅔㄹㄹㅣㅈㅡ"
+      },
+      {
+        "callingCode": "+84",
+        "regionName": "베트남",
+        "regionCode": "VN",
+        "regionFlag": "🇻🇳",
+        "index": "ㅂ",
+        "syllables": "ㅂㅔㅌㅡㄴㅏㅁ"
+      },
+      {
+        "regionName": "볼리비아",
+        "callingCode": "+591",
+        "regionCode": "BO",
+        "regionFlag": "🇧🇴",
+        "index": "ㅂ",
+        "syllables": "ㅂㅗㄹㄹㅣㅂㅣㅇㅏ"
+      },
+      {
+        "regionCode": "BA",
+        "callingCode": "+387",
+        "regionFlag": "🇧🇦",
+        "regionName": "보스니아 헤르체고비나",
+        "index": "ㅂ",
+        "syllables": "ㅂㅗㅅㅡㄴㅣㅇㅏ ㅎㅔㄹㅡㅊㅔㄱㅗㅂㅣㄴㅏ"
+      },
+      {
+        "regionFlag": "🇧🇼",
+        "regionName": "보츠와나",
+        "regionCode": "BW",
+        "callingCode": "+267",
+        "index": "ㅂ",
+        "syllables": "ㅂㅗㅊㅡㅇㅗㅏㄴㅏ"
+      },
+      {
+        "regionName": "북마리아나제도",
+        "regionCode": "MP",
+        "regionFlag": "🇲🇵",
+        "callingCode": "+1-670",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㄱㅁㅏㄹㅣㅇㅏㄴㅏㅈㅔㄷㅗ"
+      },
+      {
+        "regionCode": "MK",
+        "callingCode": "+389",
+        "regionName": "북마케도니아",
+        "regionFlag": "🇲🇰",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㄱㅁㅏㅋㅔㄷㅗㄴㅣㅇㅏ"
+      },
+      {
+        "regionCode": "KP",
+        "regionFlag": "🇰🇵",
+        "callingCode": "+850",
+        "regionName": "북한",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㄱㅎㅏㄴ"
+      },
+      {
+        "regionName": "불가리아",
+        "callingCode": "+359",
+        "regionCode": "BG",
+        "regionFlag": "🇧🇬",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㄹㄱㅏㄹㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇧🇮",
+        "regionName": "부룬디",
+        "regionCode": "BI",
+        "callingCode": "+257",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㄹㅜㄴㄷㅣ"
+      },
+      {
+        "callingCode": "+226",
+        "regionFlag": "🇧🇫",
+        "regionName": "부르키나파소",
+        "regionCode": "BF",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㄹㅡㅋㅣㄴㅏㅍㅏㅅㅗ"
+      },
+      {
+        "regionCode": "BT",
+        "regionName": "부탄",
+        "callingCode": "+975",
+        "regionFlag": "🇧🇹",
+        "index": "ㅂ",
+        "syllables": "ㅂㅜㅌㅏㄴ"
+      },
+      {
+        "regionName": "브라질",
+        "regionCode": "BR",
+        "callingCode": "+55",
+        "regionFlag": "🇧🇷",
+        "index": "ㅂ",
+        "syllables": "ㅂㅡㄹㅏㅈㅣㄹ"
+      },
+      {
+        "regionName": "브루나이",
+        "regionCode": "BN",
+        "regionFlag": "🇧🇳",
+        "callingCode": "+673",
+        "index": "ㅂ",
+        "syllables": "ㅂㅡㄹㅜㄴㅏㅇㅣ"
+      }
+    ]
+  },
+  {
+    "index": "ㅅ",
+    "items": [
+      {
+        "regionCode": "SM",
+        "regionFlag": "🇸🇲",
+        "callingCode": "+378",
+        "regionName": "산마리노",
+        "index": "ㅅ",
+        "syllables": "ㅅㅏㄴㅁㅏㄹㅣㄴㅗ"
+      },
+      {
+        "regionCode": "WS",
+        "regionName": "사모아",
+        "regionFlag": "🇼🇸",
+        "callingCode": "+685",
+        "index": "ㅅ",
+        "syllables": "ㅅㅏㅁㅗㅇㅏ"
+      },
+      {
+        "regionName": "상투메 프린시페",
+        "callingCode": "+239",
+        "regionCode": "ST",
+        "regionFlag": "🇸🇹",
+        "index": "ㅅ",
+        "syllables": "ㅅㅏㅇㅌㅜㅁㅔ ㅍㅡㄹㅣㄴㅅㅣㅍㅔ"
+      },
+      {
+        "regionName": "사우디아라비아",
+        "regionCode": "SA",
+        "regionFlag": "🇸🇦",
+        "callingCode": "+966",
+        "index": "ㅅ",
+        "syllables": "ㅅㅏㅇㅜㄷㅣㅇㅏㄹㅏㅂㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇬🇸",
+        "regionName": "사우스조지아 사우스샌드위치 제도",
+        "regionCode": "GS",
+        "callingCode": "+500",
+        "index": "ㅅ",
+        "syllables": "ㅅㅏㅇㅜㅅㅡㅈㅗㅈㅣㅇㅏ ㅅㅏㅇㅜㅅㅡㅅㅐㄴㄷㅡㅇㅜㅣㅊㅣ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionCode": "MF",
+        "regionFlag": "🇲🇫",
+        "regionName": "생마르탱",
+        "callingCode": "+590",
+        "index": "ㅅ",
+        "syllables": "ㅅㅐㅇㅁㅏㄹㅡㅌㅐㅇ"
+      },
+      {
+        "callingCode": "+590",
+        "regionName": "생바르텔레미",
+        "regionCode": "BL",
+        "regionFlag": "🇧🇱",
+        "index": "ㅅ",
+        "syllables": "ㅅㅐㅇㅂㅏㄹㅡㅌㅔㄹㄹㅔㅁㅣ"
+      },
+      {
+        "regionName": "생피에르 미클롱",
+        "regionFlag": "🇵🇲",
+        "regionCode": "PM",
+        "callingCode": "+508",
+        "index": "ㅅ",
+        "syllables": "ㅅㅐㅇㅍㅣㅇㅔㄹㅡ ㅁㅣㅋㅡㄹㄹㅗㅇ"
+      },
+      {
+        "regionName": "서사하라",
+        "regionFlag": "🇪🇭",
+        "regionCode": "EH",
+        "callingCode": "+212",
+        "index": "ㅅ",
+        "syllables": "ㅅㅓㅅㅏㅎㅏㄹㅏ"
+      },
+      {
+        "callingCode": "+221",
+        "regionCode": "SN",
+        "regionName": "세네갈",
+        "regionFlag": "🇸🇳",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㄴㅔㄱㅏㄹ"
+      },
+      {
+        "regionName": "세르비아",
+        "regionCode": "RS",
+        "regionFlag": "🇷🇸",
+        "callingCode": "+381",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㄹㅡㅂㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇱🇨",
+        "regionName": "세인트루시아",
+        "callingCode": "+1-758",
+        "regionCode": "LC",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㅇㅣㄴㅌㅡㄹㅜㅅㅣㅇㅏ"
+      },
+      {
+        "regionCode": "VC",
+        "regionName": "세인트빈센트그레나딘",
+        "callingCode": "+1-784",
+        "regionFlag": "🇻🇨",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㅇㅣㄴㅌㅡㅂㅣㄴㅅㅔㄴㅌㅡㄱㅡㄹㅔㄴㅏㄷㅣㄴ"
+      },
+      {
+        "regionFlag": "🇰🇳",
+        "callingCode": "+1-869",
+        "regionCode": "KN",
+        "regionName": "세인트키츠 네비스",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㅇㅣㄴㅌㅡㅋㅣㅊㅡ ㄴㅔㅂㅣㅅㅡ"
+      },
+      {
+        "regionFlag": "🇸🇭",
+        "callingCode": "+290",
+        "regionCode": "SH",
+        "regionName": "세인트헬레나",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㅇㅣㄴㅌㅡㅎㅔㄹㄹㅔㄴㅏ"
+      },
+      {
+        "regionCode": "SC",
+        "regionFlag": "🇸🇨",
+        "callingCode": "+248",
+        "regionName": "세이셸",
+        "index": "ㅅ",
+        "syllables": "ㅅㅔㅇㅣㅅㅖㄹ"
+      },
+      {
+        "regionCode": "SB",
+        "regionName": "솔로몬 제도",
+        "callingCode": "+677",
+        "regionFlag": "🇸🇧",
+        "index": "ㅅ",
+        "syllables": "ㅅㅗㄹㄹㅗㅁㅗㄴ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionCode": "SO",
+        "regionName": "소말리아",
+        "regionFlag": "🇸🇴",
+        "callingCode": "+252",
+        "index": "ㅅ",
+        "syllables": "ㅅㅗㅁㅏㄹㄹㅣㅇㅏ"
+      },
+      {
+        "regionCode": "SD",
+        "regionName": "수단",
+        "regionFlag": "🇸🇩",
+        "callingCode": "+249",
+        "index": "ㅅ",
+        "syllables": "ㅅㅜㄷㅏㄴ"
+      },
+      {
+        "regionFlag": "🇸🇷",
+        "regionName": "수리남",
+        "callingCode": "+597",
+        "regionCode": "SR",
+        "index": "ㅅ",
+        "syllables": "ㅅㅜㄹㅣㄴㅏㅁ"
+      },
+      {
+        "regionCode": "SK",
+        "regionName": "슬로바키아",
+        "callingCode": "+421",
+        "regionFlag": "🇸🇰",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㄹㄹㅗㅂㅏㅋㅣㅇㅏ"
+      },
+      {
+        "regionName": "슬로베니아",
+        "regionFlag": "🇸🇮",
+        "regionCode": "SI",
+        "callingCode": "+386",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㄹㄹㅗㅂㅔㄴㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇱🇰",
+        "callingCode": "+94",
+        "regionCode": "LK",
+        "regionName": "스리랑카",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㄹㅣㄹㅏㅇㅋㅏ"
+      },
+      {
+        "callingCode": "+47",
+        "regionName": "스발바르제도-얀마웬섬",
+        "regionCode": "SJ",
+        "regionFlag": "🇸🇯",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㅂㅏㄹㅂㅏㄹㅡㅈㅔㄷㅗ-ㅇㅑㄴㅁㅏㅇㅜㅔㄴㅅㅓㅁ"
+      },
+      {
+        "regionName": "스웨덴",
+        "regionFlag": "🇸🇪",
+        "callingCode": "+46",
+        "regionCode": "SE",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㅇㅜㅔㄷㅔㄴ"
+      },
+      {
+        "callingCode": "+41",
+        "regionName": "스위스",
+        "regionFlag": "🇨🇭",
+        "regionCode": "CH",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㅇㅜㅣㅅㅡ"
+      },
+      {
+        "regionFlag": "🇪🇸",
+        "callingCode": "+34",
+        "regionCode": "ES",
+        "regionName": "스페인",
+        "index": "ㅅ",
+        "syllables": "ㅅㅡㅍㅔㅇㅣㄴ"
+      },
+      {
+        "regionFlag": "🇸🇽",
+        "regionName": "신트마르턴",
+        "callingCode": "+1-721",
+        "regionCode": "SX",
+        "index": "ㅅ",
+        "syllables": "ㅅㅣㄴㅌㅡㅁㅏㄹㅡㅌㅓㄴ"
+      },
+      {
+        "regionCode": "SY",
+        "regionFlag": "🇸🇾",
+        "regionName": "시리아",
+        "callingCode": "+963",
+        "index": "ㅅ",
+        "syllables": "ㅅㅣㄹㅣㅇㅏ"
+      },
+      {
+        "callingCode": "+65",
+        "regionFlag": "🇸🇬",
+        "regionName": "싱가포르",
+        "regionCode": "SG",
+        "index": "ㅅ",
+        "syllables": "ㅅㅣㅇㄱㅏㅍㅗㄹㅡ"
+      },
+      {
+        "callingCode": "+232",
+        "regionFlag": "🇸🇱",
+        "regionCode": "SL",
+        "regionName": "시에라리온",
+        "index": "ㅅ",
+        "syllables": "ㅅㅣㅇㅔㄹㅏㄹㅣㅇㅗㄴ"
+      }
+    ]
+  },
+  {
+    "index": "ㅇ",
+    "items": [
+      {
+        "regionCode": "AD",
+        "regionFlag": "🇦🇩",
+        "regionName": "안도라",
+        "callingCode": "+376",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄴㄷㅗㄹㅏ"
+      },
+      {
+        "regionName": "알바니아",
+        "regionCode": "AL",
+        "callingCode": "+355",
+        "regionFlag": "🇦🇱",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄹㅂㅏㄴㅣㅇㅏ"
+      },
+      {
+        "regionCode": "DZ",
+        "regionFlag": "🇩🇿",
+        "callingCode": "+213",
+        "regionName": "알제리",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄹㅈㅔㄹㅣ"
+      },
+      {
+        "regionCode": "AE",
+        "callingCode": "+971",
+        "regionFlag": "🇦🇪",
+        "regionName": "아랍에미리트",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄹㅏㅂㅇㅔㅁㅣㄹㅣㅌㅡ"
+      },
+      {
+        "callingCode": "+297",
+        "regionName": "아루바",
+        "regionCode": "AW",
+        "regionFlag": "🇦🇼",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄹㅜㅂㅏ"
+      },
+      {
+        "regionCode": "AM",
+        "regionFlag": "🇦🇲",
+        "regionName": "아르메니아",
+        "callingCode": "+374",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄹㅡㅁㅔㄴㅣㅇㅏ"
+      },
+      {
+        "regionCode": "AR",
+        "regionName": "아르헨티나",
+        "regionFlag": "🇦🇷",
+        "callingCode": "+54",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㄹㅡㅎㅔㄴㅌㅣㄴㅏ"
+      },
+      {
+        "callingCode": "+1-684",
+        "regionName": "아메리칸 사모아",
+        "regionFlag": "🇦🇸",
+        "regionCode": "AS",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅁㅔㄹㅣㅋㅏㄴ ㅅㅏㅁㅗㅇㅏ"
+      },
+      {
+        "regionName": "앙골라",
+        "regionCode": "AO",
+        "callingCode": "+244",
+        "regionFlag": "🇦🇴",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅇㄱㅗㄹㄹㅏ"
+      },
+      {
+        "callingCode": "+353",
+        "regionName": "아일랜드",
+        "regionCode": "IE",
+        "regionFlag": "🇮🇪",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅇㅣㄹㄹㅐㄴㄷㅡ"
+      },
+      {
+        "regionCode": "IS",
+        "regionFlag": "🇮🇸",
+        "regionName": "아이슬란드",
+        "callingCode": "+354",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅇㅣㅅㅡㄹㄹㅏㄴㄷㅡ"
+      },
+      {
+        "regionFlag": "🇭🇹",
+        "regionCode": "HT",
+        "regionName": "아이티",
+        "callingCode": "+509",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅇㅣㅌㅣ"
+      },
+      {
+        "callingCode": "+994",
+        "regionFlag": "🇦🇿",
+        "regionName": "아제르바이잔",
+        "regionCode": "AZ",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅈㅔㄹㅡㅂㅏㅇㅣㅈㅏㄴ"
+      },
+      {
+        "regionFlag": "🇦🇫",
+        "regionCode": "AF",
+        "callingCode": "+93",
+        "regionName": "아프가니스탄",
+        "index": "ㅇ",
+        "syllables": "ㅇㅏㅍㅡㄱㅏㄴㅣㅅㅡㅌㅏㄴ"
+      },
+      {
+        "regionCode": "AG",
+        "regionName": "앤티가 바부다",
+        "callingCode": "+1-268",
+        "regionFlag": "🇦🇬",
+        "index": "ㅇ",
+        "syllables": "ㅇㅐㄴㅌㅣㄱㅏ ㅂㅏㅂㅜㄷㅏ"
+      },
+      {
+        "callingCode": "+1-264",
+        "regionCode": "AI",
+        "regionFlag": "🇦🇮",
+        "regionName": "앵귈라",
+        "index": "ㅇ",
+        "syllables": "ㅇㅐㅇㄱㅜㅣㄹㄹㅏ"
+      },
+      {
+        "callingCode": "+503",
+        "regionFlag": "🇸🇻",
+        "regionCode": "SV",
+        "regionName": "엘살바도르",
+        "index": "ㅇ",
+        "syllables": "ㅇㅔㄹㅅㅏㄹㅂㅏㄷㅗㄹㅡ"
+      },
+      {
+        "regionCode": "ER",
+        "regionFlag": "🇪🇷",
+        "callingCode": "+291",
+        "regionName": "에리트리아",
+        "index": "ㅇ",
+        "syllables": "ㅇㅔㄹㅣㅌㅡㄹㅣㅇㅏ"
+      },
+      {
+        "regionCode": "SZ",
+        "regionName": "에스와티니",
+        "regionFlag": "🇸🇿",
+        "callingCode": "+268",
+        "index": "ㅇ",
+        "syllables": "ㅇㅔㅅㅡㅇㅗㅏㅌㅣㄴㅣ"
+      },
+      {
+        "callingCode": "+372",
+        "regionName": "에스토니아",
+        "regionCode": "EE",
+        "regionFlag": "🇪🇪",
+        "index": "ㅇ",
+        "syllables": "ㅇㅔㅅㅡㅌㅗㄴㅣㅇㅏ"
+      },
+      {
+        "regionCode": "EC",
+        "regionName": "에콰도르",
+        "callingCode": "+593",
+        "regionFlag": "🇪🇨",
+        "index": "ㅇ",
+        "syllables": "ㅇㅔㅋㅗㅏㄷㅗㄹㅡ"
+      },
+      {
+        "callingCode": "+251",
+        "regionFlag": "🇪🇹",
+        "regionCode": "ET",
+        "regionName": "에티오피아",
+        "index": "ㅇ",
+        "syllables": "ㅇㅔㅌㅣㅇㅗㅍㅣㅇㅏ"
+      },
+      {
+        "callingCode": "+44",
+        "regionFlag": "🇬🇧",
+        "regionCode": "GB",
+        "regionName": "영국",
+        "index": "ㅇ",
+        "syllables": "ㅇㅕㅇㄱㅜㄱ"
+      },
+      {
+        "callingCode": "+1-284",
+        "regionName": "영국령 버진아일랜드",
+        "regionCode": "VG",
+        "regionFlag": "🇻🇬",
+        "index": "ㅇ",
+        "syllables": "ㅇㅕㅇㄱㅜㄱㄹㅕㅇ ㅂㅓㅈㅣㄴㅇㅏㅇㅣㄹㄹㅐㄴㄷㅡ"
+      },
+      {
+        "regionFlag": "🇮🇴",
+        "regionCode": "IO",
+        "callingCode": "+246",
+        "regionName": "영국령 인도양 식민지",
+        "index": "ㅇ",
+        "syllables": "ㅇㅕㅇㄱㅜㄱㄹㅕㅇ ㅇㅣㄴㄷㅗㅇㅑㅇ ㅅㅣㄱㅁㅣㄴㅈㅣ"
+      },
+      {
+        "regionName": "예멘",
+        "regionCode": "YE",
+        "callingCode": "+967",
+        "regionFlag": "🇾🇪",
+        "index": "ㅇ",
+        "syllables": "ㅇㅖㅁㅔㄴ"
+      },
+      {
+        "regionCode": "HN",
+        "callingCode": "+504",
+        "regionName": "온두라스",
+        "regionFlag": "🇭🇳",
+        "index": "ㅇ",
+        "syllables": "ㅇㅗㄴㄷㅜㄹㅏㅅㅡ"
+      },
+      {
+        "regionName": "올란드 제도",
+        "regionFlag": "🇦🇽",
+        "regionCode": "AX",
+        "callingCode": "+358",
+        "index": "ㅇ",
+        "syllables": "ㅇㅗㄹㄹㅏㄴㄷㅡ ㅈㅔㄷㅗ"
+      },
+      {
+        "callingCode": "+968",
+        "regionFlag": "🇴🇲",
+        "regionName": "오만",
+        "regionCode": "OM",
+        "index": "ㅇ",
+        "syllables": "ㅇㅗㅁㅏㄴ"
+      },
+      {
+        "regionCode": "AU",
+        "regionName": "오스트레일리아",
+        "callingCode": "+61",
+        "regionFlag": "🇦🇺",
+        "index": "ㅇ",
+        "syllables": "ㅇㅗㅅㅡㅌㅡㄹㅔㅇㅣㄹㄹㅣㅇㅏ"
+      },
+      {
+        "regionCode": "AT",
+        "regionFlag": "🇦🇹",
+        "callingCode": "+43",
+        "regionName": "오스트리아",
+        "index": "ㅇ",
+        "syllables": "ㅇㅗㅅㅡㅌㅡㄹㅣㅇㅏ"
+      },
+      {
+        "callingCode": "+681",
+        "regionFlag": "🇼🇫",
+        "regionCode": "WF",
+        "regionName": "왈리스-푸투나 제도",
+        "index": "ㅇ",
+        "syllables": "ㅇㅗㅏㄹㄹㅣㅅㅡ-ㅍㅜㅌㅜㄴㅏ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionName": "요르단",
+        "regionFlag": "🇯🇴",
+        "regionCode": "JO",
+        "callingCode": "+962",
+        "index": "ㅇ",
+        "syllables": "ㅇㅛㄹㅡㄷㅏㄴ"
+      },
+      {
+        "regionFlag": "🇺🇬",
+        "regionCode": "UG",
+        "callingCode": "+256",
+        "regionName": "우간다",
+        "index": "ㅇ",
+        "syllables": "ㅇㅜㄱㅏㄴㄷㅏ"
+      },
+      {
+        "regionFlag": "🇺🇾",
+        "regionCode": "UY",
+        "regionName": "우루과이",
+        "callingCode": "+598",
+        "index": "ㅇ",
+        "syllables": "ㅇㅜㄹㅜㄱㅗㅏㅇㅣ"
+      },
+      {
+        "regionName": "우즈베키스탄",
+        "callingCode": "+998",
+        "regionFlag": "🇺🇿",
+        "regionCode": "UZ",
+        "index": "ㅇ",
+        "syllables": "ㅇㅜㅈㅡㅂㅔㅋㅣㅅㅡㅌㅏㄴ"
+      },
+      {
+        "regionName": "우크라이나",
+        "callingCode": "+380",
+        "regionCode": "UA",
+        "regionFlag": "🇺🇦",
+        "index": "ㅇ",
+        "syllables": "ㅇㅜㅋㅡㄹㅏㅇㅣㄴㅏ"
+      },
+      {
+        "regionCode": "IN",
+        "regionFlag": "🇮🇳",
+        "regionName": "인도",
+        "callingCode": "+91",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㄴㄷㅗ"
+      },
+      {
+        "regionCode": "ID",
+        "regionFlag": "🇮🇩",
+        "callingCode": "+62",
+        "regionName": "인도네시아",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㄴㄷㅗㄴㅔㅅㅣㅇㅏ"
+      },
+      {
+        "regionCode": "JP",
+        "callingCode": "+81",
+        "regionFlag": "🇯🇵",
+        "regionName": "일본",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㄹㅂㅗㄴ"
+      },
+      {
+        "regionFlag": "🇮🇷",
+        "callingCode": "+98",
+        "regionCode": "IR",
+        "regionName": "이란",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㄹㅏㄴ"
+      },
+      {
+        "callingCode": "+964",
+        "regionCode": "IQ",
+        "regionFlag": "🇮🇶",
+        "regionName": "이라크",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㄹㅏㅋㅡ"
+      },
+      {
+        "regionName": "이스라엘",
+        "regionFlag": "🇮🇱",
+        "callingCode": "+972",
+        "regionCode": "IL",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㅅㅡㄹㅏㅇㅔㄹ"
+      },
+      {
+        "regionFlag": "🇪🇬",
+        "regionCode": "EG",
+        "regionName": "이집트",
+        "callingCode": "+20",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㅈㅣㅂㅌㅡ"
+      },
+      {
+        "regionName": "이탈리아",
+        "callingCode": "+39",
+        "regionCode": "IT",
+        "regionFlag": "🇮🇹",
+        "index": "ㅇ",
+        "syllables": "ㅇㅣㅌㅏㄹㄹㅣㅇㅏ"
+      }
+    ]
+  },
+  {
+    "index": "ㅈ",
+    "items": [
+      {
+        "callingCode": "+260",
+        "regionFlag": "🇿🇲",
+        "regionCode": "ZM",
+        "regionName": "잠비아",
+        "index": "ㅈ",
+        "syllables": "ㅈㅏㅁㅂㅣㅇㅏ"
+      },
+      {
+        "callingCode": "+1-876",
+        "regionFlag": "🇯🇲",
+        "regionCode": "JM",
+        "regionName": "자메이카",
+        "index": "ㅈ",
+        "syllables": "ㅈㅏㅁㅔㅇㅣㅋㅏ"
+      },
+      {
+        "regionCode": "GQ",
+        "regionFlag": "🇬🇶",
+        "callingCode": "+240",
+        "regionName": "적도 기니",
+        "index": "ㅈ",
+        "syllables": "ㅈㅓㄱㄷㅗ ㄱㅣㄴㅣ"
+      },
+      {
+        "regionName": "저지",
+        "regionCode": "JE",
+        "regionFlag": "🇯🇪",
+        "callingCode": "+44",
+        "index": "ㅈ",
+        "syllables": "ㅈㅓㅈㅣ"
+      },
+      {
+        "regionCode": "GE",
+        "regionFlag": "🇬🇪",
+        "callingCode": "+995",
+        "regionName": "조지아",
+        "index": "ㅈ",
+        "syllables": "ㅈㅗㅈㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇨🇳",
+        "callingCode": "+86",
+        "regionName": "중국",
+        "regionCode": "CN",
+        "index": "ㅈ",
+        "syllables": "ㅈㅜㅇㄱㅜㄱ"
+      },
+      {
+        "callingCode": "+236",
+        "regionCode": "CF",
+        "regionFlag": "🇨🇫",
+        "regionName": "중앙 아프리카 공화국",
+        "index": "ㅈ",
+        "syllables": "ㅈㅜㅇㅇㅏㅇ ㅇㅏㅍㅡㄹㅣㅋㅏ ㄱㅗㅇㅎㅗㅏㄱㅜㄱ"
+      },
+      {
+        "regionName": "짐바브웨",
+        "regionCode": "ZW",
+        "regionFlag": "🇿🇼",
+        "callingCode": "+263",
+        "index": "ㅈ",
+        "syllables": "ㅈㅣㅁㅂㅏㅂㅡㅇㅜㅔ"
+      },
+      {
+        "regionCode": "DJ",
+        "callingCode": "+253",
+        "regionName": "지부티",
+        "regionFlag": "🇩🇯",
+        "index": "ㅈ",
+        "syllables": "ㅈㅣㅂㅜㅌㅣ"
+      },
+      {
+        "regionName": "지브롤터",
+        "regionCode": "GI",
+        "regionFlag": "🇬🇮",
+        "callingCode": "+350",
+        "index": "ㅈ",
+        "syllables": "ㅈㅣㅂㅡㄹㅗㄹㅌㅓ"
+      }
+    ]
+  },
+  {
+    "index": "ㅊ",
+    "items": [
+      {
+        "regionName": "차드",
+        "regionFlag": "🇹🇩",
+        "callingCode": "+235",
+        "regionCode": "TD",
+        "index": "ㅊ",
+        "syllables": "ㅊㅏㄷㅡ"
+      },
+      {
+        "callingCode": "+420",
+        "regionFlag": "🇨🇿",
+        "regionCode": "CZ",
+        "regionName": "체코",
+        "index": "ㅊ",
+        "syllables": "ㅊㅔㅋㅗ"
+      },
+      {
+        "regionName": "칠레",
+        "regionCode": "CL",
+        "callingCode": "+56",
+        "regionFlag": "🇨🇱",
+        "index": "ㅊ",
+        "syllables": "ㅊㅣㄹㄹㅔ"
+      }
+    ]
+  },
+  {
+    "index": "ㅋ",
+    "items": [
+      {
+        "regionFlag": "🇰🇭",
+        "regionCode": "KH",
+        "callingCode": "+855",
+        "regionName": "캄보디아",
+        "index": "ㅋ",
+        "syllables": "ㅋㅏㅁㅂㅗㄷㅣㅇㅏ"
+      },
+      {
+        "callingCode": "+237",
+        "regionFlag": "🇨🇲",
+        "regionCode": "CM",
+        "regionName": "카메룬",
+        "index": "ㅋ",
+        "syllables": "ㅋㅏㅁㅔㄹㅜㄴ"
+      },
+      {
+        "regionFlag": "🇨🇻",
+        "regionName": "카보베르데",
+        "callingCode": "+238",
+        "regionCode": "CV",
+        "index": "ㅋ",
+        "syllables": "ㅋㅏㅂㅗㅂㅔㄹㅡㄷㅔ"
+      },
+      {
+        "regionFlag": "🇰🇿",
+        "callingCode": "+7",
+        "regionName": "카자흐스탄",
+        "regionCode": "KZ",
+        "index": "ㅋ",
+        "syllables": "ㅋㅏㅈㅏㅎㅡㅅㅡㅌㅏㄴ"
+      },
+      {
+        "regionCode": "QA",
+        "regionName": "카타르",
+        "regionFlag": "🇶🇦",
+        "callingCode": "+974",
+        "index": "ㅋ",
+        "syllables": "ㅋㅏㅌㅏㄹㅡ"
+      },
+      {
+        "callingCode": "+1",
+        "regionCode": "CA",
+        "regionName": "캐나다",
+        "regionFlag": "🇨🇦",
+        "index": "ㅋ",
+        "syllables": "ㅋㅐㄴㅏㄷㅏ"
+      },
+      {
+        "callingCode": "+254",
+        "regionFlag": "🇰🇪",
+        "regionName": "케냐",
+        "regionCode": "KE",
+        "index": "ㅋ",
+        "syllables": "ㅋㅔㄴㅑ"
+      },
+      {
+        "callingCode": "+345",
+        "regionFlag": "🇰🇾",
+        "regionCode": "KY",
+        "regionName": "케이맨 제도",
+        "index": "ㅋ",
+        "syllables": "ㅋㅔㅇㅣㅁㅐㄴ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionName": "콜롬비아",
+        "regionFlag": "🇨🇴",
+        "regionCode": "CO",
+        "callingCode": "+57",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㄹㄹㅗㅁㅂㅣㅇㅏ"
+      },
+      {
+        "regionName": "코모로",
+        "callingCode": "+269",
+        "regionFlag": "🇰🇲",
+        "regionCode": "KM",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㅁㅗㄹㅗ"
+      },
+      {
+        "regionFlag": "🇨🇷",
+        "callingCode": "+506",
+        "regionName": "코스타리카",
+        "regionCode": "CR",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㅅㅡㅌㅏㄹㅣㅋㅏ"
+      },
+      {
+        "callingCode": "+242",
+        "regionName": "콩고-브라자빌",
+        "regionCode": "CG",
+        "regionFlag": "🇨🇬",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㅇㄱㅗ-ㅂㅡㄹㅏㅈㅏㅂㅣㄹ"
+      },
+      {
+        "callingCode": "+243",
+        "regionCode": "CD",
+        "regionFlag": "🇨🇩",
+        "regionName": "콩고-킨샤사",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㅇㄱㅗ-ㅋㅣㄴㅅㅑㅅㅏ"
+      },
+      {
+        "regionCode": "CC",
+        "regionFlag": "🇨🇨",
+        "regionName": "코코스 제도",
+        "callingCode": "+61",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㅋㅗㅅㅡ ㅈㅔㄷㅗ"
+      },
+      {
+        "callingCode": "+225",
+        "regionFlag": "🇨🇮",
+        "regionCode": "CI",
+        "regionName": "코트디부아르",
+        "index": "ㅋ",
+        "syllables": "ㅋㅗㅌㅡㄷㅣㅂㅜㅇㅏㄹㅡ"
+      },
+      {
+        "regionFlag": "🇨🇰",
+        "regionCode": "CK",
+        "regionName": "쿡 제도",
+        "callingCode": "+682",
+        "index": "ㅋ",
+        "syllables": "ㅋㅜㄱ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionName": "쿠바",
+        "regionFlag": "🇨🇺",
+        "regionCode": "CU",
+        "callingCode": "+53",
+        "index": "ㅋ",
+        "syllables": "ㅋㅜㅂㅏ"
+      },
+      {
+        "callingCode": "+965",
+        "regionCode": "KW",
+        "regionFlag": "🇰🇼",
+        "regionName": "쿠웨이트",
+        "index": "ㅋ",
+        "syllables": "ㅋㅜㅇㅜㅔㅇㅣㅌㅡ"
+      },
+      {
+        "regionFlag": "🇨🇼",
+        "regionCode": "CW",
+        "regionName": "퀴라소",
+        "callingCode": "+599 9",
+        "index": "ㅋ",
+        "syllables": "ㅋㅜㅣㄹㅏㅅㅗ"
+      },
+      {
+        "regionCode": "HR",
+        "regionFlag": "🇭🇷",
+        "regionName": "크로아티아",
+        "callingCode": "+385",
+        "index": "ㅋ",
+        "syllables": "ㅋㅡㄹㅗㅇㅏㅌㅣㅇㅏ"
+      },
+      {
+        "regionCode": "CX",
+        "regionName": "크리스마스섬",
+        "callingCode": "+61",
+        "regionFlag": "🇨🇽",
+        "index": "ㅋ",
+        "syllables": "ㅋㅡㄹㅣㅅㅡㅁㅏㅅㅡㅅㅓㅁ"
+      },
+      {
+        "callingCode": "+996",
+        "regionFlag": "🇰🇬",
+        "regionName": "키르기스스탄",
+        "regionCode": "KG",
+        "index": "ㅋ",
+        "syllables": "ㅋㅣㄹㅡㄱㅣㅅㅡㅅㅡㅌㅏㄴ"
+      },
+      {
+        "regionCode": "KI",
+        "regionName": "키리바시",
+        "callingCode": "+686",
+        "regionFlag": "🇰🇮",
+        "index": "ㅋ",
+        "syllables": "ㅋㅣㄹㅣㅂㅏㅅㅣ"
+      },
+      {
+        "regionName": "키프로스",
+        "regionCode": "CY",
+        "callingCode": "+357",
+        "regionFlag": "🇨🇾",
+        "index": "ㅋ",
+        "syllables": "ㅋㅣㅍㅡㄹㅗㅅㅡ"
+      }
+    ]
+  },
+  {
+    "index": "ㅌ",
+    "items": [
+      {
+        "regionName": "탄자니아",
+        "callingCode": "+255",
+        "regionCode": "TZ",
+        "regionFlag": "🇹🇿",
+        "index": "ㅌ",
+        "syllables": "ㅌㅏㄴㅈㅏㄴㅣㅇㅏ"
+      },
+      {
+        "regionName": "타지키스탄",
+        "regionCode": "TJ",
+        "callingCode": "+992",
+        "regionFlag": "🇹🇯",
+        "index": "ㅌ",
+        "syllables": "ㅌㅏㅈㅣㅋㅣㅅㅡㅌㅏㄴ"
+      },
+      {
+        "callingCode": "+66",
+        "regionCode": "TH",
+        "regionFlag": "🇹🇭",
+        "regionName": "태국",
+        "index": "ㅌ",
+        "syllables": "ㅌㅐㄱㅜㄱ"
+      },
+      {
+        "callingCode": "+1-649",
+        "regionFlag": "🇹🇨",
+        "regionCode": "TC",
+        "regionName": "터크스 케이커스 제도",
+        "index": "ㅌ",
+        "syllables": "ㅌㅓㅋㅡㅅㅡ ㅋㅔㅇㅣㅋㅓㅅㅡ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionName": "터키",
+        "regionCode": "TR",
+        "regionFlag": "🇹🇷",
+        "callingCode": "+90",
+        "index": "ㅌ",
+        "syllables": "ㅌㅓㅋㅣ"
+      },
+      {
+        "regionCode": "TG",
+        "regionFlag": "🇹🇬",
+        "callingCode": "+228",
+        "regionName": "토고",
+        "index": "ㅌ",
+        "syllables": "ㅌㅗㄱㅗ"
+      },
+      {
+        "callingCode": "+676",
+        "regionFlag": "🇹🇴",
+        "regionCode": "TO",
+        "regionName": "통가",
+        "index": "ㅌ",
+        "syllables": "ㅌㅗㅇㄱㅏ"
+      },
+      {
+        "regionFlag": "🇹🇰",
+        "regionName": "토켈라우",
+        "regionCode": "TK",
+        "callingCode": "+690",
+        "index": "ㅌ",
+        "syllables": "ㅌㅗㅋㅔㄹㄹㅏㅇㅜ"
+      },
+      {
+        "regionFlag": "🇹🇲",
+        "regionName": "투르크메니스탄",
+        "callingCode": "+993",
+        "regionCode": "TM",
+        "index": "ㅌ",
+        "syllables": "ㅌㅜㄹㅡㅋㅡㅁㅔㄴㅣㅅㅡㅌㅏㄴ"
+      },
+      {
+        "regionName": "투발루",
+        "regionCode": "TV",
+        "callingCode": "+688",
+        "regionFlag": "🇹🇻",
+        "index": "ㅌ",
+        "syllables": "ㅌㅜㅂㅏㄹㄹㅜ"
+      },
+      {
+        "regionFlag": "🇹🇳",
+        "callingCode": "+216",
+        "regionCode": "TN",
+        "regionName": "튀니지",
+        "index": "ㅌ",
+        "syllables": "ㅌㅜㅣㄴㅣㅈㅣ"
+      },
+      {
+        "callingCode": "+1-868",
+        "regionCode": "TT",
+        "regionName": "트리니다드 토바고",
+        "regionFlag": "🇹🇹",
+        "index": "ㅌ",
+        "syllables": "ㅌㅡㄹㅣㄴㅣㄷㅏㄷㅡ ㅌㅗㅂㅏㄱㅗ"
+      }
+    ]
+  },
+  {
+    "index": "ㅍ",
+    "items": [
+      {
+        "callingCode": "+507",
+        "regionName": "파나마",
+        "regionFlag": "🇵🇦",
+        "regionCode": "PA",
+        "index": "ㅍ",
+        "syllables": "ㅍㅏㄴㅏㅁㅏ"
+      },
+      {
+        "regionName": "팔라우",
+        "callingCode": "+680",
+        "regionFlag": "🇵🇼",
+        "regionCode": "PW",
+        "index": "ㅍ",
+        "syllables": "ㅍㅏㄹㄹㅏㅇㅜ"
+      },
+      {
+        "callingCode": "+970",
+        "regionCode": "PS",
+        "regionFlag": "🇵🇸",
+        "regionName": "팔레스타인 지구",
+        "index": "ㅍ",
+        "syllables": "ㅍㅏㄹㄹㅔㅅㅡㅌㅏㅇㅣㄴ ㅈㅣㄱㅜ"
+      },
+      {
+        "regionName": "파라과이",
+        "regionFlag": "🇵🇾",
+        "callingCode": "+595",
+        "regionCode": "PY",
+        "index": "ㅍ",
+        "syllables": "ㅍㅏㄹㅏㄱㅗㅏㅇㅣ"
+      },
+      {
+        "callingCode": "+92",
+        "regionCode": "PK",
+        "regionFlag": "🇵🇰",
+        "regionName": "파키스탄",
+        "index": "ㅍ",
+        "syllables": "ㅍㅏㅋㅣㅅㅡㅌㅏㄴ"
+      },
+      {
+        "regionCode": "PG",
+        "regionFlag": "🇵🇬",
+        "regionName": "파푸아뉴기니",
+        "callingCode": "+675",
+        "index": "ㅍ",
+        "syllables": "ㅍㅏㅍㅜㅇㅏㄴㅠㄱㅣㄴㅣ"
+      },
+      {
+        "regionCode": "FO",
+        "regionName": "페로 제도",
+        "regionFlag": "🇫🇴",
+        "callingCode": "+298",
+        "index": "ㅍ",
+        "syllables": "ㅍㅔㄹㅗ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionCode": "PE",
+        "regionName": "페루",
+        "callingCode": "+51",
+        "regionFlag": "🇵🇪",
+        "index": "ㅍ",
+        "syllables": "ㅍㅔㄹㅜ"
+      },
+      {
+        "regionCode": "PL",
+        "regionFlag": "🇵🇱",
+        "callingCode": "+48",
+        "regionName": "폴란드",
+        "index": "ㅍ",
+        "syllables": "ㅍㅗㄹㄹㅏㄴㄷㅡ"
+      },
+      {
+        "regionCode": "PT",
+        "regionFlag": "🇵🇹",
+        "callingCode": "+351",
+        "regionName": "포르투갈",
+        "index": "ㅍ",
+        "syllables": "ㅍㅗㄹㅡㅌㅜㄱㅏㄹ"
+      },
+      {
+        "regionName": "포클랜드 제도",
+        "regionCode": "FK",
+        "regionFlag": "🇫🇰",
+        "callingCode": "+500",
+        "index": "ㅍ",
+        "syllables": "ㅍㅗㅋㅡㄹㄹㅐㄴㄷㅡ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionName": "푸에르토리코",
+        "regionCode": "PR",
+        "regionFlag": "🇵🇷",
+        "callingCode": "+1-939",
+        "index": "ㅍ",
+        "syllables": "ㅍㅜㅇㅔㄹㅡㅌㅗㄹㅣㅋㅗ"
+      },
+      {
+        "regionCode": "FR",
+        "regionFlag": "🇫🇷",
+        "regionName": "프랑스",
+        "callingCode": "+33",
+        "index": "ㅍ",
+        "syllables": "ㅍㅡㄹㅏㅇㅅㅡ"
+      },
+      {
+        "regionName": "프랑스령 기아나",
+        "regionFlag": "🇬🇫",
+        "callingCode": "+594",
+        "regionCode": "GF",
+        "index": "ㅍ",
+        "syllables": "ㅍㅡㄹㅏㅇㅅㅡㄹㅕㅇ ㄱㅣㅇㅏㄴㅏ"
+      },
+      {
+        "callingCode": "+689",
+        "regionFlag": "🇵🇫",
+        "regionName": "프랑스령 폴리네시아",
+        "regionCode": "PF",
+        "index": "ㅍ",
+        "syllables": "ㅍㅡㄹㅏㅇㅅㅡㄹㅕㅇ ㅍㅗㄹㄹㅣㄴㅔㅅㅣㅇㅏ"
+      },
+      {
+        "regionFlag": "🇫🇮",
+        "regionCode": "FI",
+        "callingCode": "+358",
+        "regionName": "핀란드",
+        "index": "ㅍ",
+        "syllables": "ㅍㅣㄴㄹㅏㄴㄷㅡ"
+      },
+      {
+        "regionName": "필리핀",
+        "regionFlag": "🇵🇭",
+        "callingCode": "+63",
+        "regionCode": "PH",
+        "index": "ㅍ",
+        "syllables": "ㅍㅣㄹㄹㅣㅍㅣㄴ"
+      },
+      {
+        "regionName": "핏케언 섬",
+        "callingCode": "+872",
+        "regionCode": "PN",
+        "regionFlag": "🇵🇳",
+        "index": "ㅍ",
+        "syllables": "ㅍㅣㅅㅋㅔㅇㅓㄴ ㅅㅓㅁ"
+      },
+      {
+        "regionCode": "FJ",
+        "regionFlag": "🇫🇯",
+        "regionName": "피지",
+        "callingCode": "+679",
+        "index": "ㅍ",
+        "syllables": "ㅍㅣㅈㅣ"
+      }
+    ]
+  },
+  {
+    "index": "ㅎ",
+    "items": [
+      {
+        "callingCode": "+672",
+        "regionFlag": "🇭🇲",
+        "regionName": "허드 맥도널드 제도",
+        "regionCode": "HM",
+        "index": "ㅎ",
+        "syllables": "ㅎㅓㄷㅡ ㅁㅐㄱㄷㅗㄴㅓㄹㄷㅡ ㅈㅔㄷㅗ"
+      },
+      {
+        "regionCode": "HU",
+        "regionName": "헝가리",
+        "regionFlag": "🇭🇺",
+        "callingCode": "+36",
+        "index": "ㅎ",
+        "syllables": "ㅎㅓㅇㄱㅏㄹㅣ"
+      },
+      {
+        "regionCode": "HK",
+        "regionName": "홍콩(중국 특별행정구)",
+        "regionFlag": "🇭🇰",
+        "callingCode": "+852",
+        "index": "ㅎ",
+        "syllables": "ㅎㅗㅇㅋㅗㅇ(ㅈㅜㅇㄱㅜㄱ ㅌㅡㄱㅂㅕㄹㅎㅐㅇㅈㅓㅇㄱㅜ)"
+      }
+    ]
+  }
+]

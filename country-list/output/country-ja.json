@@ -1,0 +1,2062 @@
+[
+  {
+    "index": "A",
+    "items": [
+      {
+        "regionName": "Ascension Island",
+        "callingCode": "+247",
+        "regionCode": "AC",
+        "regionFlag": "🇦🇨",
+        "index": "A",
+        "syllables": "Ascension Island"
+      }
+    ]
+  },
+  {
+    "index": "K",
+    "items": [
+      {
+        "regionFlag": "🇽🇰",
+        "regionCode": "XK",
+        "regionName": "Kosovo",
+        "callingCode": "+383",
+        "index": "K",
+        "syllables": "Kosovo"
+      }
+    ]
+  },
+  {
+    "index": "T",
+    "items": [
+      {
+        "regionFlag": "🇹🇦",
+        "regionName": "Tristan da Cunha",
+        "regionCode": "TA",
+        "callingCode": "+290",
+        "index": "T",
+        "syllables": "Tristan da Cunha"
+      }
+    ]
+  },
+  {
+    "index": "ぁ",
+    "items": [
+      {
+        "regionCode": "IS",
+        "regionFlag": "🇮🇸",
+        "regionName": "アイスランド",
+        "callingCode": "+354",
+        "index": "ぁ",
+        "syllables": "あいすらんど"
+      },
+      {
+        "callingCode": "+353",
+        "regionName": "アイルランド",
+        "regionCode": "IE",
+        "regionFlag": "🇮🇪",
+        "index": "ぁ",
+        "syllables": "あいるらんど"
+      },
+      {
+        "callingCode": "+994",
+        "regionFlag": "🇦🇿",
+        "regionName": "アゼルバイジャン",
+        "regionCode": "AZ",
+        "index": "ぁ",
+        "syllables": "あぜるばいじゃん"
+      },
+      {
+        "regionFlag": "🇦🇫",
+        "regionCode": "AF",
+        "callingCode": "+93",
+        "regionName": "アフガニスタン",
+        "index": "ぁ",
+        "syllables": "あふがにすたん"
+      },
+      {
+        "callingCode": "+1",
+        "regionName": "アメリカ合衆国",
+        "regionFlag": "🇺🇸",
+        "regionCode": "US",
+        "index": "ぁ",
+        "syllables": "あめりかがっしゅうこく"
+      },
+      {
+        "regionCode": "AE",
+        "callingCode": "+971",
+        "regionFlag": "🇦🇪",
+        "regionName": "アラブ首長国連邦",
+        "index": "ぁ",
+        "syllables": "あらぶしゅちょうこくれんぽう"
+      },
+      {
+        "regionCode": "DZ",
+        "regionFlag": "🇩🇿",
+        "callingCode": "+213",
+        "regionName": "アルジェリア",
+        "index": "ぁ",
+        "syllables": "あるじぇりあ"
+      },
+      {
+        "regionCode": "AR",
+        "regionName": "アルゼンチン",
+        "regionFlag": "🇦🇷",
+        "callingCode": "+54",
+        "index": "ぁ",
+        "syllables": "あるぜんちん"
+      },
+      {
+        "callingCode": "+297",
+        "regionName": "アルバ",
+        "regionCode": "AW",
+        "regionFlag": "🇦🇼",
+        "index": "ぁ",
+        "syllables": "あるば"
+      },
+      {
+        "regionName": "アルバニア",
+        "regionCode": "AL",
+        "callingCode": "+355",
+        "regionFlag": "🇦🇱",
+        "index": "ぁ",
+        "syllables": "あるばにあ"
+      },
+      {
+        "regionCode": "AM",
+        "regionFlag": "🇦🇲",
+        "regionName": "アルメニア",
+        "callingCode": "+374",
+        "index": "ぁ",
+        "syllables": "あるめにあ"
+      },
+      {
+        "callingCode": "+1-264",
+        "regionCode": "AI",
+        "regionFlag": "🇦🇮",
+        "regionName": "アンギラ",
+        "index": "ぁ",
+        "syllables": "あんぎら"
+      },
+      {
+        "regionName": "アンゴラ",
+        "regionCode": "AO",
+        "callingCode": "+244",
+        "regionFlag": "🇦🇴",
+        "index": "ぁ",
+        "syllables": "あんごら"
+      },
+      {
+        "regionCode": "AG",
+        "regionName": "アンティグア・バーブーダ",
+        "callingCode": "+1-268",
+        "regionFlag": "🇦🇬",
+        "index": "ぁ",
+        "syllables": "あんてぃぐあ・ばーぶーだ"
+      },
+      {
+        "regionCode": "AD",
+        "regionFlag": "🇦🇩",
+        "regionName": "アンドラ",
+        "callingCode": "+376",
+        "index": "ぁ",
+        "syllables": "あんどら"
+      },
+      {
+        "regionName": "イエメン",
+        "regionCode": "YE",
+        "callingCode": "+967",
+        "regionFlag": "🇾🇪",
+        "index": "ぁ",
+        "syllables": "いえめん"
+      },
+      {
+        "callingCode": "+44",
+        "regionFlag": "🇬🇧",
+        "regionCode": "GB",
+        "regionName": "イギリス",
+        "index": "ぁ",
+        "syllables": "いぎりす"
+      },
+      {
+        "regionName": "イスラエル",
+        "regionFlag": "🇮🇱",
+        "callingCode": "+972",
+        "regionCode": "IL",
+        "index": "ぁ",
+        "syllables": "いすらえる"
+      },
+      {
+        "regionName": "イタリア",
+        "callingCode": "+39",
+        "regionCode": "IT",
+        "regionFlag": "🇮🇹",
+        "index": "ぁ",
+        "syllables": "いたりあ"
+      },
+      {
+        "callingCode": "+964",
+        "regionCode": "IQ",
+        "regionFlag": "🇮🇶",
+        "regionName": "イラク",
+        "index": "ぁ",
+        "syllables": "いらく"
+      },
+      {
+        "regionFlag": "🇮🇷",
+        "callingCode": "+98",
+        "regionCode": "IR",
+        "regionName": "イラン",
+        "index": "ぁ",
+        "syllables": "いらん"
+      },
+      {
+        "regionCode": "IN",
+        "regionFlag": "🇮🇳",
+        "regionName": "インド",
+        "callingCode": "+91",
+        "index": "ぁ",
+        "syllables": "いんど"
+      },
+      {
+        "regionCode": "ID",
+        "regionFlag": "🇮🇩",
+        "callingCode": "+62",
+        "regionName": "インドネシア",
+        "index": "ぁ",
+        "syllables": "いんどねしあ"
+      },
+      {
+        "callingCode": "+681",
+        "regionFlag": "🇼🇫",
+        "regionCode": "WF",
+        "regionName": "ウォリス・フツナ",
+        "index": "ぁ",
+        "syllables": "うぉりす・ふつな"
+      },
+      {
+        "regionFlag": "🇺🇬",
+        "regionCode": "UG",
+        "callingCode": "+256",
+        "regionName": "ウガンダ",
+        "index": "ぁ",
+        "syllables": "うがんだ"
+      },
+      {
+        "regionName": "ウクライナ",
+        "callingCode": "+380",
+        "regionCode": "UA",
+        "regionFlag": "🇺🇦",
+        "index": "ぁ",
+        "syllables": "うくらいな"
+      },
+      {
+        "regionName": "ウズベキスタン",
+        "callingCode": "+998",
+        "regionFlag": "🇺🇿",
+        "regionCode": "UZ",
+        "index": "ぁ",
+        "syllables": "うずべきすたん"
+      },
+      {
+        "regionFlag": "🇺🇾",
+        "regionCode": "UY",
+        "regionName": "ウルグアイ",
+        "callingCode": "+598",
+        "index": "ぁ",
+        "syllables": "うるぐあい"
+      },
+      {
+        "regionFlag": "🇮🇴",
+        "regionCode": "IO",
+        "callingCode": "+246",
+        "regionName": "英領インド洋地域",
+        "index": "ぁ",
+        "syllables": "えいりょういんどようちいき"
+      },
+      {
+        "callingCode": "+1-284",
+        "regionName": "英領ヴァージン諸島",
+        "regionCode": "VG",
+        "regionFlag": "🇻🇬",
+        "index": "ぁ",
+        "syllables": "えいりょうゔぁーじんしょとう"
+      },
+      {
+        "regionCode": "EC",
+        "regionName": "エクアドル",
+        "callingCode": "+593",
+        "regionFlag": "🇪🇨",
+        "index": "ぁ",
+        "syllables": "えくあどる"
+      },
+      {
+        "regionFlag": "🇪🇬",
+        "regionCode": "EG",
+        "regionName": "エジプト",
+        "callingCode": "+20",
+        "index": "ぁ",
+        "syllables": "えじぷと"
+      },
+      {
+        "callingCode": "+372",
+        "regionName": "エストニア",
+        "regionCode": "EE",
+        "regionFlag": "🇪🇪",
+        "index": "ぁ",
+        "syllables": "えすとにあ"
+      },
+      {
+        "regionCode": "SZ",
+        "regionName": "エスワティニ",
+        "regionFlag": "🇸🇿",
+        "callingCode": "+268",
+        "index": "ぁ",
+        "syllables": "えすわてぃに"
+      },
+      {
+        "callingCode": "+251",
+        "regionFlag": "🇪🇹",
+        "regionCode": "ET",
+        "regionName": "エチオピア",
+        "index": "ぁ",
+        "syllables": "えちおぴあ"
+      },
+      {
+        "regionCode": "ER",
+        "regionFlag": "🇪🇷",
+        "callingCode": "+291",
+        "regionName": "エリトリア",
+        "index": "ぁ",
+        "syllables": "えりとりあ"
+      },
+      {
+        "callingCode": "+503",
+        "regionFlag": "🇸🇻",
+        "regionCode": "SV",
+        "regionName": "エルサルバドル",
+        "index": "ぁ",
+        "syllables": "えるさるばどる"
+      },
+      {
+        "callingCode": "+968",
+        "regionFlag": "🇴🇲",
+        "regionName": "オマーン",
+        "regionCode": "OM",
+        "index": "ぁ",
+        "syllables": "おまーん"
+      },
+      {
+        "regionFlag": "🇳🇱",
+        "regionCode": "NL",
+        "regionName": "オランダ",
+        "callingCode": "+31",
+        "index": "ぁ",
+        "syllables": "おらんだ"
+      },
+      {
+        "regionName": "オランダ領カリブ",
+        "callingCode": "+599",
+        "regionFlag": "🇧🇶",
+        "regionCode": "BQ",
+        "index": "ぁ",
+        "syllables": "おらんだりょうかりぶ"
+      },
+      {
+        "regionCode": "AU",
+        "regionName": "オーストラリア",
+        "callingCode": "+61",
+        "regionFlag": "🇦🇺",
+        "index": "ぁ",
+        "syllables": "おーすとらりあ"
+      },
+      {
+        "regionCode": "AT",
+        "regionFlag": "🇦🇹",
+        "callingCode": "+43",
+        "regionName": "オーストリア",
+        "index": "ぁ",
+        "syllables": "おーすとりあ"
+      },
+      {
+        "regionName": "オーランド諸島",
+        "regionFlag": "🇦🇽",
+        "regionCode": "AX",
+        "callingCode": "+358",
+        "index": "ぁ",
+        "syllables": "おーらんどしょとう"
+      }
+    ]
+  },
+  {
+    "index": "か",
+    "items": [
+      {
+        "regionFlag": "🇰🇿",
+        "callingCode": "+7",
+        "regionName": "カザフスタン",
+        "regionCode": "KZ",
+        "index": "か",
+        "syllables": "かざふすたん"
+      },
+      {
+        "regionCode": "QA",
+        "regionName": "カタール",
+        "regionFlag": "🇶🇦",
+        "callingCode": "+974",
+        "index": "か",
+        "syllables": "かたーる"
+      },
+      {
+        "callingCode": "+1",
+        "regionCode": "CA",
+        "regionName": "カナダ",
+        "regionFlag": "🇨🇦",
+        "index": "か",
+        "syllables": "かなだ"
+      },
+      {
+        "callingCode": "+237",
+        "regionFlag": "🇨🇲",
+        "regionCode": "CM",
+        "regionName": "カメルーン",
+        "index": "か",
+        "syllables": "かめるーん"
+      },
+      {
+        "regionFlag": "🇰🇷",
+        "callingCode": "+82",
+        "regionName": "韓国",
+        "regionCode": "KR",
+        "index": "か",
+        "syllables": "かんこく"
+      },
+      {
+        "regionFlag": "🇰🇭",
+        "regionCode": "KH",
+        "callingCode": "+855",
+        "regionName": "カンボジア",
+        "index": "か",
+        "syllables": "かんぼじあ"
+      },
+      {
+        "regionFlag": "🇨🇻",
+        "regionName": "カーボベルデ",
+        "callingCode": "+238",
+        "regionCode": "CV",
+        "index": "か",
+        "syllables": "かーぼべるで"
+      },
+      {
+        "callingCode": "+595",
+        "regionName": "ガイアナ",
+        "regionCode": "GY",
+        "regionFlag": "🇬🇾",
+        "index": "か",
+        "syllables": "がいあな"
+      },
+      {
+        "callingCode": "+1",
+        "regionFlag": "🇺🇸",
+        "regionCode": "UM",
+        "regionName": "合衆国領有小離島",
+        "index": "か",
+        "syllables": "がっしゅうこくりょうゆうしょうりとう"
+      },
+      {
+        "regionFlag": "🇬🇦",
+        "callingCode": "+241",
+        "regionName": "ガボン",
+        "regionCode": "GA",
+        "index": "か",
+        "syllables": "がぼん"
+      },
+      {
+        "regionCode": "GM",
+        "callingCode": "+220",
+        "regionFlag": "🇬🇲",
+        "regionName": "ガンビア",
+        "index": "か",
+        "syllables": "がんびあ"
+      },
+      {
+        "callingCode": "+233",
+        "regionFlag": "🇬🇭",
+        "regionCode": "GH",
+        "regionName": "ガーナ",
+        "index": "か",
+        "syllables": "がーな"
+      },
+      {
+        "callingCode": "+44",
+        "regionName": "ガーンジー",
+        "regionCode": "GG",
+        "regionFlag": "🇬🇬",
+        "index": "か",
+        "syllables": "がーんじー"
+      },
+      {
+        "regionCode": "KP",
+        "regionFlag": "🇰🇵",
+        "callingCode": "+850",
+        "regionName": "北朝鮮",
+        "index": "か",
+        "syllables": "きたちょうせん"
+      },
+      {
+        "regionCode": "MK",
+        "callingCode": "+389",
+        "regionName": "北マケドニア",
+        "regionFlag": "🇲🇰",
+        "index": "か",
+        "syllables": "きたまけどにあ"
+      },
+      {
+        "regionName": "北マリアナ諸島",
+        "regionCode": "MP",
+        "regionFlag": "🇲🇵",
+        "callingCode": "+1-670",
+        "index": "か",
+        "syllables": "きたまりあなしょとう"
+      },
+      {
+        "regionName": "キプロス",
+        "regionCode": "CY",
+        "callingCode": "+357",
+        "regionFlag": "🇨🇾",
+        "index": "か",
+        "syllables": "きぷろす"
+      },
+      {
+        "regionFlag": "🇨🇼",
+        "regionCode": "CW",
+        "regionName": "キュラソー",
+        "callingCode": "+599 9",
+        "index": "か",
+        "syllables": "きゅらそー"
+      },
+      {
+        "regionName": "キューバ",
+        "regionFlag": "🇨🇺",
+        "regionCode": "CU",
+        "callingCode": "+53",
+        "index": "か",
+        "syllables": "きゅーば"
+      },
+      {
+        "regionCode": "KI",
+        "regionName": "キリバス",
+        "callingCode": "+686",
+        "regionFlag": "🇰🇮",
+        "index": "か",
+        "syllables": "きりばす"
+      },
+      {
+        "callingCode": "+996",
+        "regionFlag": "🇰🇬",
+        "regionName": "キルギス",
+        "regionCode": "KG",
+        "index": "か",
+        "syllables": "きるぎす"
+      },
+      {
+        "regionName": "ギニア",
+        "regionFlag": "🇬🇳",
+        "regionCode": "GN",
+        "callingCode": "+224",
+        "index": "か",
+        "syllables": "ぎにあ"
+      },
+      {
+        "regionCode": "GW",
+        "regionName": "ギニアビサウ",
+        "callingCode": "+245",
+        "regionFlag": "🇬🇼",
+        "index": "か",
+        "syllables": "ぎにあびさう"
+      },
+      {
+        "callingCode": "+30",
+        "regionCode": "GR",
+        "regionFlag": "🇬🇷",
+        "regionName": "ギリシャ",
+        "index": "か",
+        "syllables": "ぎりしゃ"
+      },
+      {
+        "callingCode": "+965",
+        "regionCode": "KW",
+        "regionFlag": "🇰🇼",
+        "regionName": "クウェート",
+        "index": "か",
+        "syllables": "くうぇーと"
+      },
+      {
+        "regionFlag": "🇨🇰",
+        "regionCode": "CK",
+        "regionName": "クック諸島",
+        "callingCode": "+682",
+        "index": "か",
+        "syllables": "くっくしょとう"
+      },
+      {
+        "regionCode": "CX",
+        "regionName": "クリスマス島",
+        "callingCode": "+61",
+        "regionFlag": "🇨🇽",
+        "index": "か",
+        "syllables": "くりすますとう"
+      },
+      {
+        "regionCode": "HR",
+        "regionFlag": "🇭🇷",
+        "regionName": "クロアチア",
+        "callingCode": "+385",
+        "index": "か",
+        "syllables": "くろあちあ"
+      },
+      {
+        "regionCode": "GT",
+        "regionFlag": "🇬🇹",
+        "callingCode": "+502",
+        "regionName": "グアテマラ",
+        "index": "か",
+        "syllables": "ぐあてまら"
+      },
+      {
+        "callingCode": "+590",
+        "regionCode": "GP",
+        "regionFlag": "🇬🇵",
+        "regionName": "グアドループ",
+        "index": "か",
+        "syllables": "ぐあどるーぷ"
+      },
+      {
+        "regionCode": "GU",
+        "callingCode": "+1-671",
+        "regionName": "グアム",
+        "regionFlag": "🇬🇺",
+        "index": "か",
+        "syllables": "ぐあむ"
+      },
+      {
+        "regionFlag": "🇬🇱",
+        "regionCode": "GL",
+        "regionName": "グリーンランド",
+        "callingCode": "+299",
+        "index": "か",
+        "syllables": "ぐりーんらんど"
+      },
+      {
+        "regionCode": "GD",
+        "regionName": "グレナダ",
+        "callingCode": "+1-473",
+        "regionFlag": "🇬🇩",
+        "index": "か",
+        "syllables": "ぐれなだ"
+      },
+      {
+        "callingCode": "+345",
+        "regionFlag": "🇰🇾",
+        "regionCode": "KY",
+        "regionName": "ケイマン諸島",
+        "index": "か",
+        "syllables": "けいまんしょとう"
+      },
+      {
+        "callingCode": "+254",
+        "regionFlag": "🇰🇪",
+        "regionName": "ケニア",
+        "regionCode": "KE",
+        "index": "か",
+        "syllables": "けにあ"
+      },
+      {
+        "regionCode": "CC",
+        "regionFlag": "🇨🇨",
+        "regionName": "ココス(キーリング)諸島",
+        "callingCode": "+61",
+        "index": "か",
+        "syllables": "ここす(きーりんぐ)しょとう"
+      },
+      {
+        "regionFlag": "🇨🇷",
+        "callingCode": "+506",
+        "regionName": "コスタリカ",
+        "regionCode": "CR",
+        "index": "か",
+        "syllables": "こすたりか"
+      },
+      {
+        "regionName": "コモロ",
+        "callingCode": "+269",
+        "regionFlag": "🇰🇲",
+        "regionCode": "KM",
+        "index": "か",
+        "syllables": "こもろ"
+      },
+      {
+        "regionName": "コロンビア",
+        "regionFlag": "🇨🇴",
+        "regionCode": "CO",
+        "callingCode": "+57",
+        "index": "か",
+        "syllables": "ころんびあ"
+      },
+      {
+        "callingCode": "+242",
+        "regionName": "コンゴ共和国(ブラザビル)",
+        "regionCode": "CG",
+        "regionFlag": "🇨🇬",
+        "index": "か",
+        "syllables": "こんごきょうわこく(ぶらざびる)"
+      },
+      {
+        "callingCode": "+243",
+        "regionCode": "CD",
+        "regionFlag": "🇨🇩",
+        "regionName": "コンゴ民主共和国(キンシャサ)",
+        "index": "か",
+        "syllables": "こんごみんしゅきょうわこく(きんしゃさ)"
+      },
+      {
+        "callingCode": "+225",
+        "regionFlag": "🇨🇮",
+        "regionCode": "CI",
+        "regionName": "コートジボワール",
+        "index": "か",
+        "syllables": "こーとじぼわーる"
+      }
+    ]
+  },
+  {
+    "index": "さ",
+    "items": [
+      {
+        "regionName": "サウジアラビア",
+        "regionCode": "SA",
+        "regionFlag": "🇸🇦",
+        "callingCode": "+966",
+        "index": "さ",
+        "syllables": "さうじあらびあ"
+      },
+      {
+        "regionFlag": "🇬🇸",
+        "regionName": "サウスジョージア・サウスサンドウィッチ諸島",
+        "regionCode": "GS",
+        "callingCode": "+500",
+        "index": "さ",
+        "syllables": "さうすじょーじあ・さうすさんどうぃっちしょとう"
+      },
+      {
+        "regionCode": "WS",
+        "regionName": "サモア",
+        "regionFlag": "🇼🇸",
+        "callingCode": "+685",
+        "index": "さ",
+        "syllables": "さもあ"
+      },
+      {
+        "regionName": "サントメ・プリンシペ",
+        "callingCode": "+239",
+        "regionCode": "ST",
+        "regionFlag": "🇸🇹",
+        "index": "さ",
+        "syllables": "さんとめ・ぷりんしぺ"
+      },
+      {
+        "regionName": "サンピエール島・ミクロン島",
+        "regionFlag": "🇵🇲",
+        "regionCode": "PM",
+        "callingCode": "+508",
+        "index": "さ",
+        "syllables": "さんぴえーるとう・みくろんとう"
+      },
+      {
+        "regionCode": "SM",
+        "regionFlag": "🇸🇲",
+        "callingCode": "+378",
+        "regionName": "サンマリノ",
+        "index": "さ",
+        "syllables": "さんまりの"
+      },
+      {
+        "callingCode": "+590",
+        "regionName": "サン・バルテルミー",
+        "regionCode": "BL",
+        "regionFlag": "🇧🇱",
+        "index": "さ",
+        "syllables": "さん・ばるてるみー"
+      },
+      {
+        "regionCode": "MF",
+        "regionFlag": "🇲🇫",
+        "regionName": "サン・マルタン",
+        "callingCode": "+590",
+        "index": "さ",
+        "syllables": "さん・まるたん"
+      },
+      {
+        "callingCode": "+260",
+        "regionFlag": "🇿🇲",
+        "regionCode": "ZM",
+        "regionName": "ザンビア",
+        "index": "さ",
+        "syllables": "ざんびあ"
+      },
+      {
+        "callingCode": "+232",
+        "regionFlag": "🇸🇱",
+        "regionCode": "SL",
+        "regionName": "シエラレオネ",
+        "index": "さ",
+        "syllables": "しえられおね"
+      },
+      {
+        "regionCode": "SY",
+        "regionFlag": "🇸🇾",
+        "regionName": "シリア",
+        "callingCode": "+963",
+        "index": "さ",
+        "syllables": "しりあ"
+      },
+      {
+        "callingCode": "+65",
+        "regionFlag": "🇸🇬",
+        "regionName": "シンガポール",
+        "regionCode": "SG",
+        "index": "さ",
+        "syllables": "しんがぽーる"
+      },
+      {
+        "regionFlag": "🇸🇽",
+        "regionName": "シント・マールテン",
+        "callingCode": "+1-721",
+        "regionCode": "SX",
+        "index": "さ",
+        "syllables": "しんと・まーるてん"
+      },
+      {
+        "regionCode": "DJ",
+        "callingCode": "+253",
+        "regionName": "ジブチ",
+        "regionFlag": "🇩🇯",
+        "index": "さ",
+        "syllables": "じぶち"
+      },
+      {
+        "regionName": "ジブラルタル",
+        "regionCode": "GI",
+        "regionFlag": "🇬🇮",
+        "callingCode": "+350",
+        "index": "さ",
+        "syllables": "じぶらるたる"
+      },
+      {
+        "callingCode": "+1-876",
+        "regionFlag": "🇯🇲",
+        "regionCode": "JM",
+        "regionName": "ジャマイカ",
+        "index": "さ",
+        "syllables": "じゃまいか"
+      },
+      {
+        "regionName": "ジャージー",
+        "regionCode": "JE",
+        "regionFlag": "🇯🇪",
+        "callingCode": "+44",
+        "index": "さ",
+        "syllables": "じゃーじー"
+      },
+      {
+        "regionCode": "GE",
+        "regionFlag": "🇬🇪",
+        "callingCode": "+995",
+        "regionName": "ジョージア",
+        "index": "さ",
+        "syllables": "じょーじあ"
+      },
+      {
+        "regionName": "ジンバブエ",
+        "regionCode": "ZW",
+        "regionFlag": "🇿🇼",
+        "callingCode": "+263",
+        "index": "さ",
+        "syllables": "じんばぶえ"
+      },
+      {
+        "callingCode": "+41",
+        "regionName": "スイス",
+        "regionFlag": "🇨🇭",
+        "regionCode": "CH",
+        "index": "さ",
+        "syllables": "すいす"
+      },
+      {
+        "regionName": "スウェーデン",
+        "regionFlag": "🇸🇪",
+        "callingCode": "+46",
+        "regionCode": "SE",
+        "index": "さ",
+        "syllables": "すうぇーでん"
+      },
+      {
+        "callingCode": "+47",
+        "regionName": "スバールバル諸島・ヤンマイエン島",
+        "regionCode": "SJ",
+        "regionFlag": "🇸🇯",
+        "index": "さ",
+        "syllables": "すばーるばるしょとう・やんまいえんとう"
+      },
+      {
+        "regionFlag": "🇪🇸",
+        "callingCode": "+34",
+        "regionCode": "ES",
+        "regionName": "スペイン",
+        "index": "さ",
+        "syllables": "すぺいん"
+      },
+      {
+        "regionFlag": "🇸🇷",
+        "regionName": "スリナム",
+        "callingCode": "+597",
+        "regionCode": "SR",
+        "index": "さ",
+        "syllables": "すりなむ"
+      },
+      {
+        "regionFlag": "🇱🇰",
+        "callingCode": "+94",
+        "regionCode": "LK",
+        "regionName": "スリランカ",
+        "index": "さ",
+        "syllables": "すりらんか"
+      },
+      {
+        "regionCode": "SK",
+        "regionName": "スロバキア",
+        "callingCode": "+421",
+        "regionFlag": "🇸🇰",
+        "index": "さ",
+        "syllables": "すろばきあ"
+      },
+      {
+        "regionName": "スロベニア",
+        "regionFlag": "🇸🇮",
+        "regionCode": "SI",
+        "callingCode": "+386",
+        "index": "さ",
+        "syllables": "すろべにあ"
+      },
+      {
+        "regionCode": "SD",
+        "regionName": "スーダン",
+        "regionFlag": "🇸🇩",
+        "callingCode": "+249",
+        "index": "さ",
+        "syllables": "すーだん"
+      },
+      {
+        "regionCode": "GQ",
+        "regionFlag": "🇬🇶",
+        "callingCode": "+240",
+        "regionName": "赤道ギニア",
+        "index": "さ",
+        "syllables": "せきどうぎにあ"
+      },
+      {
+        "callingCode": "+221",
+        "regionCode": "SN",
+        "regionName": "セネガル",
+        "regionFlag": "🇸🇳",
+        "index": "さ",
+        "syllables": "せねがる"
+      },
+      {
+        "regionName": "セルビア",
+        "regionCode": "RS",
+        "regionFlag": "🇷🇸",
+        "callingCode": "+381",
+        "index": "さ",
+        "syllables": "せるびあ"
+      },
+      {
+        "regionFlag": "🇰🇳",
+        "callingCode": "+1-869",
+        "regionCode": "KN",
+        "regionName": "セントクリストファー・ネーヴィス",
+        "index": "さ",
+        "syllables": "せんとくりすとふぁー・ねーゔぃす"
+      },
+      {
+        "regionCode": "VC",
+        "regionName": "セントビンセント及びグレナディーン諸島",
+        "callingCode": "+1-784",
+        "regionFlag": "🇻🇨",
+        "index": "さ",
+        "syllables": "せんとびんせんとおよびぐれなでぃーんしょとう"
+      },
+      {
+        "regionFlag": "🇸🇭",
+        "callingCode": "+290",
+        "regionCode": "SH",
+        "regionName": "セントヘレナ",
+        "index": "さ",
+        "syllables": "せんとへれな"
+      },
+      {
+        "regionFlag": "🇱🇨",
+        "regionName": "セントルシア",
+        "callingCode": "+1-758",
+        "regionCode": "LC",
+        "index": "さ",
+        "syllables": "せんとるしあ"
+      },
+      {
+        "regionCode": "SC",
+        "regionFlag": "🇸🇨",
+        "callingCode": "+248",
+        "regionName": "セーシェル",
+        "index": "さ",
+        "syllables": "せーしぇる"
+      },
+      {
+        "regionCode": "SO",
+        "regionName": "ソマリア",
+        "regionFlag": "🇸🇴",
+        "callingCode": "+252",
+        "index": "さ",
+        "syllables": "そまりあ"
+      },
+      {
+        "regionCode": "SB",
+        "regionName": "ソロモン諸島",
+        "callingCode": "+677",
+        "regionFlag": "🇸🇧",
+        "index": "さ",
+        "syllables": "そろもんしょとう"
+      }
+    ]
+  },
+  {
+    "index": "た",
+    "items": [
+      {
+        "callingCode": "+66",
+        "regionCode": "TH",
+        "regionFlag": "🇹🇭",
+        "regionName": "タイ",
+        "index": "た",
+        "syllables": "たい"
+      },
+      {
+        "regionCode": "TW",
+        "regionName": "台湾",
+        "regionFlag": "🇨🇳",
+        "callingCode": "+886",
+        "index": "た",
+        "syllables": "たいわん"
+      },
+      {
+        "regionName": "タジキスタン",
+        "regionCode": "TJ",
+        "callingCode": "+992",
+        "regionFlag": "🇹🇯",
+        "index": "た",
+        "syllables": "たじきすたん"
+      },
+      {
+        "regionName": "タンザニア",
+        "callingCode": "+255",
+        "regionCode": "TZ",
+        "regionFlag": "🇹🇿",
+        "index": "た",
+        "syllables": "たんざにあ"
+      },
+      {
+        "callingCode": "+1-649",
+        "regionFlag": "🇹🇨",
+        "regionCode": "TC",
+        "regionName": "タークス・カイコス諸島",
+        "index": "た",
+        "syllables": "たーくす・かいこすしょとう"
+      },
+      {
+        "callingCode": "+420",
+        "regionFlag": "🇨🇿",
+        "regionCode": "CZ",
+        "regionName": "チェコ",
+        "index": "た",
+        "syllables": "ちぇこ"
+      },
+      {
+        "regionName": "チャド",
+        "regionFlag": "🇹🇩",
+        "callingCode": "+235",
+        "regionCode": "TD",
+        "index": "た",
+        "syllables": "ちゃど"
+      },
+      {
+        "callingCode": "+236",
+        "regionCode": "CF",
+        "regionFlag": "🇨🇫",
+        "regionName": "中央アフリカ共和国",
+        "index": "た",
+        "syllables": "ちゅうおうあふりかきょうわこく"
+      },
+      {
+        "regionCode": "HK",
+        "regionName": "中華人民共和国香港特別行政区",
+        "regionFlag": "🇭🇰",
+        "callingCode": "+852",
+        "index": "た",
+        "syllables": "ちゅうかじんみんきょうわこくほんこんとくべつぎょうせいく"
+      },
+      {
+        "regionFlag": "🇲🇴",
+        "regionCode": "MO",
+        "callingCode": "+853",
+        "regionName": "中華人民共和国マカオ特別行政区",
+        "index": "た",
+        "syllables": "ちゅうかじんみんきょうわこくまかおとくべつぎょうせいく"
+      },
+      {
+        "regionFlag": "🇨🇳",
+        "callingCode": "+86",
+        "regionName": "中国",
+        "regionCode": "CN",
+        "index": "た",
+        "syllables": "ちゅうごく"
+      },
+      {
+        "regionFlag": "🇹🇳",
+        "callingCode": "+216",
+        "regionCode": "TN",
+        "regionName": "チュニジア",
+        "index": "た",
+        "syllables": "ちゅにじあ"
+      },
+      {
+        "regionName": "チリ",
+        "regionCode": "CL",
+        "callingCode": "+56",
+        "regionFlag": "🇨🇱",
+        "index": "た",
+        "syllables": "ちり"
+      },
+      {
+        "regionName": "ツバル",
+        "regionCode": "TV",
+        "callingCode": "+688",
+        "regionFlag": "🇹🇻",
+        "index": "た",
+        "syllables": "つばる"
+      },
+      {
+        "regionFlag": "🇩🇰",
+        "regionCode": "DK",
+        "regionName": "デンマーク",
+        "callingCode": "+45",
+        "index": "た",
+        "syllables": "でんまーく"
+      },
+      {
+        "regionFlag": "🇹🇰",
+        "regionName": "トケラウ",
+        "regionCode": "TK",
+        "callingCode": "+690",
+        "index": "た",
+        "syllables": "とけらう"
+      },
+      {
+        "callingCode": "+1-868",
+        "regionCode": "TT",
+        "regionName": "トリニダード・トバゴ",
+        "regionFlag": "🇹🇹",
+        "index": "た",
+        "syllables": "とりにだーど・とばご"
+      },
+      {
+        "regionFlag": "🇹🇲",
+        "regionName": "トルクメニスタン",
+        "callingCode": "+993",
+        "regionCode": "TM",
+        "index": "た",
+        "syllables": "とるくめにすたん"
+      },
+      {
+        "regionName": "トルコ",
+        "regionCode": "TR",
+        "regionFlag": "🇹🇷",
+        "callingCode": "+90",
+        "index": "た",
+        "syllables": "とるこ"
+      },
+      {
+        "callingCode": "+676",
+        "regionFlag": "🇹🇴",
+        "regionCode": "TO",
+        "regionName": "トンガ",
+        "index": "た",
+        "syllables": "とんが"
+      },
+      {
+        "regionCode": "TG",
+        "regionFlag": "🇹🇬",
+        "callingCode": "+228",
+        "regionName": "トーゴ",
+        "index": "た",
+        "syllables": "とーご"
+      },
+      {
+        "regionName": "ドイツ",
+        "regionFlag": "🇩🇪",
+        "regionCode": "DE",
+        "callingCode": "+49",
+        "index": "た",
+        "syllables": "どいつ"
+      },
+      {
+        "regionFlag": "🇩🇴",
+        "regionCode": "DO",
+        "regionName": "ドミニカ共和国",
+        "callingCode": "+1-849",
+        "index": "た",
+        "syllables": "どみにかきょうわこく"
+      },
+      {
+        "callingCode": "+1-767",
+        "regionFlag": "🇩🇲",
+        "regionName": "ドミニカ国",
+        "regionCode": "DM",
+        "index": "た",
+        "syllables": "どみにかこく"
+      }
+    ]
+  },
+  {
+    "index": "な",
+    "items": [
+      {
+        "regionFlag": "🇳🇬",
+        "regionName": "ナイジェリア",
+        "regionCode": "NG",
+        "callingCode": "+234",
+        "index": "な",
+        "syllables": "ないじぇりあ"
+      },
+      {
+        "regionFlag": "🇳🇷",
+        "regionCode": "NR",
+        "regionName": "ナウル",
+        "callingCode": "+674",
+        "index": "な",
+        "syllables": "なうる"
+      },
+      {
+        "regionFlag": "🇳🇦",
+        "regionName": "ナミビア",
+        "callingCode": "+264",
+        "regionCode": "NA",
+        "index": "な",
+        "syllables": "なみびあ"
+      },
+      {
+        "regionFlag": "🇦🇶",
+        "regionName": "南極",
+        "callingCode": "+672",
+        "regionCode": "AQ",
+        "index": "な",
+        "syllables": "なんきょく"
+      },
+      {
+        "regionCode": "NU",
+        "regionName": "ニウエ",
+        "regionFlag": "🇳🇺",
+        "callingCode": "+683",
+        "index": "な",
+        "syllables": "にうえ"
+      },
+      {
+        "regionName": "ニカラグア",
+        "callingCode": "+505",
+        "regionCode": "NI",
+        "regionFlag": "🇳🇮",
+        "index": "な",
+        "syllables": "にからぐあ"
+      },
+      {
+        "regionName": "西サハラ",
+        "regionFlag": "🇪🇭",
+        "regionCode": "EH",
+        "callingCode": "+212",
+        "index": "な",
+        "syllables": "にしさはら"
+      },
+      {
+        "callingCode": "+227",
+        "regionName": "ニジェール",
+        "regionFlag": "🇳🇪",
+        "regionCode": "NE",
+        "index": "な",
+        "syllables": "にじぇーる"
+      },
+      {
+        "regionCode": "JP",
+        "callingCode": "+81",
+        "regionFlag": "🇯🇵",
+        "regionName": "日本",
+        "index": "な",
+        "syllables": "にっぽん"
+      },
+      {
+        "regionName": "ニューカレドニア",
+        "regionCode": "NC",
+        "callingCode": "+687",
+        "regionFlag": "🇳🇨",
+        "index": "な",
+        "syllables": "にゅーかれどにあ"
+      },
+      {
+        "regionCode": "NZ",
+        "regionFlag": "🇳🇿",
+        "regionName": "ニュージーランド",
+        "callingCode": "+64",
+        "index": "な",
+        "syllables": "にゅーじーらんど"
+      },
+      {
+        "regionFlag": "🇳🇵",
+        "regionName": "ネパール",
+        "callingCode": "+977",
+        "regionCode": "NP",
+        "index": "な",
+        "syllables": "ねぱーる"
+      },
+      {
+        "callingCode": "+47",
+        "regionCode": "NO",
+        "regionFlag": "🇳🇴",
+        "regionName": "ノルウェー",
+        "index": "な",
+        "syllables": "のるうぇー"
+      },
+      {
+        "regionFlag": "🇳🇫",
+        "regionName": "ノーフォーク島",
+        "callingCode": "+672",
+        "regionCode": "NF",
+        "index": "な",
+        "syllables": "のーふぉーくとう"
+      }
+    ]
+  },
+  {
+    "index": "は",
+    "items": [
+      {
+        "regionFlag": "🇭🇹",
+        "regionCode": "HT",
+        "regionName": "ハイチ",
+        "callingCode": "+509",
+        "index": "は",
+        "syllables": "はいち"
+      },
+      {
+        "regionCode": "HU",
+        "regionName": "ハンガリー",
+        "regionFlag": "🇭🇺",
+        "callingCode": "+36",
+        "index": "は",
+        "syllables": "はんがりー"
+      },
+      {
+        "callingCode": "+672",
+        "regionFlag": "🇭🇲",
+        "regionName": "ハード島・マクドナルド諸島",
+        "regionCode": "HM",
+        "index": "は",
+        "syllables": "はーどとう・まくどなるどしょとう"
+      },
+      {
+        "regionFlag": "🇻🇦",
+        "regionName": "バチカン市国",
+        "callingCode": "+379",
+        "regionCode": "VA",
+        "index": "は",
+        "syllables": "ばちかんしこく"
+      },
+      {
+        "callingCode": "+678",
+        "regionName": "バヌアツ",
+        "regionFlag": "🇻🇺",
+        "regionCode": "VU",
+        "index": "は",
+        "syllables": "ばぬあつ"
+      },
+      {
+        "regionFlag": "🇧🇸",
+        "regionCode": "BS",
+        "regionName": "バハマ",
+        "callingCode": "+1-242",
+        "index": "は",
+        "syllables": "ばはま"
+      },
+      {
+        "regionName": "バミューダ",
+        "callingCode": "+1-441",
+        "regionCode": "BM",
+        "regionFlag": "🇧🇲",
+        "index": "は",
+        "syllables": "ばみゅーだ"
+      },
+      {
+        "regionCode": "BB",
+        "regionFlag": "🇧🇧",
+        "regionName": "バルバドス",
+        "callingCode": "+1-246",
+        "index": "は",
+        "syllables": "ばるばどす"
+      },
+      {
+        "callingCode": "+880",
+        "regionCode": "BD",
+        "regionFlag": "🇧🇩",
+        "regionName": "バングラデシュ",
+        "index": "は",
+        "syllables": "ばんぐらでしゅ"
+      },
+      {
+        "regionName": "バーレーン",
+        "regionFlag": "🇧🇭",
+        "callingCode": "+973",
+        "regionCode": "BH",
+        "index": "は",
+        "syllables": "ばーれーん"
+      },
+      {
+        "callingCode": "+92",
+        "regionCode": "PK",
+        "regionFlag": "🇵🇰",
+        "regionName": "パキスタン",
+        "index": "は",
+        "syllables": "ぱきすたん"
+      },
+      {
+        "callingCode": "+507",
+        "regionName": "パナマ",
+        "regionFlag": "🇵🇦",
+        "regionCode": "PA",
+        "index": "は",
+        "syllables": "ぱなま"
+      },
+      {
+        "regionCode": "PG",
+        "regionFlag": "🇵🇬",
+        "regionName": "パプアニューギニア",
+        "callingCode": "+675",
+        "index": "は",
+        "syllables": "ぱぷあにゅーぎにあ"
+      },
+      {
+        "regionName": "パラオ",
+        "callingCode": "+680",
+        "regionFlag": "🇵🇼",
+        "regionCode": "PW",
+        "index": "は",
+        "syllables": "ぱらお"
+      },
+      {
+        "regionName": "パラグアイ",
+        "regionFlag": "🇵🇾",
+        "callingCode": "+595",
+        "regionCode": "PY",
+        "index": "は",
+        "syllables": "ぱらぐあい"
+      },
+      {
+        "callingCode": "+970",
+        "regionCode": "PS",
+        "regionFlag": "🇵🇸",
+        "regionName": "パレスチナ自治区",
+        "index": "は",
+        "syllables": "ぱれすちなじちく"
+      },
+      {
+        "regionCode": "TL",
+        "regionName": "東ティモール",
+        "callingCode": "+670",
+        "regionFlag": "🇹🇱",
+        "index": "は",
+        "syllables": "ひがしてぃもーる"
+      },
+      {
+        "regionName": "ピトケアン諸島",
+        "callingCode": "+872",
+        "regionCode": "PN",
+        "regionFlag": "🇵🇳",
+        "index": "は",
+        "syllables": "ぴとけあんしょとう"
+      },
+      {
+        "regionCode": "FJ",
+        "regionFlag": "🇫🇯",
+        "regionName": "フィジー",
+        "callingCode": "+679",
+        "index": "は",
+        "syllables": "ふぃじー"
+      },
+      {
+        "regionName": "フィリピン",
+        "regionFlag": "🇵🇭",
+        "callingCode": "+63",
+        "regionCode": "PH",
+        "index": "は",
+        "syllables": "ふぃりぴん"
+      },
+      {
+        "regionFlag": "🇫🇮",
+        "regionCode": "FI",
+        "callingCode": "+358",
+        "regionName": "フィンランド",
+        "index": "は",
+        "syllables": "ふぃんらんど"
+      },
+      {
+        "regionCode": "FO",
+        "regionName": "フェロー諸島",
+        "regionFlag": "🇫🇴",
+        "callingCode": "+298",
+        "index": "は",
+        "syllables": "ふぇろーしょとう"
+      },
+      {
+        "regionName": "フォークランド諸島",
+        "regionCode": "FK",
+        "regionFlag": "🇫🇰",
+        "callingCode": "+500",
+        "index": "は",
+        "syllables": "ふぉーくらんどしょとう"
+      },
+      {
+        "regionName": "仏領ギアナ",
+        "regionFlag": "🇬🇫",
+        "callingCode": "+594",
+        "regionCode": "GF",
+        "index": "は",
+        "syllables": "ふつりょうぎあな"
+      },
+      {
+        "callingCode": "+689",
+        "regionFlag": "🇵🇫",
+        "regionName": "仏領ポリネシア",
+        "regionCode": "PF",
+        "index": "は",
+        "syllables": "ふつりょうぽりねしあ"
+      },
+      {
+        "regionCode": "FR",
+        "regionFlag": "🇫🇷",
+        "regionName": "フランス",
+        "callingCode": "+33",
+        "index": "は",
+        "syllables": "ふらんす"
+      },
+      {
+        "regionName": "ブラジル",
+        "regionCode": "BR",
+        "callingCode": "+55",
+        "regionFlag": "🇧🇷",
+        "index": "は",
+        "syllables": "ぶらじる"
+      },
+      {
+        "regionName": "ブルガリア",
+        "callingCode": "+359",
+        "regionCode": "BG",
+        "regionFlag": "🇧🇬",
+        "index": "は",
+        "syllables": "ぶるがりあ"
+      },
+      {
+        "callingCode": "+226",
+        "regionFlag": "🇧🇫",
+        "regionName": "ブルキナファソ",
+        "regionCode": "BF",
+        "index": "は",
+        "syllables": "ぶるきなふぁそ"
+      },
+      {
+        "regionName": "ブルネイ",
+        "regionCode": "BN",
+        "regionFlag": "🇧🇳",
+        "callingCode": "+673",
+        "index": "は",
+        "syllables": "ぶるねい"
+      },
+      {
+        "regionFlag": "🇧🇮",
+        "regionName": "ブルンジ",
+        "regionCode": "BI",
+        "callingCode": "+257",
+        "index": "は",
+        "syllables": "ぶるんじ"
+      },
+      {
+        "regionCode": "BT",
+        "regionName": "ブータン",
+        "callingCode": "+975",
+        "regionFlag": "🇧🇹",
+        "index": "は",
+        "syllables": "ぶーたん"
+      },
+      {
+        "regionName": "プエルトリコ",
+        "regionCode": "PR",
+        "regionFlag": "🇵🇷",
+        "callingCode": "+1-939",
+        "index": "は",
+        "syllables": "ぷえるとりこ"
+      },
+      {
+        "callingCode": "+1-684",
+        "regionName": "米領サモア",
+        "regionFlag": "🇦🇸",
+        "regionCode": "AS",
+        "index": "は",
+        "syllables": "べいりょうさもあ"
+      },
+      {
+        "regionCode": "VI",
+        "regionFlag": "🇻🇮",
+        "regionName": "米領ヴァージン諸島",
+        "callingCode": "+1-340",
+        "index": "は",
+        "syllables": "べいりょうゔぁーじんしょとう"
+      },
+      {
+        "callingCode": "+84",
+        "regionName": "ベトナム",
+        "regionCode": "VN",
+        "regionFlag": "🇻🇳",
+        "index": "は",
+        "syllables": "べとなむ"
+      },
+      {
+        "regionName": "ベナン",
+        "regionFlag": "🇧🇯",
+        "regionCode": "BJ",
+        "callingCode": "+229",
+        "index": "は",
+        "syllables": "べなん"
+      },
+      {
+        "regionFlag": "🇻🇪",
+        "regionCode": "VE",
+        "regionName": "ベネズエラ",
+        "callingCode": "+58",
+        "index": "は",
+        "syllables": "べねずえら"
+      },
+      {
+        "regionCode": "BY",
+        "regionFlag": "🇧🇾",
+        "regionName": "ベラルーシ",
+        "callingCode": "+375",
+        "index": "は",
+        "syllables": "べらるーし"
+      },
+      {
+        "regionCode": "BZ",
+        "regionFlag": "🇧🇿",
+        "callingCode": "+501",
+        "regionName": "ベリーズ",
+        "index": "は",
+        "syllables": "べりーず"
+      },
+      {
+        "callingCode": "+32",
+        "regionCode": "BE",
+        "regionName": "ベルギー",
+        "regionFlag": "🇧🇪",
+        "index": "は",
+        "syllables": "べるぎー"
+      },
+      {
+        "regionCode": "PE",
+        "regionName": "ペルー",
+        "callingCode": "+51",
+        "regionFlag": "🇵🇪",
+        "index": "は",
+        "syllables": "ぺるー"
+      },
+      {
+        "regionCode": "HN",
+        "callingCode": "+504",
+        "regionName": "ホンジュラス",
+        "regionFlag": "🇭🇳",
+        "index": "は",
+        "syllables": "ほんじゅらす"
+      },
+      {
+        "regionCode": "BA",
+        "callingCode": "+387",
+        "regionFlag": "🇧🇦",
+        "regionName": "ボスニア・ヘルツェゴビナ",
+        "index": "は",
+        "syllables": "ぼすにあ・へるつぇごびな"
+      },
+      {
+        "regionFlag": "🇧🇼",
+        "regionName": "ボツワナ",
+        "regionCode": "BW",
+        "callingCode": "+267",
+        "index": "は",
+        "syllables": "ぼつわな"
+      },
+      {
+        "regionName": "ボリビア",
+        "callingCode": "+591",
+        "regionCode": "BO",
+        "regionFlag": "🇧🇴",
+        "index": "は",
+        "syllables": "ぼりびあ"
+      },
+      {
+        "regionCode": "PT",
+        "regionFlag": "🇵🇹",
+        "callingCode": "+351",
+        "regionName": "ポルトガル",
+        "index": "は",
+        "syllables": "ぽるとがる"
+      },
+      {
+        "regionCode": "PL",
+        "regionFlag": "🇵🇱",
+        "callingCode": "+48",
+        "regionName": "ポーランド",
+        "index": "は",
+        "syllables": "ぽーらんど"
+      }
+    ]
+  },
+  {
+    "index": "ま",
+    "items": [
+      {
+        "regionName": "マダガスカル",
+        "regionFlag": "🇲🇬",
+        "regionCode": "MG",
+        "callingCode": "+261",
+        "index": "ま",
+        "syllables": "まだがすかる"
+      },
+      {
+        "callingCode": "+262",
+        "regionName": "マヨット",
+        "regionCode": "YT",
+        "regionFlag": "🇾🇹",
+        "index": "ま",
+        "syllables": "まよっと"
+      },
+      {
+        "callingCode": "+265",
+        "regionFlag": "🇲🇼",
+        "regionCode": "MW",
+        "regionName": "マラウイ",
+        "index": "ま",
+        "syllables": "まらうい"
+      },
+      {
+        "callingCode": "+223",
+        "regionCode": "ML",
+        "regionFlag": "🇲🇱",
+        "regionName": "マリ",
+        "index": "ま",
+        "syllables": "まり"
+      },
+      {
+        "regionFlag": "🇲🇹",
+        "regionName": "マルタ",
+        "regionCode": "MT",
+        "callingCode": "+356",
+        "index": "ま",
+        "syllables": "まるた"
+      },
+      {
+        "regionFlag": "🇲🇶",
+        "regionName": "マルティニーク",
+        "callingCode": "+596",
+        "regionCode": "MQ",
+        "index": "ま",
+        "syllables": "まるてぃにーく"
+      },
+      {
+        "regionName": "マレーシア",
+        "callingCode": "+60",
+        "regionCode": "MY",
+        "regionFlag": "🇲🇾",
+        "index": "ま",
+        "syllables": "まれーしあ"
+      },
+      {
+        "regionCode": "IM",
+        "callingCode": "+44",
+        "regionFlag": "🇮🇲",
+        "regionName": "マン島",
+        "index": "ま",
+        "syllables": "まんとう"
+      },
+      {
+        "regionName": "マーシャル諸島",
+        "regionCode": "MH",
+        "regionFlag": "🇲🇭",
+        "callingCode": "+692",
+        "index": "ま",
+        "syllables": "まーしゃるしょとう"
+      },
+      {
+        "regionFlag": "🇫🇲",
+        "regionName": "ミクロネシア連邦",
+        "callingCode": "+691",
+        "regionCode": "FM",
+        "index": "ま",
+        "syllables": "みくろねしあれんぽう"
+      },
+      {
+        "regionCode": "ZA",
+        "regionFlag": "🇿🇦",
+        "regionName": "南アフリカ",
+        "callingCode": "+27",
+        "index": "ま",
+        "syllables": "みなみあふりか"
+      },
+      {
+        "regionFlag": "🇸🇸",
+        "callingCode": "+211",
+        "regionCode": "SS",
+        "regionName": "南スーダン",
+        "index": "ま",
+        "syllables": "みなみすーだん"
+      },
+      {
+        "regionCode": "MM",
+        "regionName": "ミャンマー (ビルマ)",
+        "callingCode": "+95",
+        "regionFlag": "🇲🇲",
+        "index": "ま",
+        "syllables": "みゃんまー (びるま)"
+      },
+      {
+        "regionFlag": "🇲🇽",
+        "regionCode": "MX",
+        "regionName": "メキシコ",
+        "callingCode": "+52",
+        "index": "ま",
+        "syllables": "めきしこ"
+      },
+      {
+        "regionCode": "MZ",
+        "regionFlag": "🇲🇿",
+        "callingCode": "+258",
+        "regionName": "モザンビーク",
+        "index": "ま",
+        "syllables": "もざんびーく"
+      },
+      {
+        "regionFlag": "🇲🇨",
+        "callingCode": "+377",
+        "regionName": "モナコ",
+        "regionCode": "MC",
+        "index": "ま",
+        "syllables": "もなこ"
+      },
+      {
+        "regionName": "モルディブ",
+        "callingCode": "+960",
+        "regionCode": "MV",
+        "regionFlag": "🇲🇻",
+        "index": "ま",
+        "syllables": "もるでぃぶ"
+      },
+      {
+        "regionFlag": "🇲🇩",
+        "regionCode": "MD",
+        "regionName": "モルドバ",
+        "callingCode": "+373",
+        "index": "ま",
+        "syllables": "もるどば"
+      },
+      {
+        "regionCode": "MA",
+        "regionName": "モロッコ",
+        "regionFlag": "🇲🇦",
+        "callingCode": "+212",
+        "index": "ま",
+        "syllables": "もろっこ"
+      },
+      {
+        "regionFlag": "🇲🇳",
+        "callingCode": "+976",
+        "regionName": "モンゴル",
+        "regionCode": "MN",
+        "index": "ま",
+        "syllables": "もんごる"
+      },
+      {
+        "regionCode": "ME",
+        "regionName": "モンテネグロ",
+        "regionFlag": "🇲🇪",
+        "callingCode": "+382",
+        "index": "ま",
+        "syllables": "もんてねぐろ"
+      },
+      {
+        "regionName": "モントセラト",
+        "regionCode": "MS",
+        "regionFlag": "🇲🇸",
+        "callingCode": "+1-664",
+        "index": "ま",
+        "syllables": "もんとせらと"
+      },
+      {
+        "regionName": "モーリシャス",
+        "regionFlag": "🇲🇺",
+        "callingCode": "+230",
+        "regionCode": "MU",
+        "index": "ま",
+        "syllables": "もーりしゃす"
+      },
+      {
+        "regionFlag": "🇲🇷",
+        "callingCode": "+222",
+        "regionCode": "MR",
+        "regionName": "モーリタニア",
+        "index": "ま",
+        "syllables": "もーりたにあ"
+      }
+    ]
+  },
+  {
+    "index": "ゃ",
+    "items": [
+      {
+        "regionName": "ヨルダン",
+        "regionFlag": "🇯🇴",
+        "regionCode": "JO",
+        "callingCode": "+962",
+        "index": "ゃ",
+        "syllables": "よるだん"
+      }
+    ]
+  },
+  {
+    "index": "ら",
+    "items": [
+      {
+        "regionName": "ラオス",
+        "callingCode": "+856",
+        "regionCode": "LA",
+        "regionFlag": "🇱🇦",
+        "index": "ら",
+        "syllables": "らおす"
+      },
+      {
+        "regionName": "ラトビア",
+        "regionFlag": "🇱🇻",
+        "callingCode": "+371",
+        "regionCode": "LV",
+        "index": "ら",
+        "syllables": "らとびあ"
+      },
+      {
+        "regionName": "リトアニア",
+        "regionCode": "LT",
+        "callingCode": "+370",
+        "regionFlag": "🇱🇹",
+        "index": "ら",
+        "syllables": "りとあにあ"
+      },
+      {
+        "regionFlag": "🇱🇮",
+        "regionName": "リヒテンシュタイン",
+        "regionCode": "LI",
+        "callingCode": "+423",
+        "index": "ら",
+        "syllables": "りひてんしゅたいん"
+      },
+      {
+        "callingCode": "+218",
+        "regionFlag": "🇱🇾",
+        "regionCode": "LY",
+        "regionName": "リビア",
+        "index": "ら",
+        "syllables": "りびあ"
+      },
+      {
+        "regionName": "リベリア",
+        "regionCode": "LR",
+        "regionFlag": "🇱🇷",
+        "callingCode": "+231",
+        "index": "ら",
+        "syllables": "りべりあ"
+      },
+      {
+        "callingCode": "+352",
+        "regionFlag": "🇱🇺",
+        "regionName": "ルクセンブルク",
+        "regionCode": "LU",
+        "index": "ら",
+        "syllables": "るくせんぶるく"
+      },
+      {
+        "regionFlag": "🇷🇼",
+        "regionName": "ルワンダ",
+        "callingCode": "+250",
+        "regionCode": "RW",
+        "index": "ら",
+        "syllables": "るわんだ"
+      },
+      {
+        "callingCode": "+40",
+        "regionFlag": "🇷🇴",
+        "regionName": "ルーマニア",
+        "regionCode": "RO",
+        "index": "ら",
+        "syllables": "るーまにあ"
+      },
+      {
+        "regionName": "レソト",
+        "regionFlag": "🇱🇸",
+        "callingCode": "+266",
+        "regionCode": "LS",
+        "index": "ら",
+        "syllables": "れそと"
+      },
+      {
+        "regionName": "レバノン",
+        "callingCode": "+961",
+        "regionFlag": "🇱🇧",
+        "regionCode": "LB",
+        "index": "ら",
+        "syllables": "ればのん"
+      },
+      {
+        "regionFlag": "🇷🇪",
+        "regionName": "レユニオン",
+        "regionCode": "RE",
+        "callingCode": "+262",
+        "index": "ら",
+        "syllables": "れゆにおん"
+      },
+      {
+        "regionFlag": "🇷🇺",
+        "regionName": "ロシア",
+        "callingCode": "+7",
+        "regionCode": "RU",
+        "index": "ら",
+        "syllables": "ろしあ"
+      }
+    ]
+  }
+]
