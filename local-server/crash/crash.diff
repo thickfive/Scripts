@@ -1,0 +1,73 @@
+// DEBUG
+thread: 0, crashed: true
+0x10ccb8000 libswiftCore.dylib                       0x10cce5e60 closure #1 in closure #1 in closure #1 in _assertionFailure(_:_:file:line:flags:) +318
+0x10ccb8000 libswiftCore.dylib                       0x10cce5cb0 closure #1 in closure #1 in _assertionFailure(_:_:file:line:flags:) +366
+0x10ccb8000 libswiftCore.dylib                       0x10cce5ae0 closure #1 in _assertionFailure(_:_:file:line:flags:) +123
+0x10ccb8000 libswiftCore.dylib                       0x10cce5730 _assertionFailure(_:_:file:line:flags:) +230
+0x102c0c000 Mixing                                   0x102c0f520 ViewController.test_crash() +242
+0x102c0c000 Mixing                                   0x102c0f080 ViewController.touchesBegan(_:with:) +70
+0x102c0c000 Mixing                                   0x102c0f480 @objc ViewController.touchesBegan(_:with:) +108
+0x128305000 UIKitCore                                0x129338874 forwardTouchMethod +311
+0x128305000 UIKitCore                                0x12934b9bc -[UIWindow _sendTouchesForEvent:] +610
+0x128305000 UIKitCore                                0x12934cb71 -[UIWindow sendEvent:] +5284
+0x128305000 UIKitCore                                0x129322d0c -[UIApplication sendEvent:] +772
+0x128305000 UIKitCore                                0x1293cf5e1 __dispatchPreprocessedEventFromEventQueue +8406
+0x128305000 UIKitCore                                0x1293d1e95 __processEventQueue +8415
+0x128305000 UIKitCore                                0x1293c9b1b __eventFetcherSourceCallback +163
+0x10db0e000 CoreFoundation                           0x10db9c272 __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ +17
+0x10db0e000 CoreFoundation                           0x10db9c128 __CFRunLoopDoSource0 +157
+0x10db0e000 CoreFoundation                           0x10db9b8eb __CFRunLoopDoSources0 +215
+0x10db0e000 CoreFoundation                           0x10db95d60 __CFRunLoopRun +919
+0x10db0e000 CoreFoundation                           0x10db95750 CFRunLoopRunSpecific +557
+0x11499c000 GraphicsServices                         0x11499f006 GSEventRunModal +137
+0x128305000 UIKitCore                                0x129302171 -[UIApplication _run] +972
+0x128305000 UIKitCore                                0x129306f30 UIApplicationMain +123
+0x128305000 UIKitCore                                0x1283955a0 __swift_destroy_boxed_opaque_existential_1Tm +10499
+0x102c0c000 Mixing                                   0x102c10380 static UIApplicationDelegate.main() +123
+0x102c0c000 Mixing                                   0x102c10350 static AppDelegate.$main() +39
+0x102c0c000 Mixing                                   0x102c10650 main +24
+
+// RELEASE
+thread: 0, crashed: true
+0x102a38000 Mixing                                   0x102a3bcdc @objc ViewController.touchesBegan(_:with:) +68
+0x102a38000 Mixing                                   0x102a3bcdc @objc ViewController.touchesBegan(_:with:) +68
+0x18471f000 UIKitCore                                0x18531a610 forwardTouchMethod +264
+0x18471f000 UIKitCore                                0x1853286a8 -[UIWindow _sendTouchesForEvent:] +416
+0x18471f000 UIKitCore                                0x1853292f0 -[UIWindow sendEvent:] +3104
+0x18471f000 UIKitCore                                0x18530974c -[UIApplication sendEvent:] +576
+0x18471f000 UIKitCore                                0x185389f14 __dispatchPreprocessedEventFromEventQueue +1708
+0x18471f000 UIKitCore                                0x18538bee0 __processEventQueue +5524
+0x18471f000 UIKitCore                                0x185385d9c __eventFetcherSourceCallback +156
+0x180364000 CoreFoundation                           0x1803f1f00 __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ +24
+0x180364000 CoreFoundation                           0x1803f1db4 __CFRunLoopDoSource0 +172
+0x180364000 CoreFoundation                           0x1803f14e8 __CFRunLoopDoSources0 +232
+0x180364000 CoreFoundation                           0x1803eb9b8 __CFRunLoopRun +768
+0x180364000 CoreFoundation                           0x1803eb368 CFRunLoopRunSpecific +572
+0x18e9f8000 GraphicsServices                         0x18e9fba44 GSEventRunModal +160
+0x18471f000 UIKitCore                                0x1852eff80 -[UIApplication _run] +868
+0x18471f000 UIKitCore                                0x1852f3ee0 UIApplicationMain +124
+0x18471f000 UIKitCore                                0x1847a0b7c __swift_destroy_boxed_opaque_existential_1Tm +10284
+0x102a38000 Mixing                                   0x102a3c0e0 main +120
+
+// RELEASE + @inline(never) func test_crash() {}
+thread: 0, crashed: true
+0x1028f4000 Mixing                                   0x1028f7b5c specialized ViewController.test_crash() +48
+0x1028f4000 Mixing                                   0x1028f7b5c specialized ViewController.test_crash() +48
+0x1028f4000 Mixing                                   0x1028f7b90 specialized ViewController.touchesBegan(_:with:) +20
+0x18471f000 UIKitCore                                0x18531a610 forwardTouchMethod +264
+0x18471f000 UIKitCore                                0x1853286a8 -[UIWindow _sendTouchesForEvent:] +416
+0x18471f000 UIKitCore                                0x1853292f0 -[UIWindow sendEvent:] +3104
+0x18471f000 UIKitCore                                0x18530974c -[UIApplication sendEvent:] +576
+0x18471f000 UIKitCore                                0x185389f14 __dispatchPreprocessedEventFromEventQueue +1708
+0x18471f000 UIKitCore                                0x18538bee0 __processEventQueue +5524
+0x18471f000 UIKitCore                                0x185385d9c __eventFetcherSourceCallback +156
+0x180364000 CoreFoundation                           0x1803f1f00 __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ +24
+0x180364000 CoreFoundation                           0x1803f1db4 __CFRunLoopDoSource0 +172
+0x180364000 CoreFoundation                           0x1803f14e8 __CFRunLoopDoSources0 +232
+0x180364000 CoreFoundation                           0x1803eb9b8 __CFRunLoopRun +768
+0x180364000 CoreFoundation                           0x1803eb368 CFRunLoopRunSpecific +572
+0x18e9f8000 GraphicsServices                         0x18e9fba44 GSEventRunModal +160
+0x18471f000 UIKitCore                                0x1852eff80 -[UIApplication _run] +868
+0x18471f000 UIKitCore                                0x1852f3ee0 UIApplicationMain +124
+0x18471f000 UIKitCore                                0x1847a0b7c __swift_destroy_boxed_opaque_existential_1Tm +10284
+0x1028f4000 Mixing                                   0x1028f7f90 main +120

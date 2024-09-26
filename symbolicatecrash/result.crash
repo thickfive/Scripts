@@ -1,0 +1,313 @@
+Incident Identifier: 40472A5F-DEBF-4D74-A67D-3F0A09D6B68E
+Distributor ID:      com.apple.TestFlight
+Hardware Model:      iPhone12,5
+Process:             DWARFLAB [20731]
+Path:                /private/var/containers/Bundle/Application/1813F6CD-B4AC-4ACE-BA3F-C08E59C9FF78/DWARFLAB.app/DWARFLAB
+Identifier:          com.convergence.ios.DwarfLab
+Version:             3.0.0 (11)
+AppStoreTools:       16A242b
+AppVariant:          1:iPhone12,5:17.4
+Beta:                YES
+Code Type:           ARM-64 (Native)
+Role:                Foreground
+Parent Process:      launchd [1]
+Coalition:           com.convergence.ios.DwarfLab [4512]
+
+Date/Time:           2024-09-16 01:09:00.5379 -0400
+Launch Time:         2024-09-16 00:10:09.8111 -0400
+OS Version:          iPhone OS 17.6.1 (21G93)
+Release Type:        User
+Baseband Version:    5.00.00
+Report Version:      104
+
+Exception Type:  EXC_BAD_ACCESS (SIGSEGV)
+Exception Subtype: KERN_INVALID_ADDRESS at 0x00000001432d1c8c
+Exception Codes: 0x0000000000000001, 0x00000001432d1c8c
+VM Region Info: 0x1432d1c8c is not in any region.  Bytes after previous region: 7309  Bytes before following region: 5399412
+      REGION TYPE                 START - END      [ VSIZE] PRT/MAX SHRMOD  REGION DETAIL
+      MALLOC_LARGE             1432cc000-1432d0000 [   16K] rw-/rwx SM=PRV  
+--->  GAP OF 0x528000 BYTES
+      MALLOC_LARGE             1437f8000-1437fc000 [   16K] rw-/rwx SM=PRV  
+Termination Reason: SIGNAL 11 Segmentation fault: 11
+Terminating Process: exc handler [20731]
+
+Triggered by Thread:  16
+
+
+Thread 0:
+0   libswiftCore.dylib            	0x000000018a53ecb4 swift::runtime::AccessSet::insert(swift::runtime::Access*, void*, void*, swift::ExclusivityFlags) + 536 (Exclusivity.cpp:180)
+1   DWARFLAB                      	0x00000001022b4b04 ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 1528 (Store.swift:1055)
+2   DWARFLAB                      	0x00000001022b5d24 protocol witness for AnyScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) in conformance ScopedStoreReducer<A, B, C, D> + 48 (<compiler-generated>:0)
+3   DWARFLAB                      	0x00000001022b0e98 Reducer.scope<A, B>(store:state:id:action:isInvalid:removeDuplicates:) + 424 (Store.swift:951)
+4   DWARFLAB                      	0x00000001022b0b20 Store.scope<A, B>(state:id:action:isInvalid:removeDuplicates:) + 76 (Store.swift:473)
+5   DWARFLAB                      	0x00000001022b0b20 Store.scope<A, B>(state:action:) + 132 (Store.swift:422)
+6   DWARFLAB                      	0x00000001022c0740 closure #1 in WithViewStore.init<A, B>(_:observe:send:removeDuplicates:content:file:line:) + 156 (Binding.swift:581)
+7   DWARFLAB                      	0x00000001022c21c8 partial apply for closure #1 in WithViewStore.init<A, B>(_:observe:send:removeDuplicates:content:file:line:) + 44 (<compiler-generated>:0)
+8   DWARFLAB                      	0x00000001022b59f0 closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 468 (Store.swift:1087)
+9   DWARFLAB                      	0x00000001022bb2b4 partial apply for closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 56 (<compiler-generated>:0)
+10  Combine                       	0x0000000194cb5ecc Subscribers.Sink.receive(_:) + 92 (Sink.swift:128)
+11  Combine                       	0x0000000194cb5e60 protocol witness for Subscriber.receive(_:) in conformance Subscribers.Sink<A, B> + 24 (<compiler-generated>:0)
+12  Combine                       	0x0000000194cdfc3c Publishers.Drop.Inner.receive(_:) + 136 (Drop.swift:117)
+13  Combine                       	0x0000000194cdfba8 protocol witness for Subscriber.receive(_:) in conformance Publishers.Drop<A>.Inner<A1> + 24 (<compiler-generated>:0)
+14  Combine                       	0x0000000194cbe310 CurrentValueSubject.Conduit.offer(_:) + 816 (CurrentValueSubject.swift:153)
+15  Combine                       	0x0000000194cbdfd0 partial apply for closure #1 in CurrentValueSubject.send(_:) + 68 (<compiler-generated>:0)
+16  Combine                       	0x0000000194ce85b0 partial apply for thunk for @callee_guaranteed (@guaranteed ConduitBase<A, B>) -> (@error @owned Error) + 32 (<compiler-generated>:0)
+17  libswiftCore.dylib            	0x000000018a276e70 Sequence.forEach(_:) + 756 (Sequence.swift:791)
+18  Combine                       	0x0000000194cbdf30 ConduitList.forEach(_:) + 244 (Conduit.swift:79)
+19  Combine                       	0x0000000194cbdc64 CurrentValueSubject.send(_:) + 380 (CurrentValueSubject.swift:92)
+20  Combine                       	0x0000000194cf46a8 specialized CurrentValueSubject.value.setter + 176 (CurrentValueSubject.swift:32)
+21  Combine                       	0x0000000194cf459c CurrentValueSubject.value.setter + 32 (<compiler-generated>:0)
+22  DWARFLAB                      	0x00000001022b5b8c closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 880 (Store.swift:1091)
+23  DWARFLAB                      	0x00000001022bb2b4 partial apply for closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 56 (<compiler-generated>:0)
+24  Combine                       	0x0000000194cb5ecc Subscribers.Sink.receive(_:) + 92 (Sink.swift:128)
+25  Combine                       	0x0000000194cb5e60 protocol witness for Subscriber.receive(_:) in conformance Subscribers.Sink<A, B> + 24 (<compiler-generated>:0)
+26  Combine                       	0x0000000194cdfc3c Publishers.Drop.Inner.receive(_:) + 136 (Drop.swift:117)
+27  Combine                       	0x0000000194cdfba8 protocol witness for Subscriber.receive(_:) in conformance Publishers.Drop<A>.Inner<A1> + 24 (<compiler-generated>:0)
+28  Combine                       	0x0000000194cbe310 CurrentValueSubject.Conduit.offer(_:) + 816 (CurrentValueSubject.swift:153)
+29  Combine                       	0x0000000194cbdfd0 partial apply for closure #1 in CurrentValueSubject.send(_:) + 68 (<compiler-generated>:0)
+30  Combine                       	0x0000000194ce85b0 partial apply for thunk for @callee_guaranteed (@guaranteed ConduitBase<A, B>) -> (@error @owned Error) + 32 (<compiler-generated>:0)
+31  libswiftCore.dylib            	0x000000018a276e70 Sequence.forEach(_:) + 756 (Sequence.swift:791)
+32  Combine                       	0x0000000194cbdf30 ConduitList.forEach(_:) + 244 (Conduit.swift:79)
+33  Combine                       	0x0000000194cbdc64 CurrentValueSubject.send(_:) + 380 (CurrentValueSubject.swift:92)
+34  Combine                       	0x0000000194cf46a8 specialized CurrentValueSubject.value.setter + 176 (CurrentValueSubject.swift:32)
+35  Combine                       	0x0000000194cf459c CurrentValueSubject.value.setter + 32 (<compiler-generated>:0)
+36  DWARFLAB                      	0x00000001022b5b8c closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 880 (Store.swift:1091)
+37  DWARFLAB                      	0x00000001022bb2b4 partial apply for closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 56 (<compiler-generated>:0)
+38  Combine                       	0x0000000194cb5ecc Subscribers.Sink.receive(_:) + 92 (Sink.swift:128)
+39  Combine                       	0x0000000194cb5e60 protocol witness for Subscriber.receive(_:) in conformance Subscribers.Sink<A, B> + 24 (<compiler-generated>:0)
+40  Combine                       	0x0000000194cdfc3c Publishers.Drop.Inner.receive(_:) + 136 (Drop.swift:117)
+41  Combine                       	0x0000000194cdfba8 protocol witness for Subscriber.receive(_:) in conformance Publishers.Drop<A>.Inner<A1> + 24 (<compiler-generated>:0)
+42  Combine                       	0x0000000194cbe310 CurrentValueSubject.Conduit.offer(_:) + 816 (CurrentValueSubject.swift:153)
+43  Combine                       	0x0000000194cbdfd0 partial apply for closure #1 in CurrentValueSubject.send(_:) + 68 (<compiler-generated>:0)
+44  Combine                       	0x0000000194cbdf50 ConduitList.forEach(_:) + 276 (Conduit.swift:77)
+45  Combine                       	0x0000000194cbdc64 CurrentValueSubject.send(_:) + 380 (CurrentValueSubject.swift:92)
+46  Combine                       	0x0000000194cf46a8 specialized CurrentValueSubject.value.setter + 176 (CurrentValueSubject.swift:32)
+47  Combine                       	0x0000000194cf459c CurrentValueSubject.value.setter + 32 (<compiler-generated>:0)
+48  DWARFLAB                      	0x00000001022b5b8c closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 880 (Store.swift:1091)
+49  DWARFLAB                      	0x00000001022bb2b4 partial apply for closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 56 (<compiler-generated>:0)
+50  Combine                       	0x0000000194cb5ecc Subscribers.Sink.receive(_:) + 92 (Sink.swift:128)
+51  Combine                       	0x0000000194cb5e60 protocol witness for Subscriber.receive(_:) in conformance Subscribers.Sink<A, B> + 24 (<compiler-generated>:0)
+52  Combine                       	0x0000000194cdfc3c Publishers.Drop.Inner.receive(_:) + 136 (Drop.swift:117)
+53  Combine                       	0x0000000194cdfba8 protocol witness for Subscriber.receive(_:) in conformance Publishers.Drop<A>.Inner<A1> + 24 (<compiler-generated>:0)
+54  Combine                       	0x0000000194cbe310 CurrentValueSubject.Conduit.offer(_:) + 816 (CurrentValueSubject.swift:153)
+55  Combine                       	0x0000000194cbdfd0 partial apply for closure #1 in CurrentValueSubject.send(_:) + 68 (<compiler-generated>:0)
+56  Combine                       	0x0000000194ce85b0 partial apply for thunk for @callee_guaranteed (@guaranteed ConduitBase<A, B>) -> (@error @owned Error) + 32 (<compiler-generated>:0)
+57  libswiftCore.dylib            	0x000000018a276e70 Sequence.forEach(_:) + 756 (Sequence.swift:791)
+58  Combine                       	0x0000000194cbdf30 ConduitList.forEach(_:) + 244 (Conduit.swift:79)
+59  Combine                       	0x0000000194cbdc64 CurrentValueSubject.send(_:) + 380 (CurrentValueSubject.swift:92)
+60  Combine                       	0x0000000194cf46a8 specialized CurrentValueSubject.value.setter + 176 (CurrentValueSubject.swift:32)
+61  Combine                       	0x0000000194cf459c CurrentValueSubject.value.setter + 32 (<compiler-generated>:0)
+62  DWARFLAB                      	0x00000001022b5b8c closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 880 (Store.swift:1091)
+63  DWARFLAB                      	0x00000001022bb2b4 partial apply for closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 56 (<compiler-generated>:0)
+64  Combine                       	0x0000000194cb5ecc Subscribers.Sink.receive(_:) + 92 (Sink.swift:128)
+65  Combine                       	0x0000000194cb5e60 protocol witness for Subscriber.receive(_:) in conformance Subscribers.Sink<A, B> + 24 (<compiler-generated>:0)
+66  Combine                       	0x0000000194cdfc3c Publishers.Drop.Inner.receive(_:) + 136 (Drop.swift:117)
+67  Combine                       	0x0000000194cdfba8 protocol witness for Subscriber.receive(_:) in conformance Publishers.Drop<A>.Inner<A1> + 24 (<compiler-generated>:0)
+68  Combine                       	0x0000000194cbe310 CurrentValueSubject.Conduit.offer(_:) + 816 (CurrentValueSubject.swift:153)
+69  Combine                       	0x0000000194cbdfd0 partial apply for closure #1 in CurrentValueSubject.send(_:) + 68 (<compiler-generated>:0)
+70  Combine                       	0x0000000194ce85b0 partial apply for thunk for @callee_guaranteed (@guaranteed ConduitBase<A, B>) -> (@error @owned Error) + 32 (<compiler-generated>:0)
+71  libswiftCore.dylib            	0x000000018a276e70 Sequence.forEach(_:) + 756 (Sequence.swift:791)
+72  Combine                       	0x0000000194cbdf30 ConduitList.forEach(_:) + 244 (Conduit.swift:79)
+73  Combine                       	0x0000000194cbdc64 CurrentValueSubject.send(_:) + 380 (CurrentValueSubject.swift:92)
+74  Combine                       	0x0000000194cf46a8 specialized CurrentValueSubject.value.setter + 176 (CurrentValueSubject.swift:32)
+75  Combine                       	0x0000000194cf459c CurrentValueSubject.value.setter + 32 (<compiler-generated>:0)
+76  DWARFLAB                      	0x00000001022b5b8c closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 880 (Store.swift:1091)
+77  DWARFLAB                      	0x00000001022bb2b4 partial apply for closure #8 in ScopedStoreReducer.scope<A, B, C, D>(store:state:id:action:isInvalid:removeDuplicates:) + 56 (<compiler-generated>:0)
+78  Combine                       	0x0000000194cb5ecc Subscribers.Sink.receive(_:) + 92 (Sink.swift:128)
+79  Combine                       	0x0000000194cb5e60 protocol witness for Subscriber.receive(_:) in conformance Subscribers.Sink<A, B> + 24 (<compiler-generated>:0)
+80  Combine                       	0x0000000194cdfc3c Publishers.Drop.Inner.receive(_:) + 136 (Drop.swift:117)
+81  Combine                       	0x0000000194cdfba8 protocol witness for Subscriber.receive(_:) in conformance Publishers.Drop<A>.Inner<A1> + 24 (<compiler-generated>:0)
+82  Combine                       	0x0000000194cbe310 CurrentValueSubject.Conduit.offer(_:) + 816 (CurrentValueSubject.swift:153)
+83  Combine                       	0x0000000194cbdfd0 partial apply for closure #1 in CurrentValueSubject.send(_:) + 68 (<compiler-generated>:0)
+84  Combine                       	0x0000000194ce85b0 partial apply for thunk for @callee_guaranteed (@guaranteed ConduitBase<A, B>) -> (@error @owned Error) + 32 (<compiler-generated>:0)
+85  libswiftCore.dylib            	0x000000018a276e70 Sequence.forEach(_:) + 756 (Sequence.swift:791)
+86  Combine                       	0x0000000194cbdf30 ConduitList.forEach(_:) + 244 (Conduit.swift:79)
+87  Combine                       	0x0000000194cbdc64 CurrentValueSubject.send(_:) + 380 (CurrentValueSubject.swift:92)
+88  Combine                       	0x0000000194cf46a8 specialized CurrentValueSubject.value.setter + 176 (CurrentValueSubject.swift:32)
+89  Combine                       	0x0000000194cf459c CurrentValueSubject.value.setter + 32 (<compiler-generated>:0)
+90  DWARFLAB                      	0x00000001022b11b0 $defer #1 <A, B>() in Store.send(_:originatingFrom:) + 316 (Store.swift:512)
+91  DWARFLAB                      	0x00000001022b05b8 Store.send(_:originatingFrom:) + 3224
+92  DWARFLAB                      	0x00000001022b254c closure #1 in closure #3 in closure #1 in Store.send(_:originatingFrom:) + 176
+93  DWARFLAB                      	0x00000001022bbc88 partial apply for closure #1 in closure #3 in closure #1 in Store.send(_:originatingFrom:) + 20
+94  DWARFLAB                      	0x00000001022bbc6c partial apply for closure #1 in closure #1 in closure #1 in closure #3 in Store.send(_:originatingFrom:) + 12
+95  DWARFLAB                      	0x000000010232c194 closure #2 in DependencyValues.Continuation.yield<A>(_:) + 4 (WithDependencies.swift:303)
+96  DWARFLAB                      	0x000000010232c194 partial apply for closure #2 in DependencyValues.Continuation.yield<A>(_:) + 20 (<compiler-generated>:0)
+97  DWARFLAB                      	0x0000000102329a78 closure #1 in closure #1 in closure #1 in withDependencies<A>(_:operation:) + 36 (WithDependencies.swift:32)
+98  DWARFLAB                      	0x000000010232d5dc closure #1 in closure #1 in withDependencies<A>(_:operation:) + 4 (WithDependencies.swift:31)
+99  DWARFLAB                      	0x000000010232d5dc partial apply for closure #1 in closure #1 in withDependencies<A>(_:operation:) + 20 (<compiler-generated>:0)
+100 libswift_Concurrency.dylib    	0x0000000196c0e204 TaskLocal.withValue<A>(_:operation:file:line:) + 304 (TaskLocal.swift:203)
+101 DWARFLAB                      	0x00000001023299e4 closure #1 in withDependencies<A>(_:operation:) + 316 (WithDependencies.swift:30)
+102 DWARFLAB                      	0x000000010232b0d4 withDependencies<A>(_:operation:) + 28 (WithDependencies.swift:27)
+103 DWARFLAB                      	0x000000010232b0d4 DependencyValues.Continuation.yield<A>(_:) + 52 (WithDependencies.swift:300)
+104 DWARFLAB                      	0x00000001022b23f4 closure #1 in closure #1 in closure #3 in Store.send(_:originatingFrom:) + 92 (Store.swift:603)
+105 DWARFLAB                      	0x0000000100e55318 specialized Send.callAsFunction(_:) + 28 (<compiler-generated>:0)
+106 DWARFLAB                      	0x0000000100e55318 closure #1 in closure #6 in KKTabFeature.websocketEffect(_:_:) + 64 (KKTabFeature+Websocket.swift:759)
+107 DWARFLAB                      	0x0000000100e67151 partial apply for closure #1 in closure #6 in KKTabFeature.websocketEffect(_:_:) + 1
+108 DWARFLAB                      	0x0000000102272ce5 closure #1 in closure #1 in withTaskCancellation<A, B>(id:cancelInFlight:operation:) + 1 (Cancellation.swift:176)
+109 DWARFLAB                      	0x0000000102276cc1 partial apply for closure #1 in closure #1 in withTaskCancellation<A, B>(id:cancelInFlight:operation:) + 1 (<compiler-generated>:0)
+110 libswift_Concurrency.dylib    	0x0000000196c42775 completeTaskWithClosure(swift::AsyncContext*, swift::SwiftError*) + 1 (Task.cpp:463)
+
+Thread 1 name:
+Thread 1:
+0   libsystem_kernel.dylib        	0x00000001d45496c8 mach_msg2_trap + 8 (:-1)
+1   libsystem_kernel.dylib        	0x00000001d454cec8 mach_msg2_internal + 80 (mach_msg.c:201)
+2   libsystem_kernel.dylib        	0x00000001d454cde0 mach_msg_overwrite + 436 (mach_msg.c:0)
+3   libsystem_kernel.dylib        	0x00000001d454cc20 mach_msg + 24 (mach_msg.c:323)
+4   CoreFoundation                	0x000000018b8c4f5c __CFRunLoopServiceMachPort + 160 (CFRunLoop.c:2624)
+5   CoreFoundation                	0x000000018b8c4600 __CFRunLoopRun + 1208 (CFRunLoop.c:3007)
+6   CoreFoundation                	0x000000018b8c3cd8 CFRunLoopRunSpecific + 608 (CFRunLoop.c:3420)
+7   Foundation                    	0x000000018a7e4b5c -[NSRunLoop(NSRunLoop) runMode:beforeDate:] + 212 (NSRunLoop.m:373)
+8   Foundation                    	0x000000018a7e49ac -[NSRunLoop(NSRunLoop) runUntilDate:] + 64 (NSRunLoop.m:420)
+9   UIKitCore                     	0x000000018df1181c -[UIEventFetcher threadMain] + 420 (UIEventFetcher.m:1207)
+10  Foundation                    	0x000000018a7fb428 __NSThread__start__ + 732 (NSThread.m:991)
+11  libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+12  libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 2 name:
+Thread 2:
+0   libsystem_kernel.dylib        	0x00000001d45496c8 mach_msg2_trap + 8 (:-1)
+1   libsystem_kernel.dylib        	0x00000001d454cec8 mach_msg2_internal + 80 (mach_msg.c:201)
+2   libsystem_kernel.dylib        	0x00000001d454cde0 mach_msg_overwrite + 436 (mach_msg.c:0)
+3   libsystem_kernel.dylib        	0x00000001d454cc20 mach_msg + 24 (mach_msg.c:323)
+4   CoreFoundation                	0x000000018b8c4f5c __CFRunLoopServiceMachPort + 160 (CFRunLoop.c:2624)
+5   CoreFoundation                	0x000000018b8c4600 __CFRunLoopRun + 1208 (CFRunLoop.c:3007)
+6   CoreFoundation                	0x000000018b8c3cd8 CFRunLoopRunSpecific + 608 (CFRunLoop.c:3420)
+7   CFNetwork                     	0x000000018caa4c7c +[__CFN_CoreSchedulingSetRunnable _run:] + 384 (CoreSchedulingSet.mm:1473)
+8   Foundation                    	0x000000018a7fb428 __NSThread__start__ + 732 (NSThread.m:991)
+9   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+10  libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 3 name:
+Thread 3:
+0   libsystem_kernel.dylib        	0x00000001d45496c8 mach_msg2_trap + 8 (:-1)
+1   libsystem_kernel.dylib        	0x00000001d454cec8 mach_msg2_internal + 80 (mach_msg.c:201)
+2   libsystem_kernel.dylib        	0x00000001d454cde0 mach_msg_overwrite + 436 (mach_msg.c:0)
+3   libsystem_kernel.dylib        	0x00000001d454cc20 mach_msg + 24 (mach_msg.c:323)
+4   CoreFoundation                	0x000000018b8c4f5c __CFRunLoopServiceMachPort + 160 (CFRunLoop.c:2624)
+5   CoreFoundation                	0x000000018b8c4600 __CFRunLoopRun + 1208 (CFRunLoop.c:3007)
+6   CoreFoundation                	0x000000018b8c3cd8 CFRunLoopRunSpecific + 608 (CFRunLoop.c:3420)
+7   CoreFoundation                	0x000000018b931f04 CFRunLoopRun + 64 (CFRunLoop.c:3446)
+8   CoreMotion                    	0x00000001985d8e3c CLMotionCore::runMotionThread(void*) + 1292 (CLMotionCore.mm:376)
+9   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+10  libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 4:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 5:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 6:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 7:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 8:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 9:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 10:
+0   libsystem_pthread.dylib       	0x00000001e83410c4 start_wqthread + 0 (:-1)
+
+Thread 11:
+0   libsystem_kernel.dylib        	0x00000001d454f08c __psynch_cvwait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83436e4 _pthread_cond_wait + 1228 (pthread_cond.c:862)
+2   DWARFLAB                      	0x00000001026c220c ijk_threadpool_thread + 168 (ijkthreadpool.c:42)
+3   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+4   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 12:
+0   libsystem_kernel.dylib        	0x00000001d454f08c __psynch_cvwait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83436e4 _pthread_cond_wait + 1228 (pthread_cond.c:862)
+2   DWARFLAB                      	0x00000001026c220c ijk_threadpool_thread + 168 (ijkthreadpool.c:42)
+3   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+4   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 13:
+0   libsystem_kernel.dylib        	0x00000001d454f08c __psynch_cvwait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83436e4 _pthread_cond_wait + 1228 (pthread_cond.c:862)
+2   DWARFLAB                      	0x00000001026c220c ijk_threadpool_thread + 168 (ijkthreadpool.c:42)
+3   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+4   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 14:
+0   libsystem_kernel.dylib        	0x00000001d454f08c __psynch_cvwait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83436e4 _pthread_cond_wait + 1228 (pthread_cond.c:862)
+2   DWARFLAB                      	0x00000001026c220c ijk_threadpool_thread + 168 (ijkthreadpool.c:42)
+3   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+4   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 15:
+0   libsystem_kernel.dylib        	0x00000001d454f08c __psynch_cvwait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83436e4 _pthread_cond_wait + 1228 (pthread_cond.c:862)
+2   DWARFLAB                      	0x00000001026c220c ijk_threadpool_thread + 168 (ijkthreadpool.c:42)
+3   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+4   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 16 name:
+Thread 16 Crashed:
+0   DWARFLAB                      	0x00000001026d840c video_refresh_thread + 308 (ff_ffplay.c:3906)
+1   DWARFLAB                      	0x00000001026dfd00 SDL_RunThread + 56 (ijksdl_thread_ios.m:32)
+2   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+3   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 17:
+0   libsystem_kernel.dylib        	0x00000001d454fbcc __ulock_wait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83483d4 _pthread_join + 608 (pthread_cancelable.c:406)
+2   DWARFLAB                      	0x00000001026d0e04 SDL_WaitThread + 52 (ijksdl_thread.c:93)
+3   DWARFLAB                      	0x00000001026d1b34 stream_close + 260 (ff_ffplay.c:1130)
+4   DWARFLAB                      	0x00000001026d34c8 ffp_wait_stop_l + 76 (ff_ffplay.c:4534)
+5   DWARFLAB                      	0x00000001026e83bc ijkmp_shutdown_l + 84 (ijkplayer.c:304)
+6   DWARFLAB                      	0x00000001026ecf38 -[IJKFFMoviePlayerController shutdownWaitStop:] + 60 (IJKFFMoviePlayerController.m:583)
+7   Foundation                    	0x000000018a7fb428 __NSThread__start__ + 732 (NSThread.m:991)
+8   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+9   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+Thread 18:
+0   libsystem_kernel.dylib        	0x00000001d454f08c __psynch_cvwait + 8 (:-1)
+1   libsystem_pthread.dylib       	0x00000001e83436e4 _pthread_cond_wait + 1228 (pthread_cond.c:862)
+2   Foundation                    	0x000000018a74f5b0 -[_NSThreadPerformInfo wait] + 44 (NSThread.m:275)
+3   Foundation                    	0x000000018a74ee70 -[NSObject(NSThreadPerformAdditions) performSelector:onThread:withObject:waitUntilDone:modes:] + 720 (NSThread.m:1272)
+4   Foundation                    	0x000000018a74e5cc -[NSObject(NSThreadPerformAdditions) performSelectorOnMainThread:withObject:waitUntilDone:] + 112 (NSThread.m:1290)
+5   Foundation                    	0x000000018a7fb428 __NSThread__start__ + 732 (NSThread.m:991)
+6   libsystem_pthread.dylib       	0x00000001e834606c _pthread_start + 136 (pthread.c:931)
+7   libsystem_pthread.dylib       	0x00000001e83410d8 thread_start + 8 (:-1)
+
+
+Thread 16 crashed with ARM Thread State (64-bit):
+    x0: 0x0000000000000000   x1: 0xffffffffffffffff   x2: 0x0000000000000001   x3: 0x0000000000000001
+    x4: 0x0000000000000000   x5: 0x0000000000989680   x6: 0x0000000000000034   x7: 0x0000000000000000
+    x8: 0x000000000000003c   x9: 0x00000001ec206600  x10: 0x0000000000000011  x11: 0x0000000000000000
+   x12: 0x0000000000000000  x13: 0x0000000000000000  x14: 0x0000000000000000  x15: 0x0000000000000000
+   x16: 0x00000001d454914c  x17: 0x41a10001ed1e5188  x18: 0x0000000000000000  x19: 0x000000013dc1ee00
+   x20: 0x0000000000000001  x21: 0x000000010399c000  x22: 0x00000001432d0000  x23: 0x0000000000000000
+   x24: 0x0000000000000000  x25: 0x00000001432d0000  x26: 0x0000000000000000  x27: 0x0000000000000000
+   x28: 0x00000001433d1c98   fp: 0x00000001701eefa0   lr: 0x00000001026d840c
+    sp: 0x00000001701eee40   pc: 0x00000001026d840c cpsr: 0x60000000
+   esr: 0x92000007 (Data Abort) byte read Translation fault
+
+
+Binary Images:
+        0x100558000 -         0x1035d3fff DWARFLAB arm64  <5289eb5f45fa3fb6b6511bc843e04fc6> /private/var/containers/Bundle/Application/1813F6CD-B4AC-4ACE-BA3F-C08E59C9FF78/DWARFLAB.app/DWARFLAB
+        0x104940000 -         0x10497bfff SwiftProtobufPluginLibrary arm64  <f032356db71b3b3088ba588a08d5399d> /private/var/containers/Bundle/Application/1813F6CD-B4AC-4ACE-BA3F-C08E59C9FF78/DWARFLAB.app/Frameworks/SwiftProtobufPluginLibrary.framework/SwiftProtobufPluginLibrary
+        0x104ca0000 -         0x104cabfff libobjc-trampolines.dylib arm64e  <be553713db163c12aaa48fd6211e48ce> /private/preboot/Cryptexes/OS/usr/lib/libobjc-trampolines.dylib
+        0x104ef0000 -         0x10503bfff SwiftProtobuf arm64  <e3c27fc525d5306797a6956d3c707ad4> /private/var/containers/Bundle/Application/1813F6CD-B4AC-4ACE-BA3F-C08E59C9FF78/DWARFLAB.app/Frameworks/SwiftProtobuf.framework/SwiftProtobuf
+        0x1050a8000 -         0x105267fff Lottie arm64  <0a9c45e37652378fb398c6b9b8e0a0c3> /private/var/containers/Bundle/Application/1813F6CD-B4AC-4ACE-BA3F-C08E59C9FF78/DWARFLAB.app/Frameworks/Lottie.framework/Lottie
+        0x105310000 -         0x105583fff CStarMapEGL arm64  <90b0702f65d538509acb8458514cc352> /private/var/containers/Bundle/Application/1813F6CD-B4AC-4ACE-BA3F-C08E59C9FF78/DWARFLAB.app/Frameworks/CStarMapEGL.framework/CStarMapEGL
+        0x18a198000 -         0x18a6e7fff libswiftCore.dylib arm64e  <42ba5407c1fe30888d7d0b89f6b541e1> /usr/lib/swift/libswiftCore.dylib
+        0x18a71d000 -         0x18b292fff Foundation arm64e  <d27a6ec5943c3b0e8d158840fd2914f0> /System/Library/Frameworks/Foundation.framework/Foundation
+        0x18b871000 -         0x18bd9efff CoreFoundation arm64e  <76a3b1983c09323e83590d4978e156f5> /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+        0x18c9a7000 -         0x18cd83fff CFNetwork arm64e  <371394cd79f23216acb0a159c09c668d> /System/Library/Frameworks/CFNetwork.framework/CFNetwork
+        0x18daf3000 -         0x18f614fff UIKitCore arm64e  <9da0d27355063712b73de0149d74c13c> /System/Library/PrivateFrameworks/UIKitCore.framework/UIKitCore
+        0x1937de000 -         0x19385bff3 libsystem_c.dylib arm64e  <7135c2c8ba5836368b46a9e6226ead45> /usr/lib/system/libsystem_c.dylib
+        0x194cab000 -         0x194de8ff7 Combine arm64e  <3a6ba6ff5fc53108b01d57c4d4bfb4a5> /System/Library/Frameworks/Combine.framework/Combine
+        0x196bed000 -         0x196c58ff3 libswift_Concurrency.dylib arm64e  <a0c8b4070abf3c28a54cfe8b1d3fa7ac> /usr/lib/swift/libswift_Concurrency.dylib
+        0x1985c9000 -         0x198a97fff CoreMotion arm64e  <5d6e7429116638b3807bdfad246f9132> /System/Library/Frameworks/CoreMotion.framework/CoreMotion
+        0x1d4548000 -         0x1d4581fef libsystem_kernel.dylib arm64e  <21ee5290d1193c31b948431865a67738> /usr/lib/system/libsystem_kernel.dylib
+        0x1e8340000 -         0x1e834cff3 libsystem_pthread.dylib arm64e  <e4a9d6dbf93b3c88bdd185671ec22e2b> /usr/lib/system/libsystem_pthread.dylib
+        0x1fffbe000 -         0x2000dcfff RenderBox arm64e  <8724fcb1bb703f829024639edf3dc077> /System/Library/PrivateFrameworks/RenderBox.framework/RenderBox
+
+EOF
