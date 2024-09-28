@@ -1,20 +1,22 @@
 #include <stdio.h>
 
 #ifndef IMPORT_FROM_LIB
-#define IMPORT_FROM_LIB 0
+#define IMPORT_FROM_LIB 1
 #endif
 
 #if IMPORT_FROM_LIB
-// C 语言引用 CocoaPod 编译出来的静态库 libexample.a 和 example.framework
+// C 语言引用 CocoaPod 编译出来的静态库 libexample.a, example.framework 和 动态库 dynamic.framework
 //      => gcc main.c -I<头文件目录> -L<静态库目录> -l<静态库名称(不包含前缀 lib + 后缀 .a)>
-// 1. libexample.a
+// 1. 静态库 libexample.a
 //      => gcc main.c -I./lib/example -Llib -lexample 
-// 2. example.framework
+// 2. 静态库 example.framework
 //  2.1 需要先做一个软连接, 符合上面的静态库名称格式
 //      => ln -s example libexample.a 
 //      => gcc main.c -I./lib/example.framework/Headers -Llib/example.framework -lexample
 //  2.2 也可以通过直接链接文件具体路径的方式
 //      => gcc main.c -I./lib/example.framework/Headers ./lib/example.framework/example
+// 3. 动态库 dynamic.framework
+//      => gcc main.c -I./lib/dynamic.framework/Headers ./lib/dynamic.framework/dynamic -rpath lib
 #include <example.h> 
 #else
 #include "undefine.h"
@@ -33,6 +35,3 @@ int main() {
     test_undefined_symbol();
     return 0;
 }
-
-
-
