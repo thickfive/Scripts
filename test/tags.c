@@ -14,3 +14,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 git tag -d detached-tag-20241017
 // 推送到远端
 git push origin :refs/tags/detached-tag-20241017
+// 推送所有标签
+git push --tag
+// 推送所有分支和标签
+git push --all
