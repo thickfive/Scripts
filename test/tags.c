@@ -6,6 +6,10 @@ git push origin :refs/tags/detached-tag-20241017
 git push --tag
 // 推送所有分支(和标签?)
 git push --all
+
+// 推送所有分支(和标签?)
+git push --mirror
+
 // 事实表明, git push --all 推送不了游离的分支标签
 ```
  vvii@macbookpro  ~/Desktop/OpenSource/Scripts  ↱ master  git push --all                                                                                             
