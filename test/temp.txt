@@ -10,3 +10,6 @@ to do so with:
 
 Switched to branch 'master'
 Your branch is up to date with 'origin/master'.
+
+// tag2
+git tag detached-tag-20241017-002
