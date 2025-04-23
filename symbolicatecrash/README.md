@@ -21,6 +21,7 @@
 `$ dwarfdump --debug-info Mixed.app.dSYM | less > dSYM.info`
 
 ### 以下面崩溃日志文件为例, 进行计算
+```
 ...
 Thread 0 Crashed:
 0   libswiftCore.dylib                0x0000000181585ac4 0x18154d000 + 232132
@@ -38,6 +39,7 @@ Binary Images:
 `0x104df8000` - 0x105ea7fff Mixed arm64  <f1e12872a1bb3a6d8b36586ec76bfc50> /private/var/containers/Bundle/Application/240A978B-AF03-4BEC-8916-BA4361AE3358/Mixed.app/Mixed
 0x1072e4000 - 0x1072effff libobjc-trampolines.dylib arm64e  <3eb26cf9922139f583d40c8ae83d3424> /private/preboot/Cryptexes/OS/usr/lib/libobjc-trampolines.dylib
 ...
+```
 
 可以看到:  
 实际崩溃地址 = 实际基地址 + 偏移（0x0000000104e806ac = 0x104df8000 + 558764，这里 558764 转成 16 进制为 0x886AC）  
