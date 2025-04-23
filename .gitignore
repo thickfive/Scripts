@@ -1,5 +1,3 @@
-tmp
-
 # node_modules
 node_modules/
 local-server/public/video/
@@ -74,3 +72,6 @@ fastlane/test_output
 fastlane/keys
 
 # ==========
+cache
+*.tmp
+*.temp

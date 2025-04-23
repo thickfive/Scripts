@@ -14,8 +14,15 @@
 `$ /Applications/Xcode.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/symbolicatecrash apple.crash Mixed.app.dSYM > symbolicated.log`  
 作用完全一样, 上面的脚本本来就是从系统里面复制出来的
 
+## 2. 使用 `CrashSymbolicator.py` 脚本
+`$ python3 '/Applications/Xcode.app/Contents/SharedFrameworks/CoreSymbolicationDT.framework/Versions/A/Resources/CrashSymbolicator.py' -d Mixed.app.dSYM -p '/Users/vvii/Downloads/Mixed-2025-04-24-005627.ips' > symbolicated.ips`  
+使用方法差不多, 输出文件的扩展名设置为ips, 把开头类似 `Symbolicating thread xxxxxxx` 的都删掉, 然后使用系统的Console应用打开，变化自动转换成之前的易读格式   
+[iOS dSYM详解和分析crash，ips文件](https://blog.csdn.net/Android_liangyi/article/details/126782255)  
+[iOS 崩溃符号化工具- iOS 15 CrashSymbolicator](https://juejin.cn/post/7030619552211795982)  
+⭐️ 这种方式显示的文件行号最准确 
 
-## 2. 手动计算崩溃地址
+
+## 3. 手动计算崩溃地址
 
 ### 输出 dSYM 文件信息
 `$ dwarfdump --debug-info Mixed.app.dSYM | less > dSYM.info`
