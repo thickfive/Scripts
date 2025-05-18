@@ -19,8 +19,8 @@
 #     echo "ARG=[$ARG], OPTIND=[$OPTIND] OPTARG=[$OPTARG]"
 # done
 
-# Mac 版本的 getopt 与 gun-getopt 实现不一样, 整理参数, 具体逻辑需要自己实现
-# set -- 清空参数, nu-getopt 参数尾部自动添加 -- 并将多余参数移动到 -- 之后
+# Mac 版本的 getopt 与 gnu-getopt 实现不一样, 整理参数, 具体逻辑需要自己实现
+# set -- 重置参数, gnu-getopt 参数尾部自动添加 -- 并将多余参数移动到 -- 之后
 set -- $(gnu-getopt -o a:n: -l age:,name: -- "$@") 
 echo "gnu-getopt 整理过后的参数: $@"
 while true; do

@@ -75,3 +75,7 @@ fastlane/keys
 cache
 *.tmp
 *.temp
+temp.*
+*.crash
+*.ips
+*.log

@@ -12,7 +12,7 @@ from datetime import datetime
 # 系数的计算: x 和 y 的取值范围为 0 到 N-1, Σx Σy (C(u)C(v) * cos[(2x+1)uπ / (2N)] * cos[(2y+1)vπ / (2N)]) ^ 2 = 1
 # dct
 def discrete_cosine_transform(f):
-    F = np.full((8, 8), 0)
+    F = np.full((8, 8), 0, dtype=np.float64)
     for u in range(8):
         for v in range(8):
             cu = np.sqrt(1 / 8) if u == 0 else np.sqrt(2 / 8)
@@ -32,7 +32,7 @@ def dct(f):
 # 不同之处在于循环时 x, y 与 u, v 的顺序调换, 其他参数计算方式不变
 # idct
 def inverse_discrete_cosine_transform(F):
-    f = np.full((8, 8), 0)
+    f = np.full((8, 8), 0, dtype=np.float64)
     for x in range(8):
         for y in range(8):
             sum = 0
@@ -86,6 +86,8 @@ print("🟩 =====>>>>> origin image 8x8")
 print(origin_image_8x8)
 print("🟨 =====>>>>> dct image")
 print(dct(origin_image_8x8))
+print("🟩 =====>>>>> idct image 8x8")
+print(idct(dct(origin_image_8x8)))
 print("🟦 =====>>>>> encoded image: dct + quantization")
 print(quantization(dct(origin_image_8x8)))
 print("🟨 =====>>>>> inverse quantization")
@@ -95,7 +97,7 @@ print(idct(inverse_quantization(quantization(dct(origin_image_8x8)))))
 
 # 模拟 jpeg 压缩/解压图片, 512x512 的图片大约需要 40s
 def encode_and_decode_jpeg_image():
-    image = np.array(Image.open('image2.png'))
+    image = np.array(Image.open('image.png'))
     gary_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY) # red_gary_image = image[:, :, 0]
 
     image_w, image_h = gary_image.shape
