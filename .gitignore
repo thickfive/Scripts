@@ -79,3 +79,4 @@ temp.*
 *.crash
 *.ips
 *.log
+output/
