@@ -56,7 +56,7 @@ def download_file(url):
     print("🚥 开始下载文件...")
     params = {} # url 已经带了必要的参数, 不需要额外参数
     response = requests.get(url, headers=headers, params=params, stream=True)
-    if response.status_code == 200 or response.status_code == 206:
+    if response.status_code in (200, 206):
         print("🚥 文件写入中...")
         filename = "output/music.mp3"
         # 获取文件总大小（如果服务器提供 Content-Length 头）
