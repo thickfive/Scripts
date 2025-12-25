@@ -1,0 +1,5 @@
+{
+    "code": 200,
+    "message": "error info message",
+    "data": ["0", "1.5e2, null, true, {}"]
+}

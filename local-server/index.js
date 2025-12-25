@@ -1,3 +1,4 @@
+const os = require('os')
 const fs = require('fs')
 const path = require('path')
 const express = require('express')
@@ -70,7 +71,7 @@ app.post('/uploadCrash', multer({dest: 'crash/cache'}).single('reports'), functi
                 }
             } else if (typeof crash == 'string') { // apple 格式
                 fs.writeFile('apple.crash', crash, (err) => {
-                    console.log(err, '> apple.crash')
+                    console.log(` ${crash.length} > apple.crash, error: ${err}`)
                 })
             }
             console.log("==================== crash info <<<<<<<<<<<<<<<<<<<<\n")
@@ -82,7 +83,33 @@ app.post('/uploadCrash', multer({dest: 'crash/cache'}).single('reports'), functi
 
 app.use('/test', function (req, res, next) {
     res.status(200)
-    res.json({"msg": "ok"})
+    let data = fs.readFileSync("./response.json")
+    setTimeout(() => {
+        res.send(data)
+    }, 1000)
+    console.log(String(data))
+})
+
+app.use('/test2', (req, res) => {
+    res.status(200)
+    // 必须设置这些头，让浏览器知道是分块传输
+    res.set({
+        'Content-Type': 'text/plain; charset=utf-8',
+        'Transfer-Encoding': 'chunked',  // 关键：启用 chunked
+        'Cache-Control': 'no-cache',
+    });
+    setTimeout(() => {
+        // let timeoutIntervalForRequest = 15 // 表示每一次 write 间隔不能超过 15s
+        // let timeoutIntervalForResource = 60 // 总超时时间, 从请求开始到结束不能超过 60s
+        // 先发送第一部分
+        res.write('Hello');
+        res.write(' ');
+        setTimeout(() => {
+            // 再发送第二部分
+            res.write('World');
+            res.end();  // 必须调用 end() 结束响应
+        }, 16 * 1000);
+    }, 14 * 1000);
 })
 
 app.use('/video', function (req, res, next) {
@@ -122,6 +149,24 @@ app.use('/video', function (req, res, next) {
 
 app.use(express.static('public'))
 
+function getLocalIP() {
+    const interfaces = os.networkInterfaces();
+    for (let devName in interfaces) {
+        const iface = interfaces[devName];
+        for (let i = 0; i < iface.length; i++) {
+            const alias = iface[i];
+            // 筛选条件：IPv4、非回环地址、且是有效的地址
+            if (alias.family === 'IPv4' && alias.address !== '127.0.0.1' && !alias.internal) {
+                return alias.address;
+            }
+        }
+    }
+}
+
 app.listen(8088, () => {
-    console.log("express server running at: http://127.0.0.1:8088") // http://192.168.1.100:8088
+    const localhost = getLocalIP() || "127.0.0.1"
+    console.log(`express server running at: ${localhost}:8088`)
 })
+
+
+

@@ -80,3 +80,4 @@ temp.*
 *.ips
 *.log
 output/
+temp/
