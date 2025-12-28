@@ -163,9 +163,9 @@ function getLocalIP() {
     }
 }
 
-app.listen(8088, () => {
+app.listen(8000, () => {
     const localhost = getLocalIP() || "127.0.0.1"
-    console.log(`express server running at: ${localhost}:8088`)
+    console.log(`express server running at: ${localhost}:8000`)
 })
 
 
